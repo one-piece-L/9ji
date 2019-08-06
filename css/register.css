@@ -1,0 +1,132 @@
+@charset "UTF-8";
+.contain {
+  width: 960px;
+  font-family: 'Microsoft YaHei';
+}
+
+.log_head {
+  height: 80px;
+  overflow: hidden;
+}
+.log_head .log_logo {
+  height: 80px;
+  width: 220px;
+}
+.log_head .log_logo a {
+  position: relative;
+  width: 400px;
+  height: 80px;
+  display: block;
+  padding: 15px 0;
+}
+.log_head .log_logo span {
+  text-decoration: none;
+  color: #c80f1e;
+  font-weight: normal;
+  font-size: 24px;
+  position: absolute;
+  top: 23px;
+  left: 140px;
+  line-height: 36px;
+  border-left: 2px solid #d6d6d6;
+  padding-left: 40px;
+}
+
+/* ---------------琛ㄥ崟-------- */
+.login_wrap {
+  background: #fff url(//img2.ch999img.com//images/reg_bg.png?v=1) no-repeat right center;
+  border: solid 8px #f0f0f0;
+  min-height: 340px;
+  margin-bottom: 20px;
+  padding-bottom: 30px;
+}
+.login_wrap .zhuce-tab {
+  cursor: pointer;
+  font-size: 16px;
+  color: #999;
+  background: #eee;
+  display: inline-block;
+}
+.login_wrap .zhuce-tab ul li {
+  float: left;
+  height: 40px;
+  line-height: 40px;
+  padding: 0 20px;
+  border-right: solid 1px #ddd;
+}
+.login_wrap .zhuce-tab .xz {
+  border-top: solid 2px #c80f1e;
+  font-size: 16px;
+  color: #666;
+  background: #fff;
+}
+.login_wrap .regtip {
+  margin: 10px 10px 0 0;
+  text-shadow: 0 1px 0 #fff;
+}
+.login_wrap .regtip a {
+  background: #9c3;
+  color: #fff;
+  margin-left: 5px;
+  padding: 2px;
+  text-shadow: none;
+}
+.login_wrap .xxknr .reg dl {
+  line-height: 30px;
+  margin-top: 15px;
+  min-height: 30px;
+}
+.login_wrap .xxknr .reg dl dt {
+  color: #999;
+  float: left;
+  height: 30px;
+  line-height: 30px;
+  text-align: right;
+  width: 100px;
+}
+.login_wrap .xxknr .reg dl dt i {
+  color: #f33;
+}
+.login_wrap .xxknr .reg dl dd {
+  margin-left: 110px;
+}
+.login_wrap .xxknr .reg dl dd input[type=text], .login_wrap .xxknr .reg dl dd input[type=password] {
+  border: solid 1px #ccc;
+  border-radius: 2px;
+  box-shadow: inset 0 2px #f3f3f3;
+  height: 28px;
+  line-height: 28px;
+  text-indent: 5px;
+  width: 240px;
+}
+.login_wrap .xxknr .reg dl dd em {
+  color: #999;
+  margin-left: 10px;
+}
+.login_wrap .xxknr .reg dl dd button {
+  background: #c80f1e;
+  border: 0;
+  border-radius: 3px;
+  outline: none;
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  height: 40px;
+  width: 160px;
+}
+.login_wrap .xxknr .btn {
+  margin-left: 10px;
+  border: 1px solid #dddddd;
+  padding: 0;
+  width: 106px;
+  height: 30px;
+  background: #f4f4f4;
+  margin-top: 0;
+  text-align: center;
+  line-height: 30px;
+  color: #333;
+  text-decoration: none;
+  display: inline-block;
+}
+
+/*# sourceMappingURL=register.css.map */

@@ -1,0 +1,2041 @@
+{
+    "code": 0,
+    "msg": "SUCCESS",
+    "userMsg": "请求成功",
+    "dialog": {},
+    "data": {
+        "hasGift": false,
+        "analyzer": [],
+        "product": {
+            "totalCount": 72,
+            "currentPage": 1,
+            "totalPage": 4,
+            "list": [
+                {
+                    "id": 77775,
+                    "productId": 39876,
+                    "ppid": 77775,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190614143102844.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "华为 nova 5 Pro 全网通版 亮黑色 8GB+128GB ",
+                    "profile": "【火热销售】专享免息分期,3200万人像超夜景，4800万AI四摄",
+                    "price": "2999",
+                    "priceText": "2999",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 1068,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "99%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {
+                        "price": "2599",
+                        "url": "https://m.9ji.com/bargain/list?productId=39876"
+                    },
+                    "secondHand": {
+                        "price": "2899",
+                        "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=77868"
+                    },
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "40W超级快充",
+                        "屏幕指纹",
+                        "后置四摄"
+                    ],
+                    "hintTags": [
+                        {
+                            "type": 2,
+                            "prefix": "",
+                            "suffix": "",
+                            "text": "免息分期"
+                        }
+                    ],
+                    "rank": {
+                        "has": true,
+                        "link": "https://m.9ji.com/product/hot/rank?cid=2",
+                        "text": "手机单品当日销量第2名"
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/77775.html"
+                },
+                {
+                    "id": 77188,
+                    "productId": 39532,
+                    "ppid": 77188,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190618233314811.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "一加手机7 Pro 全网通版 星雾蓝 8GB+256GB ",
+                    "profile": "【火热销售】屏幕最高90Hz刷新率，UFS 3.0双通道闪存",
+                    "price": "4499",
+                    "priceText": "4499",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 816,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "98%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "高通骁龙855",
+                        "4800万超广角三摄",
+                        "HDR10+超清屏幕"
+                    ],
+                    "hintTags": [
+                        {
+                            "type": 2,
+                            "prefix": "",
+                            "suffix": "",
+                            "text": "免息分期"
+                        }
+                    ],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/77188.html"
+                },
+                {
+                    "id": 75359,
+                    "productId": 38904,
+                    "ppid": 75359,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190512230954370.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "华为 P30 全网通版 天空之境 8GB+128GB ",
+                    "profile": "【影像之美】后置徕卡三摄,麒麟980智慧大脑",
+                    "price": "4288",
+                    "priceText": "4288",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 1922,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "99%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {
+                        "price": "3499",
+                        "url": "https://m.9ji.com/bargain/list?productId=38904"
+                    },
+                    "secondHand": {
+                        "price": "2999",
+                        "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=75352"
+                    },
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "30倍变焦",
+                        "屏内指纹识别",
+                        "麒麟980"
+                    ],
+                    "hintTags": [
+                        {
+                            "type": 2,
+                            "prefix": "",
+                            "suffix": "",
+                            "text": "免息分期"
+                        }
+                    ],
+                    "rank": {
+                        "has": true,
+                        "link": "https://m.9ji.com/product/hot/rank?cid=2",
+                        "text": "手机单品当日销量第5名"
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/75359.html"
+                },
+                {
+                    "id": 78943,
+                    "productId": 40497,
+                    "ppid": 78943,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190726154446263.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "华为 Mate 20 X 5G版 翡冷翠 8GB+256GB ",
+                    "profile": "预订购机享价值699元华为备咖存储或选免息分期",
+                    "price": "6199",
+                    "priceText": "6199",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 0,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "预约",
+                        "color": "#C80F1E",
+                        "alpha": 0.5
+                    },
+                    "praiseRate": "",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "5G旗舰芯片",
+                        "5G双模全网通",
+                        "40W超级快充"
+                    ],
+                    "hintTags": [
+                        {
+                            "type": 2,
+                            "prefix": "",
+                            "suffix": "",
+                            "text": "免息分期"
+                        }
+                    ],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/78943.html"
+                },
+                {
+                    "id": 75367,
+                    "productId": 38935,
+                    "ppid": 75367,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190326225205984.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "华为 P30 Pro 全网通版 天空之境 8GB+128GB ",
+                    "profile": "【影像之美】超感光徕卡四摄，麒麟980智慧大脑",
+                    "price": "5488",
+                    "priceText": "5488",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 1595,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "99%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {
+                        "price": "5099",
+                        "url": "https://m.9ji.com/bargain/list?productId=38935"
+                    },
+                    "secondHand": {
+                        "price": "4549",
+                        "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=75367"
+                    },
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "50倍变焦",
+                        "屏内指纹",
+                        "防水防尘IP68"
+                    ],
+                    "hintTags": [
+                        {
+                            "type": 2,
+                            "prefix": "",
+                            "suffix": "",
+                            "text": "免息分期"
+                        }
+                    ],
+                    "rank": {
+                        "has": true,
+                        "link": "https://m.9ji.com/product/hot/rank?cid=2",
+                        "text": "手机单品当日销量第4名"
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/75367.html"
+                },
+                {
+                    "id": 71255,
+                    "productId": 37350,
+                    "ppid": 71255,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190618233513897.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "华为 Mate 20 Pro 全网通版 亮黑色 6GB+128GB ",
+                    "profile": "【现货热销】专享免息分期，40W超级快充",
+                    "price": "4499",
+                    "priceText": "4499",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 2935,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "99%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {
+                        "price": "3599",
+                        "url": "https://m.9ji.com/bargain/list?productId=37350"
+                    },
+                    "secondHand": {
+                        "price": "3399",
+                        "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=71255"
+                    },
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "30倍变焦",
+                        "无线充电",
+                        "海思麒麟980"
+                    ],
+                    "hintTags": [
+                        {
+                            "type": 2,
+                            "prefix": "",
+                            "suffix": "",
+                            "text": "免息分期"
+                        }
+                    ],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/71255.html"
+                },
+                {
+                    "id": 70946,
+                    "productId": 37205,
+                    "ppid": 70946,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190618233229692.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "华为 Mate 20 全网通版 亮黑色 6GB+64GB ",
+                    "profile": "【现货热销】专享免息分期，海思麒麟980",
+                    "price": "3199",
+                    "priceText": "3199",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 6111,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "99%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {
+                        "price": "2399",
+                        "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=71249"
+                    },
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "6.53英寸",
+                        "面部识别",
+                        "后置三摄"
+                    ],
+                    "hintTags": [
+                        {
+                            "type": 2,
+                            "prefix": "",
+                            "suffix": "",
+                            "text": "免息分期"
+                        }
+                    ],
+                    "rank": {
+                        "has": true,
+                        "link": "https://m.9ji.com/product/hot/rank?cid=2",
+                        "text": "手机单品当日销量第16名"
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/70946.html"
+                },
+                {
+                    "id": 68436,
+                    "productId": 35741,
+                    "ppid": 68436,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190618233138567.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "Apple iPhone XR 全网通版 黑色 64GB ",
+                    "profile": "【火热销售】官网最高直降1400",
+                    "price": "4799",
+                    "priceText": "4799",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 11689,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "99%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {
+                        "price": "4150",
+                        "url": "https://m.9ji.com/bargain/list?productId=35741"
+                    },
+                    "secondHand": {
+                        "price": "3950",
+                        "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=68436"
+                    },
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "双卡双待",
+                        "六种配色",
+                        "6.1英寸",
+                        "LCD屏幕"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": true,
+                        "link": "https://m.9ji.com/product/hot/rank?cid=2",
+                        "text": "手机单品当日销量第1名"
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/68436.html"
+                },
+                {
+                    "id": 68397,
+                    "productId": 35744,
+                    "ppid": 68397,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190618233537253.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "Apple iPhone XS Max 全网通版 金色 64GB ",
+                    "profile": "【火热销售】官网最高直降1700",
+                    "price": "7450",
+                    "priceText": "7450",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 7992,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "99%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {
+                        "price": "6550",
+                        "url": "https://m.9ji.com/bargain/list?productId=35744"
+                    },
+                    "secondHand": {
+                        "price": "6099",
+                        "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=68429"
+                    },
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "双卡双待",
+                        "6.5英寸",
+                        "A12仿生芯片",
+                        "IP68防水"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": true,
+                        "link": "https://m.9ji.com/product/hot/rank?cid=2",
+                        "text": "手机单品当日销量第8名"
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/68397.html"
+                },
+                {
+                    "id": 78889,
+                    "productId": 40478,
+                    "ppid": 78889,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190726163932660.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "华为 nova 5i Pro 全网通版 翡冷翠 8GB+128GB ",
+                    "profile": "购机享200元华为配件券或选免息分期",
+                    "price": "2499",
+                    "priceText": "2499",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 27,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "96%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "面部识别解锁",
+                        "后置四摄",
+                        "全面屏",
+                        "6.26英寸极点全面屏"
+                    ],
+                    "hintTags": [
+                        {
+                            "type": 2,
+                            "prefix": "",
+                            "suffix": "",
+                            "text": "免息分期"
+                        }
+                    ],
+                    "rank": {
+                        "has": true,
+                        "link": "https://m.9ji.com/product/hot/rank?cid=2",
+                        "text": "手机单品当日销量第12名"
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/78889.html"
+                },
+                {
+                    "id": 78046,
+                    "productId": 39939,
+                    "ppid": 78046,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190621164120689.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "华为 nova 5i 全网通版 苏音蓝 8GB+128GB ",
+                    "profile": "【火热销售】专享免息分期，更多优惠可到店参与或咨询在线客服",
+                    "price": "2199",
+                    "priceText": "2199",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 276,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "98%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "后置2400万AI四摄",
+                        "多点触控"
+                    ],
+                    "hintTags": [
+                        {
+                            "type": 2,
+                            "prefix": "",
+                            "suffix": "",
+                            "text": "免息分期"
+                        }
+                    ],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/78046.html"
+                },
+                {
+                    "id": 72961,
+                    "productId": 37869,
+                    "ppid": 72961,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190618233659486.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "华为 nova 4 全网通高配版 苏音蓝 8GB+128GB ",
+                    "profile": "【火热销售】6.4英寸极点全面屏，后置三摄，AI智慧美拍",
+                    "price": "2399",
+                    "priceText": "2399",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 1736,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "99%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {
+                        "price": "1850",
+                        "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=72963"
+                    },
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "海思麒麟970",
+                        "自拍极点全面屏"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/72961.html"
+                },
+                {
+                    "id": 71190,
+                    "productId": 37314,
+                    "ppid": 71190,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20181015155604540.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "华为畅享9 Plus 全网通版 幻夜黑 4GB+128GB ",
+                    "profile": "【四摄全面屏】1600万高清拍摄，4000mA超长续航",
+                    "price": "1499",
+                    "priceText": "1499",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 3748,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "99%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {
+                        "price": "1099",
+                        "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=71190"
+                    },
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "6.5英寸",
+                        "全面屏",
+                        "前置双摄",
+                        "麒麟710"
+                    ],
+                    "hintTags": [
+                        {
+                            "type": 2,
+                            "prefix": "",
+                            "suffix": "",
+                            "text": "免息分期"
+                        }
+                    ],
+                    "rank": {
+                        "has": true,
+                        "link": "https://m.9ji.com/product/hot/rank?cid=2",
+                        "text": "手机单品当日销量第9名"
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/71190.html"
+                },
+                {
+                    "id": 75047,
+                    "productId": 38666,
+                    "ppid": 75047,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/2019061823374895.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "华为 nova 4e 全网通版 雀翎蓝 6GB+128GB ",
+                    "profile": "【火热销售】专享免息分期，海思麒麟710，6.15英寸珍珠全面屏",
+                    "price": "1799",
+                    "priceText": "1799",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 1351,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "98%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {
+                        "price": "1350",
+                        "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=75045"
+                    },
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "3200万立体美颜",
+                        "AI超广角三摄",
+                        "3D曲面玻璃"
+                    ],
+                    "hintTags": [
+                        {
+                            "type": 2,
+                            "prefix": "",
+                            "suffix": "",
+                            "text": "免息分期"
+                        }
+                    ],
+                    "rank": {
+                        "has": true,
+                        "link": "https://m.9ji.com/product/hot/rank?cid=2",
+                        "text": "手机单品当日销量第6名"
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/75047.html"
+                },
+                {
+                    "id": 57642,
+                    "productId": 30918,
+                    "ppid": 57642,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190618233938343.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "Apple iPhone 8 全网通版 金色 64GB ",
+                    "profile": "【火热销售】官网最高直降1100，无线充电",
+                    "price": "3499",
+                    "priceText": "3499",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 12134,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "98%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {
+                        "price": "2899",
+                        "url": "https://m.9ji.com/bargain/list?productId=30918"
+                    },
+                    "secondHand": {
+                        "price": "2299",
+                        "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=57642"
+                    },
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "A11仿生",
+                        "原彩显示",
+                        "触控ID",
+                        "经典之选"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": true,
+                        "link": "https://m.9ji.com/product/hot/rank?cid=2",
+                        "text": "手机单品当日销量第14名"
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/57642.html"
+                },
+                {
+                    "id": 57646,
+                    "productId": 30919,
+                    "ppid": 57646,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190618233621132.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "Apple iPhone 8 Plus 全网通版 金色 64GB ",
+                    "profile": "【火热销售】官网最高直降1200，A11仿生芯片",
+                    "price": "4399",
+                    "priceText": "4399",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 20638,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "98%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {
+                        "price": "3299",
+                        "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=57646"
+                    },
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "原彩显示",
+                        "后置双摄",
+                        "触控ID"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": true,
+                        "link": "https://m.9ji.com/product/hot/rank?cid=2",
+                        "text": "手机单品当日销量第13名"
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/57646.html"
+                },
+                {
+                    "id": 57640,
+                    "productId": 30916,
+                    "ppid": 57640,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190520221525897.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "Apple iPhone X 全网通版 深空灰色 64GB ",
+                    "profile": "【火热销售】爆款特惠，3D结构光面容解锁",
+                    "price": "6499",
+                    "priceText": "6499",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 26596,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "99%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {
+                        "price": "5250",
+                        "url": "https://m.9ji.com/bargain/list?productId=30916"
+                    },
+                    "secondHand": {
+                        "price": "3999",
+                        "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=57640"
+                    },
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "A11仿生",
+                        "IP67防水",
+                        "5.8英寸",
+                        "OLED屏幕"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/57640.html"
+                },
+                {
+                    "id": 78044,
+                    "productId": 39975,
+                    "ppid": 78044,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190621164420496.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "华为 nova 5 全网通版 亮黑色 8GB+128GB ",
+                    "profile": "【火热销售】3200万人像超夜景，4800万AI四摄",
+                    "price": "2799",
+                    "priceText": "2799",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 44,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "97%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "海思麒麟810",
+                        "华为40W超级闪充"
+                    ],
+                    "hintTags": [
+                        {
+                            "type": 2,
+                            "prefix": "",
+                            "suffix": "",
+                            "text": "免息分期"
+                        }
+                    ],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/78044.html"
+                },
+                {
+                    "id": 77664,
+                    "productId": 39814,
+                    "ppid": 77664,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190605160912909.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "华为 麦芒8 全网通版 幻夜黑 6GB+128GB ",
+                    "profile": "【无畏前行 视野全开】2400万超广角AI三摄，6.21英寸珍珠屏",
+                    "price": "1699",
+                    "priceText": "1699",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 49,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "97%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {
+                        "price": "1250",
+                        "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=77664"
+                    },
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "AI超级夜景",
+                        "面部识别解锁"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/77664.html"
+                },
+                {
+                    "id": 74734,
+                    "productId": 38632,
+                    "ppid": 74734,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/2019030615283289.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "魅族 Note9 全网通版 幻黑 4GB+64GB ",
+                    "profile": "【现货热销】18W mCharge 快充，高通骁龙675，4800万双摄",
+                    "price": "960",
+                    "priceText": "960",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 237,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "95%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "芯片级游戏优化",
+                        "高通骁龙675"
+                    ],
+                    "hintTags": [
+                        {
+                            "type": 2,
+                            "prefix": "",
+                            "suffix": "",
+                            "text": "免息分期"
+                        }
+                    ],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/74734.html"
+                }
+            ]
+        },
+        "searchTypes": [],
+        "screening": [
+            {
+                "id": 1,
+                "name": "品牌",
+                "value": [
+                    {
+                        "id": "7",
+                        "value": "",
+                        "name": "华为",
+                        "imagePath": "https://img2.ch999img.com//pic/product/210x90/201309270439540.jpg"
+                    },
+                    {
+                        "id": "1",
+                        "value": "",
+                        "name": "苹果",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170519185532_7641.jpg"
+                    },
+                    {
+                        "id": "1255",
+                        "value": "",
+                        "name": "荣耀",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20181107144138_6019.jpg"
+                    },
+                    {
+                        "id": "9",
+                        "value": "",
+                        "name": "小米",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170519185608_5405.jpg"
+                    },
+                    {
+                        "id": "11",
+                        "value": "",
+                        "name": "OPPO",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170519185654_0131.jpg"
+                    },
+                    {
+                        "id": "14",
+                        "value": "",
+                        "name": "vivo",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170519185640_5272.jpg"
+                    },
+                    {
+                        "id": "2",
+                        "value": "",
+                        "name": "三星",
+                        "imagePath": "https://img2.ch999img.com//pic/product/210x90/201309270439180.jpg"
+                    },
+                    {
+                        "id": "1154",
+                        "value": "",
+                        "name": "一加",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170519190414_7726.jpg"
+                    },
+                    {
+                        "id": "8",
+                        "value": "",
+                        "name": "魅族",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170519185626_6859.jpg"
+                    },
+                    {
+                        "id": "1155",
+                        "value": "",
+                        "name": "美图",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20171124100453_9358.jpg"
+                    },
+                    {
+                        "id": "3",
+                        "value": "",
+                        "name": "诺基亚",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170519190332_5117.jpg"
+                    },
+                    {
+                        "id": "1121",
+                        "value": "",
+                        "name": "努比亚",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170519190257_6812.jpg"
+                    },
+                    {
+                        "id": "1585",
+                        "value": "",
+                        "name": "黑鲨",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20180413174720_7016.jpg"
+                    },
+                    {
+                        "id": "1134",
+                        "value": "",
+                        "name": "锤子",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170519185918_6460.jpg"
+                    },
+                    {
+                        "id": "1363",
+                        "value": "",
+                        "name": "AGM旅行手机",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170623160642_6905.jpg"
+                    },
+                    {
+                        "id": "12",
+                        "value": "",
+                        "name": "中兴",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170522140030_3523.jpg"
+                    },
+                    {
+                        "id": "1230",
+                        "value": "",
+                        "name": "华硕",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170601141133_3590.jpg"
+                    },
+                    {
+                        "id": "77",
+                        "value": "",
+                        "name": "其他",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170623151406_3363.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "运行内存",
+                "value": [
+                    {
+                        "id": "3361",
+                        "value": "",
+                        "name": "4GB",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3362",
+                        "value": "",
+                        "name": "6GB",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3363",
+                        "value": "",
+                        "name": "8GB",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3358",
+                        "value": "",
+                        "name": "1GB",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3359",
+                        "value": "",
+                        "name": "2GB",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3360",
+                        "value": "",
+                        "name": "3GB",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3817",
+                        "value": "",
+                        "name": "10GB",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "4120",
+                        "value": "",
+                        "name": "12GB",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3381",
+                        "value": "",
+                        "name": "1G以下",
+                        "imagePath": ""
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "机身内存",
+                "value": [
+                    {
+                        "id": "3368",
+                        "value": "",
+                        "name": "64GB",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3369",
+                        "value": "",
+                        "name": "128GB",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3367",
+                        "value": "",
+                        "name": "32GB",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3364",
+                        "value": "",
+                        "name": "4GB",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3366",
+                        "value": "",
+                        "name": "16GB",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3370",
+                        "value": "",
+                        "name": "256GB",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3448",
+                        "value": "",
+                        "name": "512GB",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "4121",
+                        "value": "",
+                        "name": "1TB",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3382",
+                        "value": "",
+                        "name": "1GB以下",
+                        "imagePath": ""
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "屏幕尺寸范围",
+                "value": [
+                    {
+                        "id": "320",
+                        "value": "",
+                        "name": "6.5英寸以上",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3357",
+                        "value": "",
+                        "name": "6.0-6.5英寸",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "319",
+                        "value": "",
+                        "name": "5.6-5.99英寸",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "318",
+                        "value": "",
+                        "name": "5.5-5.0英寸",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3856",
+                        "value": "",
+                        "name": "4.9-4.1英寸",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "316",
+                        "value": "",
+                        "name": "4.0英寸及以下",
+                        "imagePath": ""
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "name": "指纹识别",
+                "value": [
+                    {
+                        "id": "1474",
+                        "value": "",
+                        "name": "不支持",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3442",
+                        "value": "",
+                        "name": "屏幕指纹",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "1476",
+                        "value": "",
+                        "name": "背面指纹",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "1477",
+                        "value": "",
+                        "name": "侧面指纹",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "1475",
+                        "value": "",
+                        "name": "正面指纹",
+                        "imagePath": ""
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "name": "产品特点",
+                "value": [
+                    {
+                        "id": "3392",
+                        "value": "",
+                        "name": "屏幕指纹",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3211",
+                        "value": "",
+                        "name": "面部识别解锁",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3356",
+                        "value": "",
+                        "name": "无线充电",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3210",
+                        "value": "",
+                        "name": "全面屏",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3948",
+                        "value": "",
+                        "name": "防水防尘",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3949",
+                        "value": "",
+                        "name": "液冷散热",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "4130",
+                        "value": "",
+                        "name": "折叠屏",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3444",
+                        "value": "",
+                        "name": "后置三摄像头",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3772",
+                        "value": "",
+                        "name": "后置四摄像头",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3198",
+                        "value": "",
+                        "name": "前置双摄像头",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3786",
+                        "value": "",
+                        "name": "前置三摄像头",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3947",
+                        "value": "",
+                        "name": "支持NFC",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3824",
+                        "value": "",
+                        "name": "曲面屏",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "2552",
+                        "value": "",
+                        "name": "虹膜识别",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "736",
+                        "value": "",
+                        "name": "三防手机",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "4109",
+                        "value": "",
+                        "name": "红外遥控",
+                        "imagePath": ""
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "name": "分辨率",
+                "value": [
+                    {
+                        "id": "3852",
+                        "value": "",
+                        "name": "1080p以上-2K",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3853",
+                        "value": "",
+                        "name": "全高清1080p",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3854",
+                        "value": "",
+                        "name": "高清720p",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3855",
+                        "value": "",
+                        "name": "标清720p以下",
+                        "imagePath": ""
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "name": "网络制式",
+                "value": [
+                    {
+                        "id": "4122",
+                        "value": "",
+                        "name": "5G全网通",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "401",
+                        "value": "",
+                        "name": "4G全网通",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "2771",
+                        "value": "",
+                        "name": "4G+全网通",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "464",
+                        "value": "",
+                        "name": "移动4G",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "475",
+                        "value": "",
+                        "name": "联通4G",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "526",
+                        "value": "",
+                        "name": "电信4G",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "399",
+                        "value": "",
+                        "name": "移动3G",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "396",
+                        "value": "",
+                        "name": "联通3G",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "403",
+                        "value": "",
+                        "name": "电信3G",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "395",
+                        "value": "",
+                        "name": "移动2G/联通2G",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "2766",
+                        "value": "",
+                        "name": "电信2G",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "2584",
+                        "value": "",
+                        "name": "单卡",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "397",
+                        "value": "",
+                        "name": "双卡",
+                        "imagePath": ""
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "name": "电池容量",
+                "value": [
+                    {
+                        "id": "3844",
+                        "value": "",
+                        "name": "4000-5999mAh",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3845",
+                        "value": "",
+                        "name": "3000-3999mAh",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3846",
+                        "value": "",
+                        "name": "2000-2999mAh",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3847",
+                        "value": "",
+                        "name": "1200-1999mAh",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3848",
+                        "value": "",
+                        "name": "1200mAh以下",
+                        "imagePath": ""
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "name": "后置摄像头",
+                "value": [
+                    {
+                        "id": "895",
+                        "value": "",
+                        "name": "2000万及以上",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "896",
+                        "value": "",
+                        "name": "1200万-1999万",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "897",
+                        "value": "",
+                        "name": "500万-1199万",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "898",
+                        "value": "",
+                        "name": "500万以下",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "901",
+                        "value": "",
+                        "name": "无摄像头",
+                        "imagePath": ""
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "name": "前置摄像头",
+                "value": [
+                    {
+                        "id": "3378",
+                        "value": "",
+                        "name": "2000万及以上",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3377",
+                        "value": "",
+                        "name": "1200万-1999万",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3376",
+                        "value": "",
+                        "name": "500万-1199万",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3375",
+                        "value": "",
+                        "name": "500万以下",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3379",
+                        "value": "",
+                        "name": "无摄像头",
+                        "imagePath": ""
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "name": "快速充电",
+                "value": [
+                    {
+                        "id": "1896",
+                        "value": "",
+                        "name": "支持",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "1897",
+                        "value": "",
+                        "name": "不支持",
+                        "imagePath": ""
+                    }
+                ]
+            },
+            {
+                "id": 13,
+                "name": "操作系统",
+                "value": [
+                    {
+                        "id": "311",
+                        "value": "",
+                        "name": "苹果",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "477",
+                        "value": "",
+                        "name": "安卓",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "390",
+                        "value": "",
+                        "name": "基础功能机",
+                        "imagePath": ""
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "name": "处理器品牌",
+                "value": [
+                    {
+                        "id": "3837",
+                        "value": "",
+                        "name": "苹果A系列",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3839",
+                        "value": "",
+                        "name": "高通骁龙",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3840",
+                        "value": "",
+                        "name": "海思麒麟",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3841",
+                        "value": "",
+                        "name": "联发科",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3842",
+                        "value": "",
+                        "name": "三星猎户座",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3865",
+                        "value": "",
+                        "name": "其它",
+                        "imagePath": ""
+                    }
+                ]
+            },
+            {
+                "id": 15,
+                "name": "核心数",
+                "value": [
+                    {
+                        "id": "66",
+                        "value": "",
+                        "name": "八核",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "71",
+                        "value": "",
+                        "name": "四核",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "69",
+                        "value": "",
+                        "name": "双核",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "616",
+                        "value": "",
+                        "name": "六核",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "68",
+                        "value": "",
+                        "name": "非智能",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "1831",
+                        "value": "",
+                        "name": "十核",
+                        "imagePath": ""
+                    }
+                ]
+            },
+            {
+                "id": 16,
+                "name": "机身厚度",
+                "value": [
+                    {
+                        "id": "3849",
+                        "value": "",
+                        "name": "7mm以下",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3850",
+                        "value": "",
+                        "name": "7mm-8.5mm",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "3851",
+                        "value": "",
+                        "name": "8.5mm以上",
+                        "imagePath": ""
+                    }
+                ]
+            },
+            {
+                "id": 17,
+                "name": "数据接口",
+                "value": [
+                    {
+                        "id": "40",
+                        "value": "",
+                        "name": "Lightning",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "1422",
+                        "value": "",
+                        "name": "Type-C",
+                        "imagePath": ""
+                    },
+                    {
+                        "id": "41",
+                        "value": "",
+                        "name": "Micro USB",
+                        "imagePath": ""
+                    }
+                ]
+            }
+        ],
+        "sort": [
+            {
+                "item": [
+                    {
+                        "id": 0,
+                        "name": "综合",
+                        "fullName": "综合排序",
+                        "order": [
+                            0
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "销量",
+                        "fullName": "按销量排序",
+                        "order": [
+                            0
+                        ]
+                    }
+                ]
+            },
+            {
+                "item": [
+                    {
+                        "id": 1,
+                        "name": "价格",
+                        "fullName": "价格",
+                        "order": [
+                            0,
+                            1
+                        ]
+                    }
+                ]
+            },
+            {
+                "item": [
+                    {
+                        "id": 2,
+                        "name": "最新上架",
+                        "fullName": "最新上架",
+                        "order": [
+                            0
+                        ]
+                    }
+                ]
+            }
+        ],
+        "cate": [
+            {
+                "id": 1,
+                "path": "",
+                "parentId": 0,
+                "name": "手机通讯",
+                "count": 0,
+                "children": [
+                    {
+                        "id": 2,
+                        "path": ",1,",
+                        "parentId": 1,
+                        "name": "手机",
+                        "count": 0,
+                        "children": []
+                    },
+                    {
+                        "id": 4,
+                        "path": ",1,",
+                        "parentId": 1,
+                        "name": "手机配件",
+                        "count": 0,
+                        "children": [
+                            {
+                                "id": 12,
+                                "path": ",1,4,",
+                                "parentId": 4,
+                                "name": "手机耳机",
+                                "count": 0,
+                                "children": []
+                            },
+                            {
+                                "id": 41,
+                                "path": ",1,4,",
+                                "parentId": 4,
+                                "name": "移动电源",
+                                "count": 0,
+                                "children": []
+                            },
+                            {
+                                "id": 43,
+                                "path": ",1,4,",
+                                "parentId": 4,
+                                "name": "手机保护壳",
+                                "count": 0,
+                                "children": [
+                                    {
+                                        "id": 217,
+                                        "path": ",1,4,43,",
+                                        "parentId": 43,
+                                        "name": "苹果保护壳",
+                                        "count": 0,
+                                        "children": []
+                                    },
+                                    {
+                                        "id": 218,
+                                        "path": ",1,4,43,",
+                                        "parentId": 43,
+                                        "name": "品牌保护壳",
+                                        "count": 0,
+                                        "children": []
+                                    },
+                                    {
+                                        "id": 385,
+                                        "path": ",1,4,43,",
+                                        "parentId": 43,
+                                        "name": "平板保护壳",
+                                        "count": 0,
+                                        "children": []
+                                    },
+                                    {
+                                        "id": 464,
+                                        "path": ",1,4,43,",
+                                        "parentId": 43,
+                                        "name": "华为保护壳",
+                                        "count": 0,
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 44,
+                                "path": ",1,4,",
+                                "parentId": 4,
+                                "name": "手机周边",
+                                "count": 0,
+                                "children": []
+                            },
+                            {
+                                "id": 63,
+                                "path": ",1,4,",
+                                "parentId": 4,
+                                "name": "手机贴膜",
+                                "count": 0,
+                                "children": [
+                                    {
+                                        "id": 219,
+                                        "path": ",1,4,63,",
+                                        "parentId": 63,
+                                        "name": "苹果保护膜",
+                                        "count": 0,
+                                        "children": []
+                                    },
+                                    {
+                                        "id": 220,
+                                        "path": ",1,4,63,",
+                                        "parentId": 63,
+                                        "name": "品牌保护膜",
+                                        "count": 0,
+                                        "children": []
+                                    },
+                                    {
+                                        "id": 386,
+                                        "path": ",1,4,63,",
+                                        "parentId": 63,
+                                        "name": "平板保护膜",
+                                        "count": 0,
+                                        "children": []
+                                    },
+                                    {
+                                        "id": 465,
+                                        "path": ",1,4,63,",
+                                        "parentId": 63,
+                                        "name": "华为保护膜",
+                                        "count": 0,
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 65,
+                                "path": ",1,4,",
+                                "parentId": 4,
+                                "name": "充电器",
+                                "count": 0,
+                                "children": []
+                            },
+                            {
+                                "id": 66,
+                                "path": ",1,4,",
+                                "parentId": 4,
+                                "name": "数据线",
+                                "count": 0,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "recommend": {},
+        "seo": {
+            "title": "九机网(9JI.COM)-原三九手机网,专业手机零售O2O平台,正品手机、笔记本、平板电脑，正品行货，确保低价，配送及时！",
+            "description": "九机网（原39手机网、999手机网）是专业手机零售O2O网站平台，为您提供正品行货手机、笔记本及平板电脑等产品。依托九机网强大的技术支持，为您提供优质售后服务，包括刷机、手机维修及正版软件安装。九机资讯为您提供手机评测、热门机型推荐、手机使用经验分享等全方位服务!",
+            "keyword": "九机网,九机,九机网,39手机网,999手机网,39,999,九机,39网,九机网,品牌手机,正品手机,行货手机,手机维修,手机评测,手机报价"
+        },
+        "recommendCate": [
+            {
+                "id": 2,
+                "name": "手机"
+            },
+            {
+                "id": 4,
+                "name": "手机配件"
+            }
+        ]
+    }
+}

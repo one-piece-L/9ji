@@ -1,0 +1,1332 @@
+{
+    "code": 0,
+    "msg": "SUCCESS",
+    "userMsg": "请求成功",
+    "dialog": {},
+    "data": {
+        "hasGift": false,
+        "analyzer": [],
+        "product": {
+            "totalCount": 40,
+            "currentPage": 1,
+            "totalPage": 2,
+            "list": [
+                {
+                    "id": 75146,
+                    "productId": 38848,
+                    "ppid": 75146,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190618234152187.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "Apple iPad mini 2019款 7.9 英寸 WiFi版 金色 64GB ",
+                    "profile": "【火热销售】官网直降，前置700万像素，A12仿生处理器",
+                    "price": "2699",
+                    "priceText": "2699",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 569,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "99%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "7.9 英寸视网膜显示屏"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/75146.html"
+                },
+                {
+                    "id": 54242,
+                    "productId": 29782,
+                    "ppid": 54242,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/2019061309311847.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
+                    "name": "苹果 MacBook Air 2017款 13.3英寸 银色 i5主频1.8GHz 8G 128G固态 集显 ",
+                    "profile": "【支持九机上门服务】12小时续航,待机时间更长",
+                    "price": "5288",
+                    "priceText": "5288",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 1478,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "98%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {
+                        "price": "4650",
+                        "url": "https://m.9ji.com/bargain/list?productId=29782"
+                    },
+                    "secondHand": {
+                        "price": "4199",
+                        "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=54242"
+                    },
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "九机上门",
+                        "酷睿i5 5350U",
+                        "8GB",
+                        "128G固态"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/54242.html"
+                },
+                {
+                    "id": 75134,
+                    "productId": 38846,
+                    "ppid": 75134,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190318215137935.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "Apple iPad Air 2019款 10.5 英寸 WiFi版 金色 64GB ",
+                    "profile": "【64位A12仿生处理器】10.5 英寸视网膜显示屏",
+                    "price": "3350",
+                    "priceText": "3350",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 320,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "98%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {
+                        "price": "2950",
+                        "url": "https://m.9ji.com/bargain/list?productId=38846"
+                    },
+                    "secondHand": {
+                        "price": "2999",
+                        "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=75134"
+                    },
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "四核图形引擎",
+                        "长时间续航"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/75134.html"
+                },
+                {
+                    "id": 71920,
+                    "productId": 37604,
+                    "ppid": 71920,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/2019021209124864.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "Apple iPad Pro 2018款 11英寸 wifi版 银色 64GB ",
+                    "profile": "【火热销售】全面新生！",
+                    "price": "5499",
+                    "priceText": "5499",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 167,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "99%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "面容ID",
+                        "四扬声器",
+                        "视网膜显示屏"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/71920.html"
+                },
+                {
+                    "id": 75152,
+                    "productId": 38849,
+                    "ppid": 75152,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190318232654593.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "Apple iPad mini 2019款 7.9 英寸 4G版 金色 64GB ",
+                    "profile": "【小身材 更有才】前置700万像素，64位A12仿生处理器",
+                    "price": "3599",
+                    "priceText": "3599",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 26,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "96%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "7.9 英寸",
+                        "视网膜显示屏"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/75152.html"
+                },
+                {
+                    "id": 75145,
+                    "productId": 38847,
+                    "ppid": 75145,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190318221728973.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "Apple iPad Air 2019款 10.5 英寸 4G版 深空灰色 256GB ",
+                    "profile": "【强劲在手，无论高手新手】64位A12仿生处理器",
+                    "price": "5699",
+                    "priceText": "5699",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 17,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "100%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "10.5 英寸",
+                        "视网膜显示屏"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/75145.html"
+                },
+                {
+                    "id": 63345,
+                    "productId": 33610,
+                    "ppid": 63345,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20180328023341569.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "Apple iPad 2018款 wifi版 金色 32GB ",
+                    "profile": "【火热销售】视网膜显示屏，A10芯片！",
+                    "price": "2260",
+                    "priceText": "2260",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 6975,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "99%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "9.7英寸",
+                        "2GB运存"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/63345.html"
+                },
+                {
+                    "id": 78605,
+                    "productId": 39780,
+                    "ppid": 78605,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/2019052816084526.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "苹果 MacBook Pro 2019款 Touch Bar版 13.3英寸 银色（HR2） i5主频1.4GHz 8G 256G固态 集显 ",
+                    "profile": "【支持九机上门服务】2019款MacBook Pro！",
+                    "price": "9999",
+                    "priceText": "9999",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 17,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "100%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "九机上门",
+                        "酷睿i5",
+                        "8GB",
+                        "256G固态"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/78605.html"
+                },
+                {
+                    "id": 71949,
+                    "productId": 37607,
+                    "ppid": 71949,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20181031011840431.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "Apple iPad Pro 2018款 12.9英寸 4G版 深空灰色 256GB ",
+                    "profile": "【全面新生】全面屏设计，面容ID解锁，A12X仿生",
+                    "price": "9350",
+                    "priceText": "9350",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 10,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "100%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {
+                        "price": "8550",
+                        "url": "https://m.9ji.com/bargain/list?productId=37607"
+                    },
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "四扬声器",
+                        "视网膜显示屏"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/71949.html"
+                },
+                {
+                    "id": 71945,
+                    "productId": 37606,
+                    "ppid": 71945,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20181031010541338.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "Apple iPad Pro 2018款 12.9英寸 wifi版 深空灰色 1TB ",
+                    "profile": "【全面新生】全面屏设计，面容ID解锁，A12X仿生",
+                    "price": "11799",
+                    "priceText": "11799",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 55,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "96%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {
+                        "price": "7250",
+                        "url": "https://m.9ji.com/bargain/list?productId=37606"
+                    },
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "四扬声器",
+                        "视网膜显示屏"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/71945.html"
+                },
+                {
+                    "id": 71934,
+                    "productId": 37605,
+                    "ppid": 71934,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20181031000533286.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "Apple iPad Pro 2018款 11英寸 4G版 银色 512GB ",
+                    "profile": "【全面新生】全面屏设计，A12X仿生",
+                    "price": "9299",
+                    "priceText": "9299",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 17,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "100%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "四扬声器",
+                        "视网膜显示屏"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/71934.html"
+                },
+                {
+                    "id": 63354,
+                    "productId": 33611,
+                    "ppid": 63354,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20180328025700797.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "Apple iPad 2018款 4G版 金色 128GB ",
+                    "profile": "【爆款】9.7英寸，可用APPle Pencil",
+                    "price": "3850",
+                    "priceText": "3850",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 268,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "98%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "A10 芯片",
+                        "2GB运存"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/63354.html"
+                },
+                {
+                    "id": 78608,
+                    "productId": 40293,
+                    "ppid": 78608,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20181031094553478.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "苹果 MacBook Air 2019款 13.3英寸 深空灰（FH2） i5主频1.6GHz 8G 128G固态 集显 ",
+                    "profile": "【支持九机上门服务】全新Air！新增触控ID！",
+                    "price": "7999",
+                    "priceText": "7999",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 15,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "100%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "九机上门",
+                        "酷睿i5 八代",
+                        "8GB",
+                        "128G固态"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/78608.html"
+                },
+                {
+                    "id": 54159,
+                    "productId": 29747,
+                    "ppid": 54159,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20170609100424279.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "Apple iPad Pro 10.5 4G版 深空灰色 64GB ",
+                    "profile": "【10.5寸视网膜屏幕】重量不足五百克,却性能强劲！",
+                    "price": "4399",
+                    "priceText": "4399",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 98,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "98%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {
+                        "price": "3199",
+                        "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=54157"
+                    },
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "A10X",
+                        "10.5英寸",
+                        "2GB运存"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/54159.html"
+                },
+                {
+                    "id": 77343,
+                    "productId": 39710,
+                    "ppid": 77343,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190522110247115.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "苹果 Macbook Pro 2019款 Touch Bar版 15.4英寸 银色（922） i7主频2.6GHz 16G 256G固态 555X ",
+                    "profile": "【支持九机上门服务】2019款MacBook Pro，升级九代CPU！",
+                    "price": "14999",
+                    "priceText": "14999",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 19,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "100%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "九机上门",
+                        "酷睿i7",
+                        "16GB",
+                        "256G固态"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/77343.html"
+                },
+                {
+                    "id": 71918,
+                    "productId": 37602,
+                    "ppid": 71918,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20181031094553478.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "苹果 MacBook Air 2018款 13.3英寸 深空灰 (E82) i5主频1.6GHz 8G 128G固态 集显 ",
+                    "profile": "【支持九机上门服务】全新Air！新增触控ID！",
+                    "price": "7599",
+                    "priceText": "7599",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 78,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "97%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {
+                        "price": "6899",
+                        "url": "https://m.9ji.com/bargain/list?productId=37602"
+                    },
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "九机上门",
+                        "酷睿i5 八代",
+                        "8GB",
+                        "128G固态"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/71918.html"
+                },
+                {
+                    "id": 73281,
+                    "productId": 38165,
+                    "ppid": 73281,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20181227095329250.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "苹果 MacBook 12英寸 金色 M3主频1.2GHz 8G 256G固态 集显 ",
+                    "profile": "【支持九机上门服务】可免费安装win10和MAC双系统",
+                    "price": "8388",
+                    "priceText": "8388",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 10,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "100%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "九机上门",
+                        "酷睿M3 7Y32",
+                        "8GB",
+                        "256G固态"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/73281.html"
+                },
+                {
+                    "id": 75191,
+                    "productId": 38866,
+                    "ppid": 75191,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/2019032014130395.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "苹果 iMac 2019款 21.5英寸一体机 银色（T32） i3主频3.6GHz 8G 1TB 555X ",
+                    "profile": "【支持九机上门服务】视网膜4K显示屏，第八代i3处理器",
+                    "price": "8999",
+                    "priceText": "8999",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 13,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "100%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "九机上门",
+                        "酷睿i3",
+                        "1TB",
+                        "8G"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/75191.html"
+                },
+                {
+                    "id": 66763,
+                    "productId": 34926,
+                    "ppid": 66763,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20180725140150704.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "苹果 Macbook Pro 2018款Touch Bar版 13.3英寸 银色 i5主频2.3GHz 8G 256G固态 集显 ",
+                    "profile": "【支持九机上门服务】2018款MacBook Pro！更强劲！更专业的强劲。",
+                    "price": "10699",
+                    "priceText": "10699",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 34,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "100%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "九机上门",
+                        "酷睿i5 8259U",
+                        "8GB",
+                        "256G固态"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/66763.html"
+                },
+                {
+                    "id": 75199,
+                    "productId": 38867,
+                    "ppid": 75199,
+                    "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190320141343391.jpg",
+                    "promotionImage": "",
+                    "promotionImage2": "",
+                    "name": "苹果 iMac 2019款 27英寸一体机 银色（QY2） i5主频3.0GHz 8G 1TB 570X ",
+                    "profile": "【支持九机上门服务】视网膜5K显示屏，第九代i5处理器",
+                    "price": "12799",
+                    "priceText": "12799",
+                    "installment": "",
+                    "consultCount": 0,
+                    "commentCount": 12,
+                    "stockName": "",
+                    "productStatus": {
+                        "text": "",
+                        "color": "",
+                        "alpha": 0
+                    },
+                    "praiseRate": "100%",
+                    "hasAppPrice": false,
+                    "newProduct": {},
+                    "bargain": {},
+                    "secondHand": {},
+                    "nameTag": "",
+                    "hspid": 0,
+                    "tag": [
+                        "九机上门",
+                        "酷睿i5",
+                        "1TB",
+                        "8G"
+                    ],
+                    "hintTags": [],
+                    "rank": {
+                        "has": false,
+                        "link": "",
+                        "text": ""
+                    },
+                    "colors": [],
+                    "soldFlag": false,
+                    "url": "https://m.9ji.com/product/75199.html"
+                }
+            ]
+        },
+        "searchTypes": [],
+        "screening": [
+            {
+                "id": 1,
+                "name": "品牌",
+                "value": [
+                    {
+                        "id": "1",
+                        "value": "",
+                        "name": "苹果",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170519185532_7641.jpg"
+                    },
+                    {
+                        "id": "7",
+                        "value": "",
+                        "name": "华为",
+                        "imagePath": "https://img2.ch999img.com//pic/product/210x90/201309270439540.jpg"
+                    },
+                    {
+                        "id": "9",
+                        "value": "",
+                        "name": "小米",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170519185608_5405.jpg"
+                    },
+                    {
+                        "id": "6",
+                        "value": "",
+                        "name": "联想",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170601140359_7701.jpg"
+                    },
+                    {
+                        "id": "68",
+                        "value": "",
+                        "name": "华硕",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170601140818_9617.jpg"
+                    },
+                    {
+                        "id": "71",
+                        "value": "",
+                        "name": "戴尔",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170601141500_9602.jpg"
+                    },
+                    {
+                        "id": "70",
+                        "value": "",
+                        "name": "惠普",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170601143250_1588.jpg"
+                    },
+                    {
+                        "id": "76",
+                        "value": "",
+                        "name": "微软",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170601142211_8535.jpg"
+                    },
+                    {
+                        "id": "2",
+                        "value": "",
+                        "name": "三星",
+                        "imagePath": "https://img2.ch999img.com//pic/product/210x90/201309270439180.jpg"
+                    },
+                    {
+                        "id": "1125",
+                        "value": "",
+                        "name": "神舟",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170601144200_4087.jpg"
+                    },
+                    {
+                        "id": "4",
+                        "value": "",
+                        "name": "索尼",
+                        "imagePath": "https://img2.ch999img.com//pic/product/210x90/201309270440460.jpg"
+                    },
+                    {
+                        "id": "1117",
+                        "value": "",
+                        "name": "罗技",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170601153650_3703.jpg"
+                    },
+                    {
+                        "id": "1168",
+                        "value": "",
+                        "name": "希捷",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170601161934_4825.jpg"
+                    },
+                    {
+                        "id": "1167",
+                        "value": "",
+                        "name": "西部数据",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170601162720_4504.jpg"
+                    },
+                    {
+                        "id": "1233",
+                        "value": "",
+                        "name": "坚果",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170601152932_0629.jpg"
+                    },
+                    {
+                        "id": "1196",
+                        "value": "",
+                        "name": "冠捷",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170601150443_0422.jpg"
+                    },
+                    {
+                        "id": "1285",
+                        "value": "",
+                        "name": "大水牛",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170601151300_7181.jpg"
+                    },
+                    {
+                        "id": "43",
+                        "value": "",
+                        "name": "闪迪",
+                        "imagePath": "https://img2.ch999img.com//pic/brand/20170626134320_3015.jpg"
+                    }
+                ]
+            }
+        ],
+        "sort": [
+            {
+                "item": [
+                    {
+                        "id": 0,
+                        "name": "综合",
+                        "fullName": "综合排序",
+                        "order": [
+                            0
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "销量",
+                        "fullName": "按销量排序",
+                        "order": [
+                            0
+                        ]
+                    }
+                ]
+            },
+            {
+                "item": [
+                    {
+                        "id": 1,
+                        "name": "价格",
+                        "fullName": "价格",
+                        "order": [
+                            0,
+                            1
+                        ]
+                    }
+                ]
+            },
+            {
+                "item": [
+                    {
+                        "id": 2,
+                        "name": "最新上架",
+                        "fullName": "最新上架",
+                        "order": [
+                            0
+                        ]
+                    }
+                ]
+            }
+        ],
+        "cate": [
+            {
+                "id": 8,
+                "path": "",
+                "parentId": 0,
+                "name": "电脑办公",
+                "count": 0,
+                "children": [
+                    {
+                        "id": 20,
+                        "path": ",8,",
+                        "parentId": 8,
+                        "name": "笔记本",
+                        "count": 0,
+                        "children": []
+                    },
+                    {
+                        "id": 21,
+                        "path": ",8,",
+                        "parentId": 8,
+                        "name": "平板电脑",
+                        "count": 0,
+                        "children": []
+                    },
+                    {
+                        "id": 22,
+                        "path": ",8,",
+                        "parentId": 8,
+                        "name": "一体机",
+                        "count": 0,
+                        "children": []
+                    },
+                    {
+                        "id": 32,
+                        "path": ",8,",
+                        "parentId": 8,
+                        "name": "外设产品",
+                        "count": 0,
+                        "children": [
+                            {
+                                "id": 120,
+                                "path": ",8,32,",
+                                "parentId": 32,
+                                "name": "键盘/鼠标/鼠标垫",
+                                "count": 0,
+                                "children": [
+                                    {
+                                        "id": 177,
+                                        "path": ",8,32,120,",
+                                        "parentId": 120,
+                                        "name": "键盘",
+                                        "count": 0,
+                                        "children": []
+                                    },
+                                    {
+                                        "id": 178,
+                                        "path": ",8,32,120,",
+                                        "parentId": 120,
+                                        "name": "鼠标",
+                                        "count": 0,
+                                        "children": []
+                                    },
+                                    {
+                                        "id": 180,
+                                        "path": ",8,32,120,",
+                                        "parentId": 120,
+                                        "name": "键鼠套装",
+                                        "count": 0,
+                                        "children": []
+                                    },
+                                    {
+                                        "id": 181,
+                                        "path": ",8,32,120,",
+                                        "parentId": 120,
+                                        "name": "鼠标垫",
+                                        "count": 0,
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 123,
+                                "path": ",8,32,",
+                                "parentId": 32,
+                                "name": "电脑包/膜/清洁套装",
+                                "count": 0,
+                                "children": [
+                                    {
+                                        "id": 327,
+                                        "path": ",8,32,123,",
+                                        "parentId": 123,
+                                        "name": "电脑包",
+                                        "count": 0,
+                                        "children": []
+                                    },
+                                    {
+                                        "id": 328,
+                                        "path": ",8,32,123,",
+                                        "parentId": 123,
+                                        "name": "保护膜",
+                                        "count": 0,
+                                        "children": []
+                                    },
+                                    {
+                                        "id": 329,
+                                        "path": ",8,32,123,",
+                                        "parentId": 123,
+                                        "name": "清洁套装",
+                                        "count": 0,
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "id": 202,
+                                "path": ",8,32,",
+                                "parentId": 32,
+                                "name": "U盘",
+                                "count": 0,
+                                "children": []
+                            },
+                            {
+                                "id": 203,
+                                "path": ",8,32,",
+                                "parentId": 32,
+                                "name": "移动硬盘",
+                                "count": 0,
+                                "children": []
+                            },
+                            {
+                                "id": 326,
+                                "path": ",8,32,",
+                                "parentId": 32,
+                                "name": "适配器",
+                                "count": 0,
+                                "children": []
+                            },
+                            {
+                                "id": 330,
+                                "path": ",8,32,",
+                                "parentId": 32,
+                                "name": "转接线",
+                                "count": 0,
+                                "children": []
+                            },
+                            {
+                                "id": 349,
+                                "path": ",8,32,",
+                                "parentId": 32,
+                                "name": "散热器",
+                                "count": 0,
+                                "children": []
+                            },
+                            {
+                                "id": 422,
+                                "path": ",8,32,",
+                                "parentId": 32,
+                                "name": "防辐射眼镜",
+                                "count": 0,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 94,
+                        "path": ",8,",
+                        "parentId": 8,
+                        "name": "网络产品",
+                        "count": 0,
+                        "children": [
+                            {
+                                "id": 95,
+                                "path": ",8,94,",
+                                "parentId": 94,
+                                "name": "路由器",
+                                "count": 0,
+                                "children": []
+                            },
+                            {
+                                "id": 158,
+                                "path": ",8,94,",
+                                "parentId": 94,
+                                "name": "无线接收装置",
+                                "count": 0,
+                                "children": []
+                            },
+                            {
+                                "id": 331,
+                                "path": ",8,94,",
+                                "parentId": 94,
+                                "name": "网线",
+                                "count": 0,
+                                "children": []
+                            },
+                            {
+                                "id": 462,
+                                "path": ",8,94,",
+                                "parentId": 94,
+                                "name": "4G网卡",
+                                "count": 0,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 161,
+                        "path": ",8,",
+                        "parentId": 8,
+                        "name": "显示器",
+                        "count": 0,
+                        "children": []
+                    },
+                    {
+                        "id": 201,
+                        "path": ",8,",
+                        "parentId": 8,
+                        "name": "台式机",
+                        "count": 0,
+                        "children": []
+                    },
+                    {
+                        "id": 352,
+                        "path": ",8,",
+                        "parentId": 8,
+                        "name": "办公设备",
+                        "count": 0,
+                        "children": [
+                            {
+                                "id": 199,
+                                "path": ",8,352,",
+                                "parentId": 352,
+                                "name": "投影仪",
+                                "count": 0,
+                                "children": []
+                            },
+                            {
+                                "id": 206,
+                                "path": ",8,352,",
+                                "parentId": 352,
+                                "name": "投影仪配件",
+                                "count": 0,
+                                "children": []
+                            },
+                            {
+                                "id": 353,
+                                "path": ",8,352,",
+                                "parentId": 352,
+                                "name": "录音笔",
+                                "count": 0,
+                                "children": []
+                            },
+                            {
+                                "id": 376,
+                                "path": ",8,352,",
+                                "parentId": 352,
+                                "name": "打印机",
+                                "count": 0,
+                                "children": []
+                            },
+                            {
+                                "id": 377,
+                                "path": ",8,352,",
+                                "parentId": 352,
+                                "name": "办公用具/耗材",
+                                "count": 0,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "recommend": {},
+        "seo": {
+            "title": "九机网(9JI.COM)-原三九手机网,专业手机零售O2O平台,正品手机、笔记本、平板电脑，正品行货，确保低价，配送及时！",
+            "description": "九机网（原39手机网、999手机网）是专业手机零售O2O网站平台，为您提供正品行货手机、笔记本及平板电脑等产品。依托九机网强大的技术支持，为您提供优质售后服务，包括刷机、手机维修及正版软件安装。九机资讯为您提供手机评测、热门机型推荐、手机使用经验分享等全方位服务!",
+            "keyword": "九机网,九机,九机网,39手机网,999手机网,39,999,九机,39网,九机网,品牌手机,正品手机,行货手机,手机维修,手机评测,手机报价"
+        },
+        "recommendCate": [
+            {
+                "id": 8,
+                "name": "电脑办公"
+            },
+            {
+                "id": 20,
+                "name": "笔记本"
+            }
+        ]
+    }
+}

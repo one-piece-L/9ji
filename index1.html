@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>首页</title>
+    <link rel="stylesheet" href="./css/base.css">
+    <link rel="stylesheet" href="./css/index.css">
+    <script src="./js/jquery-3.1.1.js"></script>
+    <script src="./js/index.js"></script>
+</head>
+
+<body>
+    <!-- 右侧边栏 -->
+    <div class="tool-bar">
+            <div class="tool-bar-menu">
+                <a href="javascript:;" class="tool-cart" onclick="toolBarFrame('/order/cart.aspx?act=mini',1)"><i class="icon"></i><span>购物车<em></em></span><b>0</b></a>
+                <a href="/ch999shop/" class="tool-shop"><i class="icon"></i><span>附近门店<em></em></span></a>
+                <a href="javascript:;" class="tool-custom" onclick="Jiuji.chat('show')"><i class="icon"></i><span>咨询客服<em></em></span><b id="chatNum">0</b></a>
+                <a href="/complainPage.aspx" class="tool-complain"><i class="icon"></i><span>投诉建议<em></em></span></a>
+                <a href="javascript:;" class="tool-wechat"><i class="icon"></i><span>
+                    <img src="//img2.ch999img.com/static/images/gunzhu-jiuji.png" width="100" height="100"><em></em></span></a>
+                <a href="javascript:;" class="tool-vs" onclick="toolBarFrame('/product/contrast/mini/0',1)" style="color:#fff;"><i class="icon"></i><span>产品对比<em></em></span></a>
+            </div>
+            <a href="javascript:;" class="scroll-to-top" style="display: block;"><i class="icon"></i><span>回到顶部<em></em></span></a>
+            <div class="tool-bar-frame hide"><!--<a class="close" href="javascript:;" onclick="closeToolBarFrame()"></a>--><p style="text-align:center;margin-top:200px;">loading...</p></div>
+        </div>
+    <!-- 电梯 -->
+    <div class="contain">
+            <div class="diy-elevator" style="margin-left: -50px; display: block;">
+                    <a href="#go_troika" onclick="go_top('#go_troika')" style="line-height:14px" class="">超优惠</a>
+                
+                    <a href="#go_floor1" onclick="go_top('#go_floor1')" style="line-height:28px" class="">手机</a>
+                
+                    <a href="#go_floor2" onclick="go_top('#go_floor2')" style="line-height:14px" class="">手机配件</a>
+                
+                    <a href="#go_floor3" onclick="go_top('#go_floor3')" style="line-height:14px" class="active">电脑办公</a>
+                
+                    <a href="#go_floor4" onclick="go_top('#go_floor4')" style="line-height:14px" class="">时尚影音</a>
+                
+                    <a href="#go_floor5" onclick="go_top('#go_floor5')" style="line-height:14px" class="">智能家居</a>
+                
+                    <a href="#go_floor6" onclick="go_top('#go_floor6')" style="line-height:14px" class="">智能穿戴</a>
+                
+                    <a href="#go_more" onclick="go_top('#go_more')" style="line-height:14px" class="">更多好货</a>
+                <a href="javascript:;" onclick="go_top()" class="">返回顶部</a>
+            </div>
+        </div>
+    <!-- 主体部分 -->
+    <div id="main">
+        <!-- banner -->
+        <div class="banner">
+            <div class="contain relative">
+                <div class="bannerBox text-center relative">
+                    <ul class="banner-bd left relative">
+                        <li data-bgcolor="#F6F6F6"><a href="#" target="_blank"><img src="./images/ban1.jpg" alt="z5"></a>
+                        </li>
+                        <li data-bgcolor="#EBECF0"><a href="##" target="_blank"><img src="./images/ban2.jpg"
+                                    alt="nova5i"></a></li>
+                        <li data-bgcolor="#FFE8D8"><a href="##" target="_blank"><img src="./images/ban3.jpg" alt="3折购"></a>
+                        </li>
+                    </ul>
+                    <div class="banner-hd">
+                        <li class="on">1</li>
+                        <li class="">2</li>
+                        <li class="">3</li>
+                    </div>
+                    <a href="javascript:;" class="banner-prev banner-btn"></a>
+                    <a href="javascript:;" class="banner-next banner-btn"></a>
+                </div>
+            </div>
+        </div>
+        <!-- 活动推荐 -->
+        <div id="go_topic" class="diy-topic contain">
+            <ul class="overflow-hide">
+                <li class="margin-right">
+                    <a href="#" target="topic" title="七夕-xr-长沙">
+                        <img class="get-src" data-src="762" src="./images/list1.png" alt="七夕-xr-长沙">
+                    </a>
+                </li>
+
+                <li class="margin-right">
+                    <a href="#" target="topic" title="七夕-荣耀20-长沙">
+                        <img class="get-src" data-src="764" src="./images/list2.png" alt="七夕-荣耀20-长沙">
+                    </a>
+                </li>
+                <li class="margin-right">
+                    <a href="#" target="topic" title="七夕mate20-长沙">
+                        <img class="get-src" data-src="763" src="./images/list3.png" alt="七夕mate20-长沙">
+                    </a>
+                </li>
+
+                <li class="margin-right">
+                    <a href="#" target="topic" title="七夕nova5Pro-长沙">
+                        <img class="get-src" data-src="765" src="./images/list4.png" alt="七夕nova5Pro-长沙">
+                    </a>
+                </li>
+
+                <li class="margin-right">
+                    <a href="##" target="topic" title="暑促-mated-云南">
+                        <img class="get-src" data-src="537" src="./images/list5.png" alt="暑促-mated-云南">
+                    </a>
+                </li>
+
+            </ul>
+
+        </div>
+        <!-- 三驾马车 -->
+        <div id="go_troika" class="diy-troika contain">
+        </div>
+        <!-- 售后模板 -->
+        <div id="go_shouhou" class="diy-shouhou contain">
+            <div class="overflow-hide">
+                <div class="left relative margin-right">
+                    <a href="https://huishou.9ji.com/">
+                        <img class="get-src" data-src="55" src="//img2.ch999img.com//newstatic/720/27abaa3c492890.png"
+                            width="595" height="160" alt="九机集市背景">
+                        <div class="sh-tip anim-left">
+                            <img class="get-src" data-src="57"
+                                src="//img2.ch999img.com//newstatic/717/6c74a18e8e16bf.png" alt="九机集市背景">
+                        </div>
+                    </a>
+                </div>
+                <div class="left relative">
+                    <a href="/after-service">
+                        <img class="get-src" data-src="759" src="//img2.ch999img.com//newstatic/1590/f5658a4cd32b6c.png"
+                            width="595" height="160" alt="售后维修底图0709">
+                        <div class="sh-tip anim-left">
+                            <img class="get-src" data-src="58"
+                                src="//img2.ch999img.com//newstatic/721/2cc1f3418c728c.png" alt="售后维修底图0709">
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <!-- 超实惠 -->
+        <div class="contain" style="margin: 20px auto;">
+            <img src="./images/chaoyouhui.png" width="1200" alt="超优惠">
+        </div>
+        <div id="go_sale" class="contain  overflow-hide">
+            <div class="diy-trial left">
+                <div class="trial-title"><a href="https://www.9ji.com/tryout/"><img class="get-src" data-src="59"
+                            src="//img2.ch999img.com//newstatic/719/212fab22cd9c2c.png" width="595" height="54"></a>
+                </div>
+                <div class="sale-list">
+                    <ul class="trial-ul">
+
+                        <li>
+                            <a href="/tryout/391.html" target="trial" class="anim-left"
+                                title="TP-LINK TL-WDA6332RE信号放大器">
+                                <div class="sale-img">
+                                    <img class="get-src" data-src=""
+                                        src="//img2.ch999img.com/pic/product/440x440/2019060611415168.jpg" width="160"
+                                        height="160" alt="TP-LINK TL-WDA6332RE信号放大器">
+                                </div>
+                                <div class="diy-tip">
+                                    <h3 class="ellipsis" style="color:#c43352">TP-LINK TL-WDA6332RE信号放大器</h3>
+                                    <p class="ellipsis" title="双频合一 智能指示灯 有线拓展功能 随插随用">双频合一 智能指示灯 有线拓展功能 随插随用</p>
+                                </div>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/tryout/390.html" target="trial" class="anim-left" title="黑鱼 苹果lightning 布兰熊数据线">
+                                <div class="sale-img">
+                                    <img class="get-src" data-src=""
+                                        src="//img2.ch999img.com/pic/product/440x440/20190708142753775.jpg" width="160"
+                                        height="160" alt="黑鱼 苹果lightning 布兰熊数据线">
+                                </div>
+                                <div class="diy-tip">
+                                    <h3 class="ellipsis" style="color:#c43352">黑鱼 苹果lightning 布兰熊数据线</h3>
+                                    <p class="ellipsis" title="原创设计 个性时尚 亲肤手感">原创设计 个性时尚 亲肤手感</p>
+                                </div>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="/tryout/389.html" target="trial" class="anim-left" title="富德 ik6630无线办公键鼠套装">
+                                <div class="sale-img">
+                                    <img class="get-src" data-src=""
+                                        src="//img2.ch999img.com/pic/product/440x440/20190628162639216.jpg" width="160"
+                                        height="160" alt="富德 ik6630无线办公键鼠套装">
+                                </div>
+                                <div class="diy-tip">
+                                    <h3 class="ellipsis" style="color:#c43352">富德 ik6630无线办公键鼠套装</h3>
+                                    <p class="ellipsis" title="自带电池，稳定无线传输，巧克力键帽，手感舒适！">自带电池，稳定无线传输，巧克力键帽，手感舒适！</p>
+                                </div>
+                            </a>
+                        </li>
+
+                    </ul>
+
+                </div>
+            </div>
+            <div class="diy-rush right">
+                <div class="rush-title relative">
+                    <a href="javascript:;"><img class="get-src" data-src="60"
+                            src="//img2.ch999img.com//newstatic/720/227080d3766607.png" width="595" height="54"></a>
+                    <div class="rush-code padding" style="display: none;"><img src="./images/rush.png" width="160"></div>
+                </div>
+                <div class="sale-list">
+                    <div class="tempWrap" style="overflow:hidden; position:relative; width:576px">
+                        <ul class="rush-ul"
+                            style="width: 10176px; position: relative; overflow: hidden; padding: 0px; margin: 0px; left: -192px;">
+                            <li class="clone" style="float: left; width: 191px;">
+                                <a href="//www.9ji.com/qiang/68172.html" target="rush" class="anim-left"
+                                    title="JBL GO2音乐金砖音响">
+                                    <div class="sale-img">
+                                        <img class="get-src" data-src=""
+                                            src="//img2.ch999img.com/pic/product/160x160/20180522154411566.jpg"
+                                            width="160" height="160" alt="JBL GO2音乐金砖音响">
+                                    </div>
+                                    <div class="diy-tip">
+                                        <h3 class="ellipsis" style="color: #994476">JBL GO2音乐金砖音响</h3>
+                                        <p>￥199.00</p>
+                                    </div>
+                                </a>
+                            </li>
+                            <li style="float: left; width: 191px;">
+                                <a href="//www.9ji.com/qiang/63829.html" target="rush" class="anim-left"
+                                    title="iPhone XR全网通版 【白色 128GB 】">
+                                    <div class="sale-img">
+                                        <img class="get-src" data-src=""
+                                            src="//img2.ch999img.com/pic/product/160x160/20180913062847599.jpg"
+                                            width="160" height="160" alt="iPhone XR全网通版 【白色 128GB 】">
+                                    </div>
+                                    <div class="diy-tip">
+                                        <h3 class="ellipsis" style="color: #994476">iPhone XR全网通版 【白色 128GB 】</h3>
+                                        <p>￥5099.00</p>
+                                    </div>
+                                </a>
+                            </li>
+                            <li style="float: left; width: 191px;">
+                                <a href="//www.9ji.com/qiang/63998.html" target="rush" class="anim-left"
+                                    title="华为 P30 全网通版【天空之境 8+128GB 】">
+                                    <div class="sale-img">
+                                        <img class="get-src" data-src=""
+                                            src="//img2.ch999img.com/pic/product/160x160/20190512230954370.jpg"
+                                            width="160" height="160" alt="华为 P30 全网通版【天空之境 8+128GB 】">
+                                    </div>
+                                    <div class="diy-tip">
+                                        <h3 class="ellipsis" style="color: #994476">华为 P30 全网通版【天空之境 8+128GB 】</h3>
+                                        <p>￥3788.00</p>
+                                    </div>
+                                </a>
+                            </li>
+                            <li style="float: left; width: 191px;">
+                                <a href="//www.9ji.com/qiang/63830.html" target="rush" class="anim-left" title="超大鼠标垫">
+                                    <div class="sale-img">
+                                        <img class="get-src" data-src=""
+                                            src="//img2.ch999img.com/pic/product/160x160/20190614190255292.jpg"
+                                            width="160" height="160" alt="超大鼠标垫">
+                                    </div>
+                                    <div class="diy-tip">
+                                        <h3 class="ellipsis" style="color: #994476">超大鼠标垫</h3>
+                                        <p>￥9.90</p>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <!-- 基友派 -->
+        <div class="contain" id="floor">
+                <div style="margin: 20px auto;">
+                    <img src="./images/jiyoupai.png" width="1200">
+                </div>
+        </div>
+        <!-- 更多好货 -->
+        <div class="contain" id="go_more" style="">
+                <div style="margin: 20px auto;">
+                    <img src="./images/more.png" width="1200" alt="更多好货">
+                </div>
+                <div class="goodCommodity">
+                        <ul>
+                           <li class="anim-top" title="iPad 2018款">
+                                <a href="//www.9ji.com/product/63345.html">
+                                 <span class="goodimg">
+                                     <img src="//img2.ch999img.com/pic/product/440x440/20180328023341569.jpg" alt="iPad 2018款">
+                                    </span>                                            
+                                    <div class="row2 margin-top font14" style="max-height:40px;">iPad 2018款</div>
+                                    <p class="red">￥2260</p>                                      
+                                </a>                                     
+                            </li>
+                         </ul>
+                            <div class="clear"></div>
+                        <div class="loadmore">
+                            <a href="javascript:;" class="button getmore" onclick="getMore()">加载更多好货</a>
+                        </div>
+                    </div>
+            </div>
+        <!-- 底部 -->
+        <div class="footer">
+                <div class="promise">
+                    <a href="/event/3696.html" target="_blank">
+                        <dl>
+                            <dt class="icon p0"></dt>
+                            <dd>
+                                <h4>新九机 心生态</h4>
+                                <p>全新九机 用心可见</p>
+                            </dd>
+                        </dl>
+                    </a>
+                    <a href="/event/2066.html" target="_blank">
+                        <dl>
+                            <dt class="icon p1"></dt>
+                            <dd>
+                                <h4>售假退一罚三</h4>
+                                <p>我们承诺，只做正品</p>
+                            </dd>
+                        </dl>
+                    </a>
+                    <a href="/event/2066.html#8" target="_blank">
+                        <dl>
+                            <dt class="icon p2"></dt>
+                            <dd>
+                                <h4>1小时极速达</h4>
+                                <p>自建物流，直达客户</p>
+                            </dd>
+                        </dl>
+                    </a>
+                    <a href="/event/2066.html#17" target="_blank">
+                        <dl>
+                            <dt class="icon p3"></dt>
+                            <dd>
+                                <h4>上门快修</h4>
+                                <p>线上预约维修，在线评估故障</p>
+                            </dd>
+                        </dl>
+                    </a>
+                    <a href="/event/2066.html#6" target="_blank">
+                        <dl>
+                            <dt class="icon p4"></dt>
+                            <dd>
+                                <h4>门店保障</h4>
+                                <p>实体购物，更加安心</p>
+                            </dd>
+                        </dl>
+                    </a>
+                </div>
+            
+                <div class="foot-help">
+                    <div class="contain">
+                        <dl>
+                            <dt>新手指南</dt>
+                            <dd>
+                                <a href="/doc/1/2" rel="nofollow">会员注册与使用</a>
+                                
+                                <a href="//www.9ji.com/news/list12-1.html">九机评测</a>
+                                <a href="/doc/1/40" rel="nofollow">积分介绍</a>
+                            </dd>
+                        </dl>
+                        <dl>
+                            <dt>付款方式</dt>
+                            <dd>
+                                <a href="/onlinepay.aspx" rel="nofollow">在线支付</a>
+                                <a href="/doc/1/17" rel="nofollow">分期介绍</a>
+                                <a href="/doc/1/18" rel="nofollow">退款介绍</a>
+                            </dd>
+                        </dl>
+                        <dl>
+                            <dt>配送方式</dt>
+                            <dd>
+                                <a href="/ch999shop/" rel="nofollow">到店自提</a>
+                                <a href="/doc/1/176" rel="nofollow">送货上门</a>
+                                <a href="/doc/1/177" rel="nofollow">快递运输</a>
+                            </dd>
+                        </dl>
+                        <dl>
+                            <dt>售后服务</dt>
+                            <dd>
+                                <a href="/doc/14/45" rel="nofollow">售后服务政策</a>
+                                <a href="/doc/14/62" rel="nofollow">维修质保政策</a>
+                                <a href="/doc/27/68" rel="nofollow">九机服务</a>
+                            </dd>
+                        </dl>
+                        <dl>
+                            <dt>帮助中心</dt>
+                            <dd>
+                                <a href="/doc/1/2" rel="nofollow">常见问题解答</a>
+                                <a href="/doc/1/39" rel="nofollow">会员介绍</a>
+                                <a href="/doc/1/3" rel="nofollow">交易条款</a>
+                            </dd>
+                        </dl>
+                        <dl class="foot-sns">
+                            <dt class="icon"></dt>
+                            <dd>
+                                <h4>九机网官方微信</h4>
+                                <p>扫描二维码，即刻调戏小九，更多精彩活动等着您哦！</p>
+                            </dd>
+                            <dd class="wblink">
+                                <a rel="nofollow" href="http://weibo.com/ch999com" target="_blank" class="xinlang"><i class="icon"></i>新浪微博</a>
+                                <a rel="nofollow" href="http://tieba.baidu.com/f?ie=utf-8&amp;kw=%E4%B9%9D%E6%9C%BA%E7%BD%91%E5%AE%98%E6%96%B9&amp;fr=search#&amp;qq-pf-to=pcqq.temporaryc2c" target="_blank" class="tengxun"><i class="icon"></i>九机贴吧</a>
+                            </dd>
+                        </dl>
+                    </div>
+                </div> 
+        </div>
+        <div class="bottom">
+                <div class="contain">
+                    <div class="foot_nav">
+                        <a href="/doc/1/2" rel="nofollow">常见问题</a><i>|</i>
+                        <a href="/doc/1/74" rel="nofollow">供应商申请</a><i>|</i>
+                        <a href="/doc/1/176" rel="nofollow">配送服务</a><i>|</i>
+                        <a href="//job.9ji.com/" rel="nofollow">招聘信息</a><i>|</i>
+                        <a href="/doc/1/43" rel="nofollow">关于我们</a><i>|</i>
+                        <a href="/doc/1/41" rel="nofollow">联系我们</a><i>|</i>
+                        <a href="/complainPage.aspx">投诉建议</a><i>|</i>
+                        <a href="/AreaPrice/">地区报价</a><i>|</i> 
+                        <a href="http://it.9ji.com">IT服务</a>
+                    </div>
+                    <div class="copy">
+                        
+                        <p>各门店营业时间：周一至周日 09:00-21:30 &nbsp;&nbsp;&nbsp;&nbsp; 全国服务热线：400-008-3939 &nbsp;&nbsp;0871-68393939 &nbsp;&nbsp;&nbsp;&nbsp; 工作时间：周一至周日 09:00-21:30</p>
+                        
+                        <p>网站ICP备案号：<a rel="nofollow" href="##" target="_blank">滇ICP备06002001号</a> &nbsp;&nbsp;&nbsp;&nbsp; 电信业务经营许可证：滇B2-20180054号 &nbsp;&nbsp;&nbsp;&nbsp; <a rel="nofollow" href="##" target="_blank">滇公网安备 53010202000261号</a> &nbsp;&nbsp;&nbsp;&nbsp; </p>
+                        
+                        <p>Copyright © 2006 - 2019 九机网 All Rights Reserved</p>
+                        <p>云南九机信息技术有限公司版权所有</p>
+                    </div>
+                    <div class="bot-link">
+                        <a class="wangjian" href="##"style="background:#fff" title="中国互联网违法和不良信息举报中心"><img src="./images/botpic1c.jpg"></a>
+                        <a id="_pingansec_bottomimagelarge_shiming" href="#"><img src="./images/bottom_large_img.png"></a>       
+                        <a class="shiming" key="57479c9defbfb00a58d582f4" logo_size="124x47" logo_type="realname" href="##" "> </a>
+                        <a class="wangjian" href="##" title="12315维权" alt="12315维权"></a>
+                        <a class="wangjing" href="##" ></a>
+                        <a href="##"  title="IDC服务提供商" style="background:url(./images/landui.jpg) no-repeat center;"></a>
+                    </div>
+                </div>
+            </div>
+
+    </div>
+</body>
+
+</html>

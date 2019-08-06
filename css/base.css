@@ -1,0 +1,221 @@
+/*(1)清除默认样式*/
+html,
+body,
+ul,
+li,
+ol,
+dl,
+dd,
+dt,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+fieldset,
+legend,
+img,
+input {
+    margin: 0;
+    padding: 0;
+}
+
+fieldset,
+img,
+input,
+button {
+    border: 0 none;
+    padding: 0;
+    margin: 0;
+    outline-style: none;
+}
+
+/*去掉input等聚焦时的蓝色边框*/
+ul,
+li,
+ol {
+    list-style: none;
+}
+
+/* 行内元素的垂直居中 */
+/* 
+vertical-align：top 
+
+*/
+select,
+input {
+    vertical-align: middle;
+}
+
+/*select, input, textarea { font-size:12px; margin:0; }*/
+/*防止拖动*/
+textarea {
+    resize: none;
+}
+
+/*  去掉图片低测默认的3-4像素空白缝隙，或者用display：block也可以*/
+/* table { border-collapse:collapse; } */
+
+img {
+    border: 0;
+    vertical-align: middle;
+}
+a {
+    color: #333;
+    text-decoration: none;
+    outline: 0;
+    transition: color .1s;
+}
+a:hover {
+    text-decoration: underline;
+    color: #c80f1e;
+}
+
+/*清除浮动（不管）*/
+.clearfix:before,
+.clearfix:after {
+    /*清楚浮动*/
+    content: "";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+    /*IE/7/6*/
+}
+.clear {
+    clear: both;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: normal;
+    font-size: 1em;
+}
+
+/* 设置h标签的大小，设置跟父亲一样大的字体font-size:100%; */
+
+s,
+i,
+em {
+    font-style: normal;
+    text-decoration: none;
+}
+body {
+    font-size: 12px;
+    background: #f7f7f7;
+}
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+.relative {
+    position: relative;
+}
+.absolute {
+    position: absolute;
+}
+.text-center {
+    text-align: center;
+}
+.font12 {
+    font-size: 12px;
+}
+.font14 {
+    font-size: 14px;
+}
+.font16 {
+    font-size: 16px;
+}
+.pointer {
+    cursor: pointer;
+}
+.overflow-hide {
+    overflow: hidden;
+}
+.margin-right {
+    margin-right: 10px;
+}
+.margin-left {
+    margin-left: 10px;
+}
+.margin-top {
+    margin-top: 10px;
+}
+.mt-5 {
+    margin-top: 5px;
+}
+.ml-5 {
+    margin-left: 5px;
+}
+.mr-5 {
+    margin-right: 5px;
+}
+.mb-5 {
+    margin-bottom: 5px;
+}
+.padding-left {
+    padding-left: 10px;
+}
+.padding-right {
+    padding-right: 10px;
+}
+.ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.hide {
+    display: none;
+}
+.flex-align-center {
+    align-items: center;
+}
+.flex {
+    display: flex;
+}
+.flex-col {
+    flex-direction: column;
+}
+
+.flex-center {
+    justify-content: center;
+    align-items: center;
+}
+.flex-justify-between {
+    justify-content: space-between;
+}
+.flex-justify-end {
+    justify-content: flex-end;
+}
+.flex-child-grow {
+    flex-grow: 1;
+}
+.flex-wrap {
+    flex-wrap: wrap;
+}
+.flex-center {
+    justify-content: center;
+    align-items: center;
+}
+.border {
+    border: 1px solid #dfdfdf;
+}
+
+.contain {
+    width: 1200px;
+    margin: 0 auto;
+}

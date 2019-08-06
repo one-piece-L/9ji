@@ -1,0 +1,2325 @@
+{
+    "topAD": {
+        "id": 713,
+        "show": true,
+        "src": "//img2.ch999img.com//newstatic/1587/01003341b5db34b1.png",
+        "url": "",
+        "bgcolor": "",
+        "name": "",
+        "endtime": "2019-08-31",
+        "ad": {
+            "src": "",
+            "url": "/activity/4219&from=dt",
+            "color": "#29143d",
+            "title": "暑促长沙",
+            "tip": "",
+            "ppid": null,
+            "bgcolor": "#1a4c95",
+            "name": "七夕-云南"
+        }
+    },
+    "banner": [
+        {
+            "id": 268,
+            "src": "//img2.ch999img.com//newstatic/721/22d3bce54ca530.png",
+            "url": "",
+            "bgcolor": "",
+            "endtime": "2017-07-16",
+            "ad": {
+                "src": "",
+                "url": "/event/1073.html?from=banner",
+                "color": "#5023a4",
+                "title": "暑促电脑场",
+                "tip": "",
+                "ppid": "",
+                "bgcolor": "#4a0498"
+            }
+        },
+        {
+            "id": 265,
+            "src": "//img2.ch999img.com//newstatic/716/229a29a00d471a.png",
+            "url": "",
+            "bgcolor": "",
+            "endtime": "2017-07-16",
+            "ad": {
+                "src": "",
+                "url": "/event/1087.html?from=banner",
+                "color": "#101010",
+                "title": "S8皇帝版",
+                "tip": "",
+                "ppid": ""
+            }
+        },
+        {
+            "id": 253,
+            "src": "//img2.ch999img.com//newstatic/717/22915e6abfe119.png",
+            "url": "",
+            "bgcolor": "",
+            "endtime": "2017-07-11",
+            "ad": {
+                "src": "",
+                "url": "/event/1075.html?from=banner",
+                "color": "#66af55",
+                "title": "MOTO",
+                "tip": "",
+                "ppid": ""
+            }
+        },
+        {
+            "id": 214,
+            "src": "//img2.ch999img.com//newstatic/722/22582a6cea1b83.png",
+            "url": "",
+            "bgcolor": "",
+            "endtime": "2017-07-06",
+            "ad": {
+                "src": "",
+                "url": "http://www.9ji.com/event/1058.html?from=banner",
+                "color": "#efe1fa",
+                "title": "美图M8",
+                "tip": "",
+                "ppid": ""
+            }
+        },
+        {
+            "id": 202,
+            "src": "//img2.ch999img.com//newstatic/720/229a43b5f930bc.png",
+            "url": "",
+            "bgcolor": "",
+            "endtime": "2017-07-11",
+            "ad": {
+                "src": "",
+                "url": "http://www.9ji.com/event/1082.html?from=banner",
+                "color": "#0d0d0d",
+                "title": "OPPO R11 Plus云南",
+                "tip": "",
+                "ppid": ""
+            }
+        },
+        {
+            "id": 218,
+            "src": "//img2.ch999img.com//newstatic/722/22298c328e8f53.png",
+            "url": "",
+            "bgcolor": "",
+            "endtime": "2017-08-01",
+            "ad": {
+                "src": "",
+                "url": "/event/1001.html?from=banner",
+                "color": "#00298e",
+                "title": "4G+",
+                "tip": "",
+                "ppid": ""
+            }
+        }
+    ],
+    "skin": {
+        "show": true,
+        "endtime": "2019-08-31",
+        "top": {
+            "id": 93,
+            "src": "//img2.ch999img.com//newstatic/722/2133fd15af5fef.png",
+            "url": "",
+            "top": "0",
+            "left": 0,
+            "ad": {
+                "src": "",
+                "url": "htttp://www.9ji.com",
+                "color": "",
+                "title": "logo无装饰时选此图",
+                "tip": "",
+                "ppid": null
+            }
+        },
+        "left": {
+            "id": 571,
+            "src": "//img2.ch999img.com//newstatic/1588/01005be3d7d98aee.png",
+            "url": "",
+            "top": "0",
+            "left": 0,
+            "ad": {
+                "src": "",
+                "url": "/activity/4226?from=zby",
+                "color": "",
+                "title": "七夕长沙左边",
+                "tip": "",
+                "ppid": null
+            }
+        },
+        "right": {
+            "id": 565,
+            "src": "//img2.ch999img.com//newstatic/1589/01005c0819290f82.png",
+            "url": "",
+            "top": "0",
+            "right": 0,
+            "ad": {
+                "src": "",
+                "url": "/activity/4226?from=zb",
+                "color": "",
+                "title": "七夕长沙右",
+                "tip": "",
+                "ppid": null
+            }
+        }
+    },
+    "topic": {
+        "show": true,
+        "title": {
+            "id": 496,
+            "show": false,
+            "src": "//img2.ch999img.com//newstatic/717/475bc5ff7f7b42.png",
+            "url": "",
+            "ad": {
+                "src": "",
+                "url": "/event/1973.html",
+                "color": "",
+                "title": "移动618",
+                "tip": "",
+                "ppid": null
+            }
+        },
+        "list": [
+            {
+                "id": 762,
+                "src": "//img2.ch999img.com//newstatic/1589/01005b0e8b2327df.png",
+                "url": "",
+                "name": "",
+                "ad": {
+                    "src": "",
+                    "url": "/activity/4226?from=xr#4",
+                    "color": "",
+                    "title": "暑促-p30-长沙",
+                    "tip": "",
+                    "ppid": null,
+                    "name": "七夕-xr-长沙"
+                }
+            },
+            {
+                "id": 764,
+                "src": "//img2.ch999img.com//newstatic/1592/01005b491b8e6c65.png",
+                "url": "",
+                "name": "",
+                "ad": {
+                    "src": "",
+                    "url": "/activity/4226?from=ry#3",
+                    "color": "",
+                    "title": "暑促-5pro-长沙",
+                    "tip": "",
+                    "ppid": null,
+                    "name": "七夕-荣耀20-长沙"
+                }
+            },
+            {
+                "id": 763,
+                "src": "//img2.ch999img.com//newstatic/1589/01005b2ef2ceef6a.png",
+                "url": "",
+                "name": "",
+                "ad": {
+                    "src": "",
+                    "url": "/activity/4226?from=mate30#4",
+                    "color": "",
+                    "title": "暑促-荣耀20-长沙",
+                    "tip": "",
+                    "ppid": null,
+                    "name": "七夕mate20-长沙"
+                }
+            },
+            {
+                "id": 765,
+                "src": "//img2.ch999img.com//newstatic/1593/01005b674145f7f4.png",
+                "url": "",
+                "name": "",
+                "ad": {
+                    "src": "",
+                    "url": "/activity/4226?from=nova#5",
+                    "color": "",
+                    "title": "暑促-MacBook-长沙",
+                    "tip": "",
+                    "ppid": null,
+                    "name": "七夕nova5Pro-长沙"
+                }
+            },
+            {
+                "id": 537,
+                "src": "//img2.ch999img.com//newstatic/1592/fb46248dc16a47.png",
+                "url": "",
+                "name": "",
+                "ad": {
+                    "src": "",
+                    "url": "/activity/4059&from=mcd#6",
+                    "color": "",
+                    "title": "暑促-mcd-长沙",
+                    "tip": "",
+                    "ppid": null,
+                    "name": "暑促-mated-云南"
+                }
+            }
+        ]
+    },
+    "troika": {
+        "tab": 0,
+        "item": [
+            {
+                "name": "手机",
+                "color": "#e2933e",
+                "title": {
+                    "id": 37,
+                    "src": "//img2.ch999img.com//newstatic/721/211aad974c7efe.png",
+                    "url": "",
+                    "ad": {
+                        "src": "",
+                        "url": "http://www.9ji.com/list/2-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html",
+                        "color": "#e2933e",
+                        "title": "手机精品汇",
+                        "tip": "",
+                        "ppid": null
+                    }
+                },
+                "list": [
+                    {
+                        "id": 263,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190326224057412.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/75356.html",
+                            "color": "",
+                            "title": "华为 P30 全网通版",
+                            "tip": "专享免息分期",
+                            "ppid": 75356
+                        }
+                    },
+                    {
+                        "id": 483,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190516161514606.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/77187.html",
+                            "color": "",
+                            "title": "一加手机7 Pro 全网通版",
+                            "tip": "专享100元换新补贴",
+                            "ppid": 77187
+                        }
+                    },
+                    {
+                        "id": 482,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190614143102844.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/77775.html",
+                            "color": "",
+                            "title": "华为 nova 5 Pro 全网通版",
+                            "tip": "你比夜色更美",
+                            "ppid": 77775
+                        }
+                    },
+                    {
+                        "id": 38,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190521224310498.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/77330.html",
+                            "color": "",
+                            "title": "华为 荣耀 20 全网通版",
+                            "tip": "定格奇幻之美",
+                            "ppid": 77330
+                        }
+                    },
+                    {
+                        "id": 413,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190618233138567.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/68436.html",
+                            "color": "",
+                            "title": "iPhone XR全网通版",
+                            "tip": "超视网膜显示屏",
+                            "ppid": 68436
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "电脑",
+                "color": "#e76641",
+                "title": {
+                    "id": 43,
+                    "src": "//img2.ch999img.com//newstatic/717/212d7796645a0d.png",
+                    "url": "",
+                    "ad": {
+                        "src": "",
+                        "url": "http://www.9ji.com/list/8-0-0-0-0-1.html",
+                        "color": "#e76641",
+                        "title": "电脑办公专家",
+                        "tip": "",
+                        "ppid": null
+                    }
+                },
+                "list": [
+                    {
+                        "id": 451,
+                        "src": "//img2.ch999img.com/pic/product/440x440/2019052816084526.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/77511.html",
+                            "color": "",
+                            "title": "MacBook Pro 2019款",
+                            "tip": "带触控栏和触控 ID",
+                            "ppid": 77511
+                        }
+                    },
+                    {
+                        "id": 376,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190529152632808.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/77556.html",
+                            "color": "",
+                            "title": "小米 RedmiBook 14英寸",
+                            "tip": "升级MX250显卡",
+                            "ppid": 77556
+                        }
+                    },
+                    {
+                        "id": 423,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190318231549644.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/75146.html",
+                            "color": "",
+                            "title": "iPad mini 2019款",
+                            "tip": "价低官网 现货热销",
+                            "ppid": 75146
+                        }
+                    },
+                    {
+                        "id": 438,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190603170715881.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/77302.html",
+                            "color": "",
+                            "title": "华硕 飞行堡垒7",
+                            "tip": "九代酷睿处理器",
+                            "ppid": 77302
+                        }
+                    },
+                    {
+                        "id": 443,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190613093300208.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/61887.html",
+                            "color": "",
+                            "title": "华为 MateBook D",
+                            "tip": "2018新款来袭",
+                            "ppid": 61887
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "数码产品",
+                "color": "#a26644",
+                "title": {
+                    "id": 267,
+                    "src": "//img2.ch999img.com//newstatic/720/22a299beefd026.png",
+                    "url": "",
+                    "ad": {
+                        "src": "",
+                        "url": "http://www.9ji.com/list/144-0-0-0-0-1.html",
+                        "color": "",
+                        "title": "数码新视界",
+                        "tip": "",
+                        "ppid": null
+                    }
+                },
+                "list": [
+                    {
+                        "id": 50,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190213105545557.png",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/73045.html",
+                            "color": "",
+                            "title": "华为FreeBuds无线耳机",
+                            "tip": "智能语音 现货开售",
+                            "ppid": 73045
+                        }
+                    },
+                    {
+                        "id": 365,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190315150550685.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/75041.html",
+                            "color": "",
+                            "title": "华为手环3",
+                            "tip": "50米防水 彩色屏幕",
+                            "ppid": 75041
+                        }
+                    },
+                    {
+                        "id": 254,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190320221338223.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/75219.html",
+                            "color": "",
+                            "title": "新款 AirPods 2代 蓝牙耳机",
+                            "tip": "无线 无繁琐",
+                            "ppid": 75219
+                        }
+                    },
+                    {
+                        "id": 54,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190520160348734.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/77175.html",
+                            "color": "",
+                            "title": "1MORE Stylish 蓝牙耳机",
+                            "tip": "双动圈重低音耳机",
+                            "ppid": 77175
+                        }
+                    },
+                    {
+                        "id": 51,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20181026181620440.png",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/71780.html",
+                            "color": "",
+                            "title": "华为智能AI音箱",
+                            "tip": "语音控制家居",
+                            "ppid": 71780
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "huishou": [
+        {
+            "id": 55,
+            "bgsrc": "//img2.ch999img.com//newstatic/720/27abaa3c492890.png",
+            "rid": 57,
+            "rensrc": "//img2.ch999img.com//newstatic/717/6c74a18e8e16bf.png",
+            "url": "",
+            "name": "",
+            "ad": {
+                "src": "",
+                "url": "http://huishou.9ji.com/",
+                "color": "",
+                "title": "九机集市背景",
+                "tip": "",
+                "ppid": null,
+                "name": "九机集市背景"
+            }
+        },
+        {
+            "id": 759,
+            "bgsrc": "//img2.ch999img.com//newstatic/1590/f5658a4cd32b6c.png",
+            "rid": 58,
+            "rensrc": "//img2.ch999img.com//newstatic/721/2cc1f3418c728c.png",
+            "url": "",
+            "name": "",
+            "ad": {
+                "src": "",
+                "url": "/after-service",
+                "color": "",
+                "title": "售后维修底图0709",
+                "tip": "",
+                "ppid": null,
+                "name": "售后维修底图0709"
+            }
+        }
+    ],
+    "trial": {
+        "color": "#c43352",
+        "title": {
+            "id": 59,
+            "src": "//img2.ch999img.com//newstatic/719/212fab22cd9c2c.png",
+            "url": "",
+            "ad": {
+                "src": "",
+                "url": "http://www.9ji.com/tryout/",
+                "color": "",
+                "title": "免费试用",
+                "tip": "",
+                "ppid": null
+            }
+        },
+        "list": ""
+    },
+    "rush": {
+        "color": "#994476",
+        "title": {
+            "id": 60,
+            "src": "//img2.ch999img.com//newstatic/720/227080d3766607.png",
+            "url": "",
+            "ad": {
+                "src": "",
+                "url": "",
+                "color": "",
+                "title": "限时抢购",
+                "tip": "",
+                "ppid": null
+            }
+        },
+        "list": ""
+    },
+    "floors": {
+        "eq": 2,
+        "item": [
+            {
+                "id": 0,
+                "tab": 2,
+                "style": "style-1",
+                "color": "#734e8b",
+                "title": {
+                    "id": 61,
+                    "src": "//img2.ch999img.com//newstatic/722/212fbc0c0136e5.png",
+                    "url": "",
+                    "ad": {
+                        "src": "",
+                        "url": "http://www.9ji.com/list/2-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html",
+                        "color": "#734e8b",
+                        "title": "1F",
+                        "tip": "",
+                        "ppid": null
+                    }
+                },
+                "leftAD": {
+                    "ad": {
+                        "id": 62,
+                        "src": "//img2.ch999img.com//newstatic/718/4ecc12262a5784.png",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "http://www.9ji.com/product/58206.html",
+                            "color": "",
+                            "title": "iPhone X 全网通版",
+                            "tip": "超值特惠 火热销售",
+                            "ppid": 58206
+                        }
+                    },
+                    "text": {
+                        "value": "iPhone X 64G 银色",
+                        "url": "/product/58206.html"
+                    },
+                    "phrase": {
+                        "title": "热销榜",
+                        "list": [
+                            {
+                                "text": "快速充电",
+                                "url": "/list/2-0-0-0-0-1896-0-0-0-0-0-0-0-0-0-0-1_0-0.html"
+                            },
+                            {
+                                "text": "拍照神器",
+                                "url": "/list/2-0-0-0-0-0-3772_3444-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0_0.html"
+                            },
+                            {
+                                "text": "全面屏",
+                                "url": "/list/2-0-0-0-3210-0-0-0-0-0-0-0-0-0-0-0-0-1.html"
+                            },
+                            {
+                                "text": "面部解锁",
+                                "url": "/list/2-0-0-0-3211-0-0-0-0-0-0-0-0-0-0-0-0-1.html"
+                            }
+                        ]
+                    }
+                },
+                "shoplist": [
+                    {
+                        "id": 152,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190618233537253.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/68397.html",
+                            "color": "",
+                            "title": "iPhone XS Max 全网通版",
+                            "tip": "超视网膜显示屏",
+                            "ppid": 68397
+                        }
+                    },
+                    {
+                        "id": 145,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190326225205984.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/75367.html",
+                            "color": "",
+                            "title": "华为 P30 Pro 全网通版",
+                            "tip": "超感光徕卡四摄",
+                            "ppid": 75367
+                        }
+                    },
+                    {
+                        "id": 400,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190401145816422.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/75796.html",
+                            "color": "",
+                            "title": "OPPO Reno 全网通版",
+                            "tip": "专享免息分期",
+                            "ppid": 75796
+                        }
+                    },
+                    {
+                        "id": 405,
+                        "src": "//img2.ch999img.com/pic/product/440x440/201905052335163.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/75193.html",
+                            "color": "",
+                            "title": "vivo X27 全网通版",
+                            "tip": "专享免息分期",
+                            "ppid": 75193
+                        }
+                    },
+                    {
+                        "id": 149,
+                        "src": "//img2.ch999img.com/pic/product/440x440/2019052420280298.jpg",
+                        "ppid": "77421",
+                        "title": "",
+                        "tip": "性能实力派",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/77421.html",
+                            "color": "",
+                            "title": "vivo Z5x 全网通版",
+                            "tip": "专享免息分期",
+                            "ppid": 77421
+                        }
+                    },
+                    {
+                        "id": 402,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190505233932159.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/72961.html",
+                            "color": "",
+                            "title": "华为 nova 4 全网通高配",
+                            "tip": "专享免息分期",
+                            "ppid": 72961
+                        }
+                    },
+                    {
+                        "id": 404,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190520220946568.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/70946.html",
+                            "color": "",
+                            "title": "华为 Mate 20 全网通版",
+                            "tip": "专享免息分期",
+                            "ppid": 70946
+                        }
+                    },
+                    {
+                        "id": 403,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190618233637915.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/74082.html",
+                            "color": "",
+                            "title": "小米9 全网通版",
+                            "tip": "好看又能打",
+                            "ppid": 74082
+                        }
+                    }
+                ],
+                "rightAD": [
+                    {
+                        "id": 408,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190415100141407.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/76300.html",
+                            "color": "",
+                            "title": "华为 荣耀 20i 全网通版",
+                            "tip": "专享免息分期",
+                            "ppid": 76300
+                        }
+                    },
+                    {
+                        "id": 401,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190220181447107.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "价低官网 爆款现货",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/74353.html",
+                            "color": "",
+                            "title": "小米9 SE 全网通",
+                            "tip": "专享免息分期",
+                            "ppid": 75315
+                        }
+                    },
+                    {
+                        "id": 235,
+                        "src": "//img2.ch999img.com/pic/product/440x440/2019061823444384.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "精致外观 强悍性能",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/72846.html",
+                            "color": "",
+                            "title": "华为畅享9  全网通高配版",
+                            "tip": "大电池 强劲续航",
+                            "ppid": 72846
+                        }
+                    },
+                    {
+                        "id": 409,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190505233833878.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/73669.html",
+                            "color": "",
+                            "title": "三星 S10 全网通版",
+                            "tip": "专享免息分期",
+                            "ppid": 73669
+                        }
+                    }
+                ],
+                "link": [
+                    {
+                        "text": "苹果",
+                        "url": "/list/2-1-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "华为",
+                        "url": "/list/2-7-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "荣耀",
+                        "url": "/list/2-1255-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "小米",
+                        "url": "/list/2-9-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "三星",
+                        "url": "/list/2-2-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "OPPO",
+                        "url": "/list/2-11-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "vivo",
+                        "url": "/list/2-14-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "魅族",
+                        "url": "/list/2-8-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "美图",
+                        "url": "/list/2-1155-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "一加",
+                        "url": "/list/2-1154-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "tab": 1,
+                "style": "style-1",
+                "color": "#57769f",
+                "title": {
+                    "id": 80,
+                    "src": "//img2.ch999img.com//newstatic/720/213275614dbdf6.png",
+                    "url": "http://www.9ji.com/list/4-0-0-0-0-1.html",
+                    "ad": {
+                        "src": "",
+                        "url": "http://www.9ji.com/list/4-0-0-0-0-1.html",
+                        "color": "",
+                        "title": "2F",
+                        "tip": "",
+                        "ppid": null
+                    }
+                },
+                "leftAD": {
+                    "ad": {
+                        "id": 223,
+                        "src": "//img2.ch999img.com//newstatic/1591/e28adcd0975a8a.png",
+                        "url": "/product/76630.html",
+                        "title": "乐物MFI认证快充线",
+                        "tip": "半小时从0充到50%",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/76630.html",
+                            "color": "",
+                            "title": "乐物 MFI认证Lightning 数据线",
+                            "tip": "苹果认证 支持快充",
+                            "ppid": 76630
+                        }
+                    },
+                    "text": {
+                        "value": "苹果MFI认证快充  ",
+                        "url": "/product/75000.html"
+                    },
+                    "phrase": {
+                        "title": "热销榜",
+                        "list": [
+                            {
+                                "text": "保护壳",
+                                "url": "/list/43-0-0-0-0-0-0-1.html"
+                            },
+                            {
+                                "text": "保护膜",
+                                "url": "/list/63-0-0-0-0-0-0-1.html"
+                            },
+                            {
+                                "text": "移动电源",
+                                "url": "/list/41-0-0-0-0-0-0_0.html"
+                            },
+                            {
+                                "text": "数据线",
+                                "url": "/list/66-0-0-0-0-0-0-0-1.html"
+                            }
+                        ]
+                    }
+                },
+                "shoplist": [
+                    {
+                        "id": 121,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190617151818484.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/77283.html",
+                            "color": "",
+                            "title": "锐思 PD+QC充电器",
+                            "tip": "PD快充 小巧便携",
+                            "ppid": 77283
+                        }
+                    },
+                    {
+                        "id": 122,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20180914155954228.png",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/68244.html",
+                            "color": "",
+                            "title": "iPhone XS Max 3D钢化膜",
+                            "tip": "3D全屏防刮防爆",
+                            "ppid": 68244
+                        }
+                    },
+                    {
+                        "id": 125,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20170518194056441.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/52269.html",
+                            "color": "",
+                            "title": "华为 原装 9V2A 充电套装",
+                            "tip": "华为品质 安全高效",
+                            "ppid": 52269
+                        }
+                    },
+                    {
+                        "id": 274,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190416112553342.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/63177.html",
+                            "color": "",
+                            "title": "乐物 iPhone XS/X 3D钢化膜",
+                            "tip": "防刮防爆防指纹",
+                            "ppid": 63177
+                        }
+                    },
+                    {
+                        "id": 123,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190429143553617.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/73560.html",
+                            "color": "",
+                            "title": "乐物 10000mAh 移动电源",
+                            "tip": "双输入 双输出",
+                            "ppid": 73560
+                        }
+                    },
+                    {
+                        "id": 124,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20181107141928621.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/72024.html",
+                            "color": "",
+                            "title": "摩可 华为nova 4/荣耀V20/荣耀magic2 钢化膜",
+                            "tip": "裸机手感 经久耐用",
+                            "ppid": 72024
+                        }
+                    },
+                    {
+                        "id": 126,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190429150846103.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/75014.html",
+                            "color": "",
+                            "title": "苹果内配原装耳机",
+                            "tip": "内配原装耳机",
+                            "ppid": 75014
+                        }
+                    },
+                    {
+                        "id": 128,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20180929105231555.png",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/68240.html",
+                            "color": "",
+                            "title": "乐物 iPhone XR 3D钢化膜",
+                            "tip": "3D覆盖防刮防爆",
+                            "ppid": 68240
+                        }
+                    }
+                ],
+                "rightAD": [
+                    {
+                        "id": 129,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190530164454672.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/77400.html",
+                            "color": "",
+                            "title": "乐物 一拖三 编织充电线",
+                            "tip": "三线合一 方便使用",
+                            "ppid": 77400
+                        }
+                    },
+                    {
+                        "id": 130,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20181106152616552.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/72109.html",
+                            "color": "",
+                            "title": "华为三脚架自拍杆",
+                            "tip": "伸缩自如 蓝牙遥控",
+                            "ppid": 72109
+                        }
+                    },
+                    {
+                        "id": 131,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190429143651856.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/75385.html",
+                            "color": "",
+                            "title": "华为40W超级快充移动电源",
+                            "tip": "40W超级快充",
+                            "ppid": 75385
+                        }
+                    },
+                    {
+                        "id": 132,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190506113208997.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/76830.html",
+                            "color": "",
+                            "title": "TOTU iPhone X/XS 防摔保护壳",
+                            "tip": "防刮耐磨 手感舒适",
+                            "ppid": 76830
+                        }
+                    }
+                ],
+                "link": [
+                    {
+                        "text": "苹果保护壳",
+                        "url": "/list/217-0-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "品牌保护壳",
+                        "url": "/list/218-0-0-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "平板保护壳",
+                        "url": "/list/385-0-0-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "苹果保护膜",
+                        "url": "/list/219-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "品牌保护膜",
+                        "url": "/list/220-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "平板保护膜",
+                        "url": "/list/386-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "移动电源",
+                        "url": "/list/41-0-0-0-0-0-0_0.html"
+                    },
+                    {
+                        "text": "数据线",
+                        "url": "/list/66-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "充电器",
+                        "url": "/list/65-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "手机耳机",
+                        "url": "/list/12-0-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "手机周边",
+                        "url": "/list/44-0-0-0-0-0-0-0-0-1.html"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "tab": 1,
+                "style": "style-1",
+                "color": "#4586a8",
+                "title": {
+                    "id": 81,
+                    "src": "//img2.ch999img.com//newstatic/718/21327fc1422c6f.png",
+                    "url": "",
+                    "ad": {
+                        "src": "",
+                        "url": "http://www.9ji.com/list/8-0-0-0-0-1.html",
+                        "color": "",
+                        "title": "3F",
+                        "tip": "",
+                        "ppid": null
+                    }
+                },
+                "leftAD": {
+                    "ad": {
+                        "id": 760,
+                        "src": "//img2.ch999img.com//newstatic/1591/fc4eedb95656cb.png",
+                        "url": "/product/75967.html",
+                        "title": "小米 RedmiBook",
+                        "tip": "高性能独显轻薄本",
+                        "ad": {
+                            "src": "",
+                            "url": "",
+                            "color": "",
+                            "title": "小米 RedmiBook",
+                            "tip": "高性能独显轻薄本",
+                            "ppid": null
+                        }
+                    },
+                    "text": {
+                        "value": "荣耀MagicBook锐龙版",
+                        "url": "/product/75967.html"
+                    },
+                    "phrase": {
+                        "title": "热销榜",
+                        "list": [
+                            {
+                                "text": "平板电脑",
+                                "url": "/list/21-0-0-0-0-0-0-0-0-0-0-1.html"
+                            },
+                            {
+                                "text": "苹果电脑",
+                                "url": "/list/20-1-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html"
+                            },
+                            {
+                                "text": "办公设备",
+                                "url": "/list/352-0-0-0-0-1.html"
+                            },
+                            {
+                                "text": "电脑外设",
+                                "url": "/list/32-0-0-0-0-0-1.html"
+                            }
+                        ]
+                    }
+                },
+                "shoplist": [
+                    {
+                        "id": 157,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20180328023341569.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/63345.html",
+                            "color": "",
+                            "title": "iPad 2018款 wifi版",
+                            "tip": "9.7英寸 A10芯片",
+                            "ppid": 63345
+                        }
+                    },
+                    {
+                        "id": 416,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190507103718647.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/76907.html",
+                            "color": "",
+                            "title": "联想 拯救者Y7000",
+                            "tip": "高色域吃鸡本",
+                            "ppid": 76907
+                        }
+                    },
+                    {
+                        "id": 447,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190603170715881.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/77302.html",
+                            "color": "",
+                            "title": "华硕 飞行堡垒7",
+                            "tip": "九代酷睿处理器",
+                            "ppid": 77302
+                        }
+                    },
+                    {
+                        "id": 381,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20160524114754237.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/40506.html",
+                            "color": "",
+                            "title": "三星 27英寸 曲面显示器",
+                            "tip": "大屏曲面 震撼体验",
+                            "ppid": 40506
+                        }
+                    },
+                    {
+                        "id": 158,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190321114110608.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/75226.html",
+                            "color": "",
+                            "title": "Kindle 青春版",
+                            "tip": "纤薄机身，超长续航",
+                            "ppid": 75226
+                        }
+                    },
+                    {
+                        "id": 418,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190411141526378.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/76045.html",
+                            "color": "",
+                            "title": "华为MateBook E 2019款",
+                            "tip": "高清触屏 一碰传",
+                            "ppid": 76045
+                        }
+                    },
+                    {
+                        "id": 481,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190306170205414.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/74780.html",
+                            "color": "",
+                            "title": "联想 小新14英寸",
+                            "tip": "更快更薄 八代酷睿",
+                            "ppid": 74780
+                        }
+                    },
+                    {
+                        "id": 439,
+                        "src": "//img2.ch999img.com/pic/product/440x440/2019052816084526.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/77511.html",
+                            "color": "",
+                            "title": "Macbook Pro 2019款",
+                            "tip": "带触控栏触控 ID",
+                            "ppid": 77511
+                        }
+                    }
+                ],
+                "rightAD": [
+                    {
+                        "id": 159,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190318215137935.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/75134.html",
+                            "color": "",
+                            "title": "iPad Air 2019款",
+                            "tip": "10.5 英寸 A12处理器",
+                            "ppid": 75134
+                        }
+                    },
+                    {
+                        "id": 299,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20181102150309600.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/73690.html",
+                            "color": "",
+                            "title": "WS5200 增强版",
+                            "tip": "双核真双频 就是快",
+                            "ppid": 73690
+                        }
+                    },
+                    {
+                        "id": 450,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190505201626872.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/75177.html",
+                            "color": "",
+                            "title": "戴尔 灵越14",
+                            "tip": "八代处理器 微边框",
+                            "ppid": 75177
+                        }
+                    },
+                    {
+                        "id": 277,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20170517162000689.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/37465.html",
+                            "color": "",
+                            "title": "闪迪 酷铄CZ73 U盘",
+                            "tip": "高速读取 金属盘体",
+                            "ppid": 37465
+                        }
+                    }
+                ],
+                "link": [
+                    {
+                        "text": "iPad",
+                        "url": "/list/21-1-0-0-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "平板",
+                        "url": "/list/21-0-0-0-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "二合一笔记本",
+                        "url": "/list/20-0-1903-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "游戏本 ",
+                        "url": "/list/20-0-2441_3725-0-0-0-0-0-0-0-0-0-0-0-0-0-0_0.html"
+                    },
+                    {
+                        "text": "投影仪",
+                        "url": "/list/199-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "新款Surface",
+                        "url": "/list/20-76-0-0-0-0-0-0-0-0-0-0-0-0-0-2-0-0-1.html"
+                    },
+                    {
+                        "text": "品质鼠标",
+                        "url": "/list/178-0-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "机械键盘",
+                        "url": "/list/177-0-0-1991-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "高速U盘",
+                        "url": "/list/202-0-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "上门服务",
+                        "url": "/product/57201.html"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "tab": 2,
+                "style": "style-1",
+                "color": "#36a7a5",
+                "title": {
+                    "id": 82,
+                    "src": "//img2.ch999img.com//newstatic/719/213280e4348b92.png",
+                    "url": "",
+                    "ad": {
+                        "src": "",
+                        "url": "http://www.9ji.com/list/100-0-0-0-0-1.html",
+                        "color": "",
+                        "title": "4F",
+                        "tip": "",
+                        "ppid": null
+                    }
+                },
+                "leftAD": {
+                    "ad": {
+                        "id": 225,
+                        "src": "//img2.ch999img.com//newstatic/1592/bde4ea6cbfb733.png",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/73045.html",
+                            "color": "",
+                            "title": "华为FreeBuds无线耳机",
+                            "tip": "智能语音 现货开售",
+                            "ppid": 73045
+                        }
+                    },
+                    "text": {
+                        "value": "华为freebuds无线耳机",
+                        "url": "/product/73045.html"
+                    },
+                    "phrase": {
+                        "title": "热销榜",
+                        "list": [
+                            {
+                                "text": "耳机耳麦",
+                                "url": "/list/114-0-0-0-0-0-1.html"
+                            },
+                            {
+                                "text": "音箱音响",
+                                "url": "/list/115-0-0-0-0-0-0-0-1.html"
+                            },
+                            {
+                                "text": "无人机",
+                                "url": "/list/155-0-0-0-0-0-1.html"
+                            },
+                            {
+                                "text": "益智早教",
+                                "url": "/list/321-0-0-0-0-1.htmll"
+                            }
+                        ]
+                    }
+                },
+                "shoplist": [
+                    {
+                        "id": 385,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20181204172521934.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/72735.html",
+                            "color": "",
+                            "title": "大疆 口袋云台相机",
+                            "tip": "快拍快剪,精彩即现",
+                            "ppid": 72735
+                        }
+                    },
+                    {
+                        "id": 386,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190621181042455.png",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/78006.html",
+                            "color": "",
+                            "title": "华为mini 蓝牙音箱",
+                            "tip": "乐动听 悦随行",
+                            "ppid": 78006
+                        }
+                    },
+                    {
+                        "id": 387,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190606105332183.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/76063.html",
+                            "color": "",
+                            "title": "FreeLace 蓝牙耳机",
+                            "tip": "快充闪连 18h续航",
+                            "ppid": 76063
+                        }
+                    },
+                    {
+                        "id": 389,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190613114824658.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/77801.html",
+                            "color": "",
+                            "title": "哈曼卡顿便携版智能音箱",
+                            "tip": "经典音质 便携小巧",
+                            "ppid": 77801
+                        }
+                    },
+                    {
+                        "id": 384,
+                        "src": "//img2.ch999img.com/pic/product/440x440/2018102618160746.png",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/71781.html",
+                            "color": "",
+                            "title": "华为智能AI音箱",
+                            "tip": "语音控制家居",
+                            "ppid": 71781
+                        }
+                    },
+                    {
+                        "id": 390,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20180828164548898.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/67796.html",
+                            "color": "",
+                            "title": "大疆 御Mavic 2 新一代无人机",
+                            "tip": "可折叠无人机",
+                            "ppid": 67796
+                        }
+                    },
+                    {
+                        "id": 167,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20181210175601657.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/72719.html",
+                            "color": "",
+                            "title": "猪小屁 故事机",
+                            "tip": "趣味学舌 智能点播",
+                            "ppid": 72719
+                        }
+                    },
+                    {
+                        "id": 391,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20171201114732842.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/60596.html",
+                            "color": "",
+                            "title": "小猪佩奇迷你钢琴",
+                            "tip": "迷你钢琴 寓教于乐",
+                            "ppid": 60596
+                        }
+                    }
+                ],
+                "rightAD": [
+                    {
+                        "id": 170,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190528142656122.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/77498.html",
+                            "color": "",
+                            "title": "华为FreeBuds 悦享版",
+                            "tip": "智慧触控悦享无线",
+                            "ppid": 77498
+                        }
+                    },
+                    {
+                        "id": 171,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20181203172920995.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/72710.html",
+                            "color": "",
+                            "title": "JBL Charge4蓝牙音箱",
+                            "tip": "Type-C接口 充电更方便",
+                            "ppid": 72710
+                        }
+                    },
+                    {
+                        "id": 163,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20171114095245898.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/60165.html",
+                            "color": "",
+                            "title": "Bose QC35 II主动降噪耳机",
+                            "tip": "主动降噪 纯净音质",
+                            "ppid": 60165
+                        }
+                    },
+                    {
+                        "id": 173,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20180413133311784.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/63893.html",
+                            "color": "",
+                            "title": "Bos SoundSport Free蓝牙耳机",
+                            "tip": "专为运动设计",
+                            "ppid": 63893
+                        }
+                    }
+                ],
+                "link": [
+                    {
+                        "text": "beats耳机",
+                        "url": "/list/114-1112-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "JBL音响",
+                        "url": "/list/115-62-0-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "大疆无人机",
+                        "url": "/list/155-1146-0-0-0-0-0-0-0-0-0_0.html"
+                    },
+                    {
+                        "text": "益智早教",
+                        "url": "/list/321-0-0-0-0-1.html"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "tab": 1,
+                "style": "style-1",
+                "color": "#538c7a",
+                "title": {
+                    "id": 83,
+                    "src": "//img2.ch999img.com//newstatic/721/2132811415d4ec.png",
+                    "url": "",
+                    "ad": {
+                        "src": "",
+                        "url": "http://www.9ji.com/list/144-0-0-0-0-1.html",
+                        "color": "",
+                        "title": "5F",
+                        "tip": "",
+                        "ppid": null
+                    }
+                },
+                "leftAD": {
+                    "ad": {
+                        "id": 78,
+                        "src": "//img2.ch999img.com//newstatic/1592/ee19f3df584a10.png",
+                        "url": "/product/77354.html",
+                        "title": "华为720空气净化器",
+                        "tip": "高等级滤芯 高精度检测",
+                        "ad": {
+                            "src": "",
+                            "url": "",
+                            "color": "",
+                            "title": "5F",
+                            "tip": "",
+                            "ppid": null
+                        }
+                    },
+                    "text": {
+                        "value": "华为720全效空气净化器",
+                        "url": "/product/77354.html"
+                    },
+                    "phrase": {
+                        "title": "热销榜",
+                        "list": [
+                            {
+                                "text": "智能电视",
+                                "url": "/list/160-0-0-0-0-0-0-1.html"
+                            },
+                            {
+                                "text": "创意生活",
+                                "url": "/list/156-0-0-0-0-1.html"
+                            },
+                            {
+                                "text": "个人护理",
+                                "url": "/list/319-0-0-0-0-1.html"
+                            },
+                            {
+                                "text": "智能插座",
+                                "url": "/list/383-0-0-0-0-0-1.html"
+                            }
+                        ]
+                    }
+                },
+                "shoplist": [
+                    {
+                        "id": 175,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190429180734953.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/76625.html",
+                            "color": "",
+                            "title": "几素 自然风充电风扇",
+                            "tip": "空气循环 健康舒适",
+                            "ppid": 76625
+                        }
+                    },
+                    {
+                        "id": 392,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190108110132281.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/73144.html",
+                            "color": "",
+                            "title": "罗曼 T7电动牙刷",
+                            "tip": "一体机身 7级防水",
+                            "ppid": 73144
+                        }
+                    },
+                    {
+                        "id": 394,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190513112828661.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/77080.html",
+                            "color": "",
+                            "title": "米家互联网空调C1 一级能效",
+                            "tip": "变频技术 自动清洁",
+                            "ppid": 77080
+                        }
+                    },
+                    {
+                        "id": 395,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190312112114397.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/74666.html",
+                            "color": "",
+                            "title": "罗曼L11电动牙刷情侣套装",
+                            "tip": "情侣套装浪漫定制",
+                            "ppid": 74666
+                        }
+                    },
+                    {
+                        "id": 396,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190620173751779.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/77999.html",
+                            "color": "",
+                            "title": "Yeelight迷你充电台灯",
+                            "tip": "清新颜值 超长续航",
+                            "ppid": 77999
+                        }
+                    },
+                    {
+                        "id": 180,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20180808175552628.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/67236.html",
+                            "color": "",
+                            "title": "鹿客Classic指纹锁",
+                            "tip": "活体指纹 数字加密",
+                            "ppid": 67236
+                        }
+                    },
+                    {
+                        "id": 181,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190318145017998.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/75036.html",
+                            "color": "",
+                            "title": "德尔玛 Deerma 加湿器",
+                            "tip": "净化加湿 恒湿控制",
+                            "ppid": 75036
+                        }
+                    },
+                    {
+                        "id": 182,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190521112202349.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/77158.html",
+                            "color": "",
+                            "title": "维他命迷你榨汁杯",
+                            "tip": "自动清洗 无线鲜榨",
+                            "ppid": 77158
+                        }
+                    }
+                ],
+                "rightAD": [
+                    {
+                        "id": 183,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20171220105146276.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/60843.html",
+                            "color": "",
+                            "title": "公牛 USB开关插座",
+                            "tip": "智能分流 独立开关",
+                            "ppid": 60843
+                        }
+                    },
+                    {
+                        "id": 184,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20181012102251532.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/68204.html",
+                            "color": "",
+                            "title": "特洛克柠萌插线板",
+                            "tip": "创意圆形排插",
+                            "ppid": 68204
+                        }
+                    },
+                    {
+                        "id": 185,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190222121040442.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/74405.html",
+                            "color": "",
+                            "title": "SKG按摩器有线",
+                            "tip": "多位按摩 同步热敷",
+                            "ppid": 74405
+                        }
+                    },
+                    {
+                        "id": 186,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20180313155649841.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "http://www.9ji.com/product/62674.html",
+                            "color": "",
+                            "title": "飞利浦 电动剃须刀",
+                            "tip": "全身水洗 三刀头",
+                            "ppid": 62674
+                        }
+                    }
+                ],
+                "link": [
+                    {
+                        "text": "公牛插座",
+                        "url": "/list/383-1369-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "加湿设备",
+                        "url": "/list/313-0-2309-0-0-0-1_0-0.html"
+                    },
+                    {
+                        "text": "电视盒子",
+                        "url": "/list/96-0-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "按摩设备",
+                        "url": "/list/395-0-0-0-0-1.html"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "tab": 2,
+                "style": "style-1",
+                "color": "#3d849c",
+                "title": {
+                    "id": 84,
+                    "src": "//img2.ch999img.com//newstatic/716/213282f13ef209.png",
+                    "url": "",
+                    "ad": {
+                        "src": "",
+                        "url": "http://www.9ji.com/list/99-0-0-0-0-1.html",
+                        "color": "",
+                        "title": "6F",
+                        "tip": "",
+                        "ppid": null
+                    }
+                },
+                "leftAD": {
+                    "ad": {
+                        "id": 227,
+                        "src": "//img2.ch999img.com//newstatic/1588/e20a4fbba5a389.png",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/75050.html",
+                            "color": "",
+                            "title": "华为手环3Pro",
+                            "tip": "独立GPS 50米防水",
+                            "ppid": 75050
+                        }
+                    },
+                    "text": {
+                        "value": "华为手环3 Pro ",
+                        "url": "/product/75050.html"
+                    },
+                    "phrase": {
+                        "title": "热销榜",
+                        "list": [
+                            {
+                                "text": "智能手环",
+                                "url": "/list/146-0-0-0-0-0-1.html"
+                            },
+                            {
+                                "text": "儿童手表",
+                                "url": "/list/372-0-0-0-0-0-1.html"
+                            },
+                            {
+                                "text": "蓝牙耳机",
+                                "url": "/list/114-0-0-0-3009-0-0-0-1.html"
+                            },
+                            {
+                                "text": "平衡车",
+                                "url": "/list/365-0-0-0-0-0-1.html"
+                            }
+                        ]
+                    }
+                },
+                "shoplist": [
+                    {
+                        "id": 187,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190625101059895.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/78071.html",
+                            "color": "",
+                            "title": "小天才Z6",
+                            "tip": "AI智能识物识单词",
+                            "ppid": 78071
+                        }
+                    },
+                    {
+                        "id": 190,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20181026184637971.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/71783.html",
+                            "color": "",
+                            "title": "华为WATCH GT 智能手表",
+                            "tip": "高清大屏 纤薄机身",
+                            "ppid": 71783
+                        }
+                    },
+                    {
+                        "id": 191,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190118144614955.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/73811.html",
+                            "color": "",
+                            "title": "洛克 手机支架万向球款",
+                            "tip": "重力感应一放即合",
+                            "ppid": 73811
+                        }
+                    },
+                    {
+                        "id": 192,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190301153409512.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/74664.html",
+                            "color": "",
+                            "title": "先科 双USB数显车载充电器",
+                            "tip": "纯铜机身 自动识别",
+                            "ppid": 74664
+                        }
+                    },
+                    {
+                        "id": 188,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190611172807435.png",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/77776.html",
+                            "color": "",
+                            "title": "小米手环4",
+                            "tip": "全新真彩屏",
+                            "ppid": 77776
+                        }
+                    },
+                    {
+                        "id": 189,
+                        "src": "//img2.ch999img.com/pic/product/440x440/2018121817200421.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/72994.html",
+                            "color": "",
+                            "title": "小米行车记录仪1S",
+                            "tip": "本地语音控制",
+                            "ppid": 72994
+                        }
+                    },
+                    {
+                        "id": 193,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20180830143945253.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "http://www.9ji.com/product/67845.html",
+                            "color": "",
+                            "title": "科大讯飞翻译机2.0",
+                            "tip": "实时互译 口语学习",
+                            "ppid": 67845
+                        }
+                    },
+                    {
+                        "id": 397,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20180423163501945.jpg",
+                        "ppid": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "http://www.9ji.com/product/62613.html",
+                            "color": "",
+                            "title": "临时停车号码牌",
+                            "tip": "有效保护车主隐私",
+                            "ppid": 62613
+                        }
+                    }
+                ],
+                "rightAD": [
+                    {
+                        "id": 195,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20180913075620973.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/68460.html",
+                            "color": "",
+                            "title": "Apple Watch Series 4 铝金属系列GPS版",
+                            "tip": "唤醒更好的你",
+                            "ppid": 68460
+                        }
+                    },
+                    {
+                        "id": 196,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190221105525839.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/74371.html",
+                            "color": "",
+                            "title": "沃影T8后视镜记录仪",
+                            "tip": "全面屏行车记录仪",
+                            "ppid": 74371
+                        }
+                    },
+                    {
+                        "id": 197,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20180911190407967.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/68260.html",
+                            "color": "",
+                            "title": "三星 Galaxy Watch智能手表",
+                            "tip": "息屏显示  一目了然",
+                            "ppid": 68260
+                        }
+                    },
+                    {
+                        "id": 198,
+                        "src": "//img2.ch999img.com/pic/product/440x440/20190215145334580.jpg",
+                        "url": "",
+                        "title": "",
+                        "tip": "",
+                        "ad": {
+                            "src": "",
+                            "url": "/product/74147.html",
+                            "color": "",
+                            "title": "米家电动滑板车Pro",
+                            "tip": "超长续航 强劲动力",
+                            "ppid": 74147
+                        }
+                    }
+                ],
+                "link": [
+                    {
+                        "text": "华为手表",
+                        "url": "/list/145-7-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "小米手环",
+                        "url": "/list/146-9-0-0-0-0-1.html"
+                    },
+                    {
+                        "text": "米家滑板车",
+                        "url": "/product/49330.html"
+                    },
+                    {
+                        "text": "小天才儿童手表",
+                        "url": "/list/99-1294_1247-0-0-0-0_0.html"
+                    }
+                ]
+            }
+        ]
+    },
+    "elevator": [
+        {
+            "show": false,
+            "text": "活动推荐",
+            "url": "#go_topic"
+        },
+        {
+            "show": true,
+            "text": "超优惠",
+            "url": "#go_troika"
+        },
+        {
+            "show": true,
+            "text": "手机",
+            "url": "#go_floor1"
+        },
+        {
+            "show": true,
+            "text": "手机配件",
+            "url": "#go_floor2"
+        },
+        {
+            "show": true,
+            "text": "电脑办公",
+            "url": "#go_floor3"
+        },
+        {
+            "show": true,
+            "text": "时尚影音",
+            "url": "#go_floor4"
+        },
+        {
+            "show": true,
+            "text": "智能家居",
+            "url": "#go_floor5"
+        },
+        {
+            "show": true,
+            "text": "智能穿戴",
+            "url": "#go_floor6"
+        },
+        {
+            "show": true,
+            "text": "更多好货",
+            "url": "#go_more"
+        },
+        {
+            "show": false,
+            "text": "",
+            "url": ""
+        }
+    ]
+}
