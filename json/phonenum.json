@@ -1,0 +1,806 @@
+[
+    {
+        "id": 1,
+        "name": "品牌",
+        "value": [
+            {
+                "id": "7",
+                "value": "",
+                "name": "华为",
+                "imagePath": "https://img2.ch999img.com//pic/product/210x90/201309270439540.jpg"
+            },
+            {
+                "id": "1",
+                "value": "",
+                "name": "苹果",
+                "imagePath": "https://img2.ch999img.com//pic/brand/20170519185532_7641.jpg"
+            },
+            {
+                "id": "1255",
+                "value": "",
+                "name": "荣耀",
+                "imagePath": "https://img2.ch999img.com//pic/brand/20181107144138_6019.jpg"
+            },
+            {
+                "id": "9",
+                "value": "",
+                "name": "小米",
+                "imagePath": "https://img2.ch999img.com//pic/brand/20170519185608_5405.jpg"
+            },
+            {
+                "id": "11",
+                "value": "",
+                "name": "OPPO",
+                "imagePath": "https://img2.ch999img.com//pic/brand/20170519185654_0131.jpg"
+            },
+            {
+                "id": "14",
+                "value": "",
+                "name": "vivo",
+                "imagePath": "https://img2.ch999img.com//pic/brand/20170519185640_5272.jpg"
+            },
+            {
+                "id": "2",
+                "value": "",
+                "name": "三星",
+                "imagePath": "https://img2.ch999img.com//pic/product/210x90/201309270439180.jpg"
+            },
+            {
+                "id": "1154",
+                "value": "",
+                "name": "一加",
+                "imagePath": "https://img2.ch999img.com//pic/brand/20170519190414_7726.jpg"
+            },
+            {
+                "id": "8",
+                "value": "",
+                "name": "魅族",
+                "imagePath": "https://img2.ch999img.com//pic/brand/20170519185626_6859.jpg"
+            },
+            {
+                "id": "1155",
+                "value": "",
+                "name": "美图",
+                "imagePath": "https://img2.ch999img.com//pic/brand/20171124100453_9358.jpg"
+            },
+            {
+                "id": "3",
+                "value": "",
+                "name": "诺基亚",
+                "imagePath": "https://img2.ch999img.com//pic/brand/20170519190332_5117.jpg"
+            },
+            {
+                "id": "1121",
+                "value": "",
+                "name": "努比亚",
+                "imagePath": "https://img2.ch999img.com//pic/brand/20170519190257_6812.jpg"
+            },
+            {
+                "id": "1585",
+                "value": "",
+                "name": "黑鲨",
+                "imagePath": "https://img2.ch999img.com//pic/brand/20180413174720_7016.jpg"
+            },
+            {
+                "id": "1134",
+                "value": "",
+                "name": "锤子",
+                "imagePath": "https://img2.ch999img.com//pic/brand/20170519185918_6460.jpg"
+            },
+            {
+                "id": "1363",
+                "value": "",
+                "name": "AGM旅行手机",
+                "imagePath": "https://img2.ch999img.com//pic/brand/20170623160642_6905.jpg"
+            },
+            {
+                "id": "12",
+                "value": "",
+                "name": "中兴",
+                "imagePath": "https://img2.ch999img.com//pic/brand/20170522140030_3523.jpg"
+            },
+            {
+                "id": "1230",
+                "value": "",
+                "name": "华硕",
+                "imagePath": "https://img2.ch999img.com//pic/brand/20170601141133_3590.jpg"
+            },
+            {
+                "id": "77",
+                "value": "",
+                "name": "其他",
+                "imagePath": "https://img2.ch999img.com//pic/brand/20170623151406_3363.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "运行内存",
+        "value": [
+            {
+                "id": "3361",
+                "value": "",
+                "name": "4GB",
+                "imagePath": ""
+            },
+            {
+                "id": "3362",
+                "value": "",
+                "name": "6GB",
+                "imagePath": ""
+            },
+            {
+                "id": "3363",
+                "value": "",
+                "name": "8GB",
+                "imagePath": ""
+            },
+            {
+                "id": "3358",
+                "value": "",
+                "name": "1GB",
+                "imagePath": ""
+            },
+            {
+                "id": "3359",
+                "value": "",
+                "name": "2GB",
+                "imagePath": ""
+            },
+            {
+                "id": "3360",
+                "value": "",
+                "name": "3GB",
+                "imagePath": ""
+            },
+            {
+                "id": "3817",
+                "value": "",
+                "name": "10GB",
+                "imagePath": ""
+            },
+            {
+                "id": "4120",
+                "value": "",
+                "name": "12GB",
+                "imagePath": ""
+            },
+            {
+                "id": "3381",
+                "value": "",
+                "name": "1G以下",
+                "imagePath": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "机身内存",
+        "value": [
+            {
+                "id": "3368",
+                "value": "",
+                "name": "64GB",
+                "imagePath": ""
+            },
+            {
+                "id": "3369",
+                "value": "",
+                "name": "128GB",
+                "imagePath": ""
+            },
+            {
+                "id": "3367",
+                "value": "",
+                "name": "32GB",
+                "imagePath": ""
+            },
+            {
+                "id": "3364",
+                "value": "",
+                "name": "4GB",
+                "imagePath": ""
+            },
+            {
+                "id": "3366",
+                "value": "",
+                "name": "16GB",
+                "imagePath": ""
+            },
+            {
+                "id": "3370",
+                "value": "",
+                "name": "256GB",
+                "imagePath": ""
+            },
+            {
+                "id": "3448",
+                "value": "",
+                "name": "512GB",
+                "imagePath": ""
+            },
+            {
+                "id": "3382",
+                "value": "",
+                "name": "1GB以下",
+                "imagePath": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "屏幕尺寸范围",
+        "value": [
+            {
+                "id": "320",
+                "value": "",
+                "name": "6.5英寸以上",
+                "imagePath": ""
+            },
+            {
+                "id": "3357",
+                "value": "",
+                "name": "6.0-6.5英寸",
+                "imagePath": ""
+            },
+            {
+                "id": "319",
+                "value": "",
+                "name": "5.6-5.99英寸",
+                "imagePath": ""
+            },
+            {
+                "id": "318",
+                "value": "",
+                "name": "5.5-5.0英寸",
+                "imagePath": ""
+            },
+            {
+                "id": "3856",
+                "value": "",
+                "name": "4.9-4.1英寸",
+                "imagePath": ""
+            },
+            {
+                "id": "316",
+                "value": "",
+                "name": "4.0英寸及以下",
+                "imagePath": ""
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "指纹识别",
+        "value": [
+            {
+                "id": "1474",
+                "value": "",
+                "name": "不支持",
+                "imagePath": ""
+            },
+            {
+                "id": "3442",
+                "value": "",
+                "name": "屏幕指纹",
+                "imagePath": ""
+            },
+            {
+                "id": "1476",
+                "value": "",
+                "name": "背面指纹",
+                "imagePath": ""
+            },
+            {
+                "id": "1477",
+                "value": "",
+                "name": "侧面指纹",
+                "imagePath": ""
+            },
+            {
+                "id": "1475",
+                "value": "",
+                "name": "正面指纹",
+                "imagePath": ""
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "产品特点",
+        "value": [
+            {
+                "id": "3392",
+                "value": "",
+                "name": "屏幕指纹",
+                "imagePath": ""
+            },
+            {
+                "id": "3211",
+                "value": "",
+                "name": "面部识别解锁",
+                "imagePath": ""
+            },
+            {
+                "id": "3356",
+                "value": "",
+                "name": "无线充电",
+                "imagePath": ""
+            },
+            {
+                "id": "3210",
+                "value": "",
+                "name": "全面屏",
+                "imagePath": ""
+            },
+            {
+                "id": "3948",
+                "value": "",
+                "name": "防水防尘",
+                "imagePath": ""
+            },
+            {
+                "id": "3949",
+                "value": "",
+                "name": "液冷散热",
+                "imagePath": ""
+            },
+            {
+                "id": "4130",
+                "value": "",
+                "name": "折叠屏",
+                "imagePath": ""
+            },
+            {
+                "id": "3444",
+                "value": "",
+                "name": "后置三摄像头",
+                "imagePath": ""
+            },
+            {
+                "id": "3772",
+                "value": "",
+                "name": "后置四摄像头",
+                "imagePath": ""
+            },
+            {
+                "id": "3198",
+                "value": "",
+                "name": "前置双摄像头",
+                "imagePath": ""
+            },
+            {
+                "id": "3786",
+                "value": "",
+                "name": "前置三摄像头",
+                "imagePath": ""
+            },
+            {
+                "id": "3947",
+                "value": "",
+                "name": "支持NFC",
+                "imagePath": ""
+            },
+            {
+                "id": "3824",
+                "value": "",
+                "name": "曲面屏",
+                "imagePath": ""
+            },
+            {
+                "id": "2552",
+                "value": "",
+                "name": "虹膜识别",
+                "imagePath": ""
+            },
+            {
+                "id": "736",
+                "value": "",
+                "name": "三防手机",
+                "imagePath": ""
+            },
+            {
+                "id": "4109",
+                "value": "",
+                "name": "红外遥控",
+                "imagePath": ""
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "分辨率",
+        "value": [
+            {
+                "id": "3852",
+                "value": "",
+                "name": "1080p以上-2K",
+                "imagePath": ""
+            },
+            {
+                "id": "3853",
+                "value": "",
+                "name": "全高清1080p",
+                "imagePath": ""
+            },
+            {
+                "id": "3854",
+                "value": "",
+                "name": "高清720p",
+                "imagePath": ""
+            },
+            {
+                "id": "3855",
+                "value": "",
+                "name": "标清720p以下",
+                "imagePath": ""
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "网络制式",
+        "value": [
+            {
+                "id": "4122",
+                "value": "",
+                "name": "5G全网通",
+                "imagePath": ""
+            },
+            {
+                "id": "401",
+                "value": "",
+                "name": "4G全网通",
+                "imagePath": ""
+            },
+            {
+                "id": "2771",
+                "value": "",
+                "name": "4G+全网通",
+                "imagePath": ""
+            },
+            {
+                "id": "464",
+                "value": "",
+                "name": "移动4G",
+                "imagePath": ""
+            },
+            {
+                "id": "475",
+                "value": "",
+                "name": "联通4G",
+                "imagePath": ""
+            },
+            {
+                "id": "526",
+                "value": "",
+                "name": "电信4G",
+                "imagePath": ""
+            },
+            {
+                "id": "399",
+                "value": "",
+                "name": "移动3G",
+                "imagePath": ""
+            },
+            {
+                "id": "396",
+                "value": "",
+                "name": "联通3G",
+                "imagePath": ""
+            },
+            {
+                "id": "403",
+                "value": "",
+                "name": "电信3G",
+                "imagePath": ""
+            },
+            {
+                "id": "395",
+                "value": "",
+                "name": "移动2G/联通2G",
+                "imagePath": ""
+            },
+            {
+                "id": "2766",
+                "value": "",
+                "name": "电信2G",
+                "imagePath": ""
+            },
+            {
+                "id": "2584",
+                "value": "",
+                "name": "单卡",
+                "imagePath": ""
+            },
+            {
+                "id": "397",
+                "value": "",
+                "name": "双卡",
+                "imagePath": ""
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "电池容量",
+        "value": [
+            {
+                "id": "3844",
+                "value": "",
+                "name": "4000-5999mAh",
+                "imagePath": ""
+            },
+            {
+                "id": "3845",
+                "value": "",
+                "name": "3000-3999mAh",
+                "imagePath": ""
+            },
+            {
+                "id": "3846",
+                "value": "",
+                "name": "2000-2999mAh",
+                "imagePath": ""
+            },
+            {
+                "id": "3847",
+                "value": "",
+                "name": "1200-1999mAh",
+                "imagePath": ""
+            },
+            {
+                "id": "3848",
+                "value": "",
+                "name": "1200mAh以下",
+                "imagePath": ""
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "后置摄像头",
+        "value": [
+            {
+                "id": "895",
+                "value": "",
+                "name": "2000万及以上",
+                "imagePath": ""
+            },
+            {
+                "id": "896",
+                "value": "",
+                "name": "1200万-1999万",
+                "imagePath": ""
+            },
+            {
+                "id": "897",
+                "value": "",
+                "name": "500万-1199万",
+                "imagePath": ""
+            },
+            {
+                "id": "898",
+                "value": "",
+                "name": "500万以下",
+                "imagePath": ""
+            },
+            {
+                "id": "901",
+                "value": "",
+                "name": "无摄像头",
+                "imagePath": ""
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "前置摄像头",
+        "value": [
+            {
+                "id": "3378",
+                "value": "",
+                "name": "2000万及以上",
+                "imagePath": ""
+            },
+            {
+                "id": "3377",
+                "value": "",
+                "name": "1200万-1999万",
+                "imagePath": ""
+            },
+            {
+                "id": "3376",
+                "value": "",
+                "name": "500万-1199万",
+                "imagePath": ""
+            },
+            {
+                "id": "3375",
+                "value": "",
+                "name": "500万以下",
+                "imagePath": ""
+            },
+            {
+                "id": "3379",
+                "value": "",
+                "name": "无摄像头",
+                "imagePath": ""
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "快速充电",
+        "value": [
+            {
+                "id": "1896",
+                "value": "",
+                "name": "支持",
+                "imagePath": ""
+            },
+            {
+                "id": "1897",
+                "value": "",
+                "name": "不支持",
+                "imagePath": ""
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "操作系统",
+        "value": [
+            {
+                "id": "311",
+                "value": "",
+                "name": "苹果",
+                "imagePath": ""
+            },
+            {
+                "id": "477",
+                "value": "",
+                "name": "安卓",
+                "imagePath": ""
+            },
+            {
+                "id": "390",
+                "value": "",
+                "name": "基础功能机",
+                "imagePath": ""
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "处理器品牌",
+        "value": [
+            {
+                "id": "3837",
+                "value": "",
+                "name": "苹果A系列",
+                "imagePath": ""
+            },
+            {
+                "id": "3839",
+                "value": "",
+                "name": "高通骁龙",
+                "imagePath": ""
+            },
+            {
+                "id": "3840",
+                "value": "",
+                "name": "海思麒麟",
+                "imagePath": ""
+            },
+            {
+                "id": "3841",
+                "value": "",
+                "name": "联发科",
+                "imagePath": ""
+            },
+            {
+                "id": "3842",
+                "value": "",
+                "name": "三星猎户座",
+                "imagePath": ""
+            },
+            {
+                "id": "3865",
+                "value": "",
+                "name": "其它",
+                "imagePath": ""
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "核心数",
+        "value": [
+            {
+                "id": "66",
+                "value": "",
+                "name": "八核",
+                "imagePath": ""
+            },
+            {
+                "id": "71",
+                "value": "",
+                "name": "四核",
+                "imagePath": ""
+            },
+            {
+                "id": "69",
+                "value": "",
+                "name": "双核",
+                "imagePath": ""
+            },
+            {
+                "id": "616",
+                "value": "",
+                "name": "六核",
+                "imagePath": ""
+            },
+            {
+                "id": "68",
+                "value": "",
+                "name": "非智能",
+                "imagePath": ""
+            },
+            {
+                "id": "1831",
+                "value": "",
+                "name": "十核",
+                "imagePath": ""
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "机身厚度",
+        "value": [
+            {
+                "id": "3849",
+                "value": "",
+                "name": "7mm以下",
+                "imagePath": ""
+            },
+            {
+                "id": "3850",
+                "value": "",
+                "name": "7mm-8.5mm",
+                "imagePath": ""
+            },
+            {
+                "id": "3851",
+                "value": "",
+                "name": "8.5mm以上",
+                "imagePath": ""
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "数据接口",
+        "value": [
+            {
+                "id": "40",
+                "value": "",
+                "name": "Lightning",
+                "imagePath": ""
+            },
+            {
+                "id": "1422",
+                "value": "",
+                "name": "Type-C",
+                "imagePath": ""
+            },
+            {
+                "id": "41",
+                "value": "",
+                "name": "Micro USB",
+                "imagePath": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+{
+    "id": 1,
+    "name": "品牌",
+    "value": [
+        {
+            "id": "1",
+            "value": "",
+            "name": "苹果",
+            "imagePath": "https://img2.ch999img.com//pic/brand/20170519185532_7641.jpg"
+        },
+        {
+            "id": "7",
+            "value": "",
+            "name": "华为",
+            "imagePath": "https://img2.ch999img.com//pic/product/210x90/201309270439540.jpg"
+        },
+        {
+            "id": "9",
+            "value": "",
+            "name": "小米",
+            "imagePath": "https://img2.ch999img.com//pic/brand/20170519185608_5405.jpg"
+        },
+        {
+            "id": "6",
+            "value": "",
+            "name": "联想",
+            "imagePath": "https://img2.ch999img.com//pic/brand/20170601140359_7701.jpg"
+        },
+        {
+            "id": "68",
+            "value": "",
+            "name": "华硕",
+            "imagePath": "https://img2.ch999img.com//pic/brand/20170601140818_9617.jpg"
+        },
+        {
+            "id": "71",
+            "value": "",
+            "name": "戴尔",
+            "imagePath": "https://img2.ch999img.com//pic/brand/20170601141500_9602.jpg"
+        },
+        {
+            "id": "70",
+            "value": "",
+            "name": "惠普",
+            "imagePath": "https://img2.ch999img.com//pic/brand/20170601143250_1588.jpg"
+        },
+        {
+            "id": "76",
+            "value": "",
+            "name": "微软",
+            "imagePath": "https://img2.ch999img.com//pic/brand/20170601142211_8535.jpg"
+        },
+        {
+            "id": "2",
+            "value": "",
+            "name": "三星",
+            "imagePath": "https://img2.ch999img.com//pic/product/210x90/201309270439180.jpg"
+        },
+        {
+            "id": "1125",
+            "value": "",
+            "name": "神舟",
+            "imagePath": "https://img2.ch999img.com//pic/brand/20170601144200_4087.jpg"
+        },
+        {
+            "id": "4",
+            "value": "",
+            "name": "索尼",
+            "imagePath": "https://img2.ch999img.com//pic/product/210x90/201309270440460.jpg"
+        },
+        {
+            "id": "1117",
+            "value": "",
+            "name": "罗技",
+            "imagePath": "https://img2.ch999img.com//pic/brand/20170601153650_3703.jpg"
+        },
+        {
+            "id": "1168",
+            "value": "",
+            "name": "希捷",
+            "imagePath": "https://img2.ch999img.com//pic/brand/20170601161934_4825.jpg"
+        },
+        {
+            "id": "1167",
+            "value": "",
+            "name": "西部数据",
+            "imagePath": "https://img2.ch999img.com//pic/brand/20170601162720_4504.jpg"
+        },
+        {
+            "id": "1233",
+            "value": "",
+            "name": "坚果",
+            "imagePath": "https://img2.ch999img.com//pic/brand/20170601152932_0629.jpg"
+        },
+        {
+            "id": "1196",
+            "value": "",
+            "name": "冠捷",
+            "imagePath": "https://img2.ch999img.com//pic/brand/20170601150443_0422.jpg"
+        },
+        {
+            "id": "1285",
+            "value": "",
+            "name": "大水牛",
+            "imagePath": "https://img2.ch999img.com//pic/brand/20170601151300_7181.jpg"
+        },
+        {
+            "id": "43",
+            "value": "",
+            "name": "闪迪",
+            "imagePath": "https://img2.ch999img.com//pic/brand/20170626134320_3015.jpg"
+        }
+    ]
+}

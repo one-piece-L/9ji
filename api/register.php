@@ -41,7 +41,7 @@ $data = array("status"=>"", "msg"=>"", "data"=>"");
   $data["msg"] = "恭喜你，注册成功！";
    }else{
   $data["status"] = "error";
-  $data["msg"] = "抱歉，用户名已经被注册了！";
+  $data["msg"] = "抱歉，用户名或手机号已经被注册了！";
   }
 
 

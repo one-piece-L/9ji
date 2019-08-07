@@ -4,22 +4,34 @@
         "productId": 39876,
         "ppid": 77775,
         "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190614143102844.jpg",
+        "promotionImage": "",
         "promotionImage2": "https://img2.ch999img.com//pic/edt/ProEva/20190802/20190802172120_0767.png",
         "name": "华为 nova 5 Pro 全网通版 亮黑色 8GB+128GB ",
         "profile": "【火热销售】专享免息分期,3200万人像超夜景，4800万AI四摄",
         "price": "2999",
         "priceText": "2999",
+        "installment": "",
+        "consultCount": 0,
         "commentCount": 1074,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
         "praiseRate": "99%",
         "hasAppPrice": false,
+        "newProduct": {},
         "bargain": {
             "price": "2599",
             "url": "https://m.9ji.com/bargain/list?productId=39876"
-          },
+        },
         "secondHand": {
             "price": "2899",
             "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=77868"
         },
+        "nameTag": "",
+        "hspid": 0,
         "tag": [
             "40W超级快充",
             "屏幕指纹",
@@ -999,5 +1011,1133 @@
         "colors": [],
         "soldFlag": false,
         "url": "https://m.9ji.com/product/74734.html"
+    },
+    {
+        "id": 74811,
+        "productId": 38022,
+        "ppid": 74811,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190618233723774.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "华为 nova 4 全网通标配版 苏音蓝 6GB+128GB ",
+        "profile": "【火热销售】6.4英寸极点全面屏，AI智慧美拍",
+        "price": "2099",
+        "priceText": "2099",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 1097,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "99%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {
+            "price": "1650",
+            "url": "https://m.9ji.com/bargain/list?productId=38022"
+        },
+        "secondHand": {},
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "2000万超广角三摄",
+            "海思麒麟970",
+            "自拍极点全面屏"
+        ],
+        "hintTags": [],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/74811.html"
+    },
+    {
+        "id": 72846,
+        "productId": 37976,
+        "ppid": 72846,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/2019061823444384.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "华为畅享9 全网通高配版 极光蓝 4GB+64GB ",
+        "profile": "【大电池 强劲续航】高通骁龙450，千元珍珠屏，AI长续航",
+        "price": "1099",
+        "priceText": "1099",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 2434,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "98%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {
+            "price": "850",
+            "url": "https://m.9ji.com/bargain/list?productId=37976"
+        },
+        "secondHand": {
+            "price": "999",
+            "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=72846"
+        },
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "AI智慧双摄",
+            "4000mAh大电池",
+            "全面屏"
+        ],
+        "hintTags": [
+            {
+                "type": 2,
+                "prefix": "",
+                "suffix": "",
+                "text": "免息分期"
+            }
+        ],
+        "rank": {
+            "has": true,
+            "link": "https://m.9ji.com/product/hot/rank?cid=2",
+            "text": "手机单品当日销量第7名"
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/72846.html"
+    },
+    {
+        "id": 71270,
+        "productId": 37351,
+        "ppid": 71270,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190212085323948.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "华为 Mate 20 X 全网通版 宝石蓝 6GB+128GB ",
+        "profile": "【现货热销】专享免息分期，海思麒麟980",
+        "price": "4099",
+        "priceText": "4099",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 1159,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "99%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {
+            "price": "3050",
+            "url": "https://m.9ji.com/bargain/list?productId=37351"
+        },
+        "secondHand": {
+            "price": "2899",
+            "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=71270"
+        },
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "30倍变焦",
+            "7.2英寸",
+            "后置三摄"
+        ],
+        "hintTags": [
+            {
+                "type": 2,
+                "prefix": "",
+                "suffix": "",
+                "text": "免息分期"
+            }
+        ],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/71270.html"
+    },
+    {
+        "id": 79526,
+        "productId": 39979,
+        "ppid": 79526,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190805094524327.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "华为 nova 5 Pro 星耀礼盒版 珊瑚橙 8GB+256GB ",
+        "profile": "【幻紫星辉 流光溢彩】专享免息分期，3200万人像超夜景，4800万AI四摄",
+        "price": "3799",
+        "priceText": "3799",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 0,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {},
+        "secondHand": {},
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "40W超级快充",
+            "后置四摄",
+            "屏幕指纹"
+        ],
+        "hintTags": [
+            {
+                "type": 2,
+                "prefix": "",
+                "suffix": "",
+                "text": "免息分期"
+            }
+        ],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/79526.html"
+    },
+    {
+        "id": 77191,
+        "productId": 39422,
+        "ppid": 77191,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190516162731420.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "一加手机7 全网通版 曜岩灰 12GB+256GB ",
+        "profile": "【火热销售】高通骁龙855 4800万超清像素",
+        "price": "3499",
+        "priceText": "3499",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 167,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "95%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {},
+        "secondHand": {},
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "面部识别解锁",
+            "全面屏"
+        ],
+        "hintTags": [],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/77191.html"
+    },
+    {
+        "id": 76921,
+        "productId": 39515,
+        "ppid": 76921,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190326225203323.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "华为 P30 Pro 限量套装版 珠光贝母 8GB+128GB ",
+        "profile": "【限量套装版】专享免息分期，采用施华洛奇元素，璨若星辰的银色礼盒，星钻保护壳",
+        "price": "5388",
+        "priceText": "5388",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 2,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "100%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {},
+        "secondHand": {},
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "50倍变焦",
+            "屏内指纹",
+            "后置徕卡四摄",
+            "防水防尘IP68"
+        ],
+        "hintTags": [
+            {
+                "type": 2,
+                "prefix": "",
+                "suffix": "",
+                "text": "免息分期"
+            }
+        ],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/76921.html"
+    },
+    {
+        "id": 76621,
+        "productId": 39319,
+        "ppid": 76621,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190423212747724.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "魅族 16s 全网通版 凝光白 8GB+128GB ",
+        "profile": "【追求不止 只因热爱】高通骁龙855，新一代屏下指纹解锁",
+        "price": "2930",
+        "priceText": "2930",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 187,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "97%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {},
+        "secondHand": {
+            "price": "2299",
+            "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=76619"
+        },
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "全对称式全面屏",
+            "4800万超清双摄"
+        ],
+        "hintTags": [],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/76621.html"
+    },
+    {
+        "id": 75315,
+        "productId": 38924,
+        "ppid": 75315,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190618234508938.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "华为畅享9e 全网通版 宝石蓝 3GB+64GB ",
+        "profile": "【火热销售】6.09英寸高清珍珠屏，大存储大音量，出彩夜拍",
+        "price": "899",
+        "priceText": "899",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 180,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "99%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {},
+        "secondHand": {},
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "64GB大内存",
+            "后置1300万像素",
+            "12nm八核处理器"
+        ],
+        "hintTags": [
+            {
+                "type": 2,
+                "prefix": "",
+                "suffix": "",
+                "text": "免息分期"
+            }
+        ],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/75315.html"
+    },
+    {
+        "id": 75255,
+        "productId": 38856,
+        "ppid": 75255,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/2019061823441446.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "华为畅享9S 全网通版 幻夜黑 4GB+128GB ",
+        "profile": "【超广角AI三摄】背面指纹，面部识别，6.21英寸珍珠屏",
+        "price": "1499",
+        "priceText": "1499",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 294,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "98%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {},
+        "secondHand": {},
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "2400万广角AI三摄",
+            "海思麒麟710"
+        ],
+        "hintTags": [
+            {
+                "type": 2,
+                "prefix": "",
+                "suffix": "",
+                "text": "免息分期"
+            }
+        ],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/75255.html"
+    },
+    {
+        "id": 77584,
+        "productId": 39722,
+        "ppid": 77584,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190530154817119.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "魅族 16Xs 全网通版 珊瑚橙 6GB+64GB ",
+        "profile": "【极边全面屏】4000WAI三摄，极速屏下指纹",
+        "price": "1499",
+        "priceText": "1499",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 23,
+        "stockName": "",
+        "productStatus": {
+            "text": "预约",
+            "color": "#C80F1E",
+            "alpha": 0.5
+        },
+        "praiseRate": "95%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {},
+        "secondHand": {},
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "高通骁龙675",
+            "面部识别解锁 ",
+            "后置三摄像头"
+        ],
+        "hintTags": [],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/77584.html"
+    },
+    {
+        "id": 76910,
+        "productId": 39385,
+        "ppid": 76910,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20181210110413605.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "华为畅享9 全网通顶配版 珊瑚红 4GB+128GB ",
+        "profile": "【大电池 强劲续航】6.26英寸珍珠屏,高通骁龙450",
+        "price": "1299",
+        "priceText": "1299",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 101,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "99%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {},
+        "secondHand": {
+            "price": "899",
+            "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=76572"
+        },
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "AI智慧双摄",
+            "4000mAh大电池",
+            "全面屏"
+        ],
+        "hintTags": [
+            {
+                "type": 2,
+                "prefix": "",
+                "suffix": "",
+                "text": "免息分期"
+            }
+        ],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/76910.html"
+    },
+    {
+        "id": 75981,
+        "productId": 39153,
+        "ppid": 75981,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190326224310153.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "华为 P30 4G+全网通版 极光色 8GB+64GB ",
+        "profile": "【影像之美】专享免息分期，后置徕卡三摄,麒麟980智慧大脑",
+        "price": "3688",
+        "priceText": "3688",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 82,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "98%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {
+            "price": "2999",
+            "url": "https://m.9ji.com/bargain/list?productId=39153"
+        },
+        "secondHand": {},
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "30倍变焦",
+            "后置徕卡三摄",
+            "屏内指纹识别",
+            "麒麟980"
+        ],
+        "hintTags": [
+            {
+                "type": 2,
+                "prefix": "",
+                "suffix": "",
+                "text": "免息分期"
+            }
+        ],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/75981.html"
+    },
+    {
+        "id": 74440,
+        "productId": 38538,
+        "ppid": 74440,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190225100058392.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "华为 Mate X 全网通版 星际蓝 8GB+512GB ",
+        "profile": "【5G 折叠屏手机】5G芯片麒麟980+巴龙5000",
+        "price": "1234567",
+        "priceText": "待发布",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 0,
+        "stockName": "",
+        "productStatus": {
+            "text": "预约",
+            "color": "#C80F1E",
+            "alpha": 0.5
+        },
+        "praiseRate": "",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {},
+        "secondHand": {},
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "5G全网通",
+            "55W超级快充",
+            "麒麟980"
+        ],
+        "hintTags": [],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/74440.html"
+    },
+    {
+        "id": 67868,
+        "productId": 35527,
+        "ppid": 67868,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190618233959672.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "Apple iPhone XS 全网通版 金色 64GB ",
+        "profile": "【火热销售】官网最高直降1100元",
+        "price": "6850",
+        "priceText": "6850",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 2904,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "99%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {
+            "price": "6099",
+            "url": "https://m.9ji.com/bargain/list?productId=35527"
+        },
+        "secondHand": {
+            "price": "5399",
+            "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=67868"
+        },
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "A12仿生",
+            "IP68防水",
+            "面容ID",
+            "性能之选"
+        ],
+        "hintTags": [],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/67868.html"
+    },
+    {
+        "id": 73804,
+        "productId": 38348,
+        "ppid": 73804,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20181217153607987.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "华为 nova 4 4G+全网通标配版 苏音蓝 8GB+128GB ",
+        "profile": "【自拍极点全面屏】后置三摄，AI智慧美拍",
+        "price": "1999",
+        "priceText": "1999",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 150,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "100%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {},
+        "secondHand": {},
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "海思麒麟970",
+            "自拍极点全面屏"
+        ],
+        "hintTags": [],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/73804.html"
+    },
+    {
+        "id": 71196,
+        "productId": 37338,
+        "ppid": 71196,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20181015163945107.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "华为畅享MAX 全网通版 幻夜黑 4GB+128GB ",
+        "profile": "【大屏大视界】杜比全景声，5000mA超长续航",
+        "price": "1399",
+        "priceText": "1399",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 399,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "99%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {},
+        "secondHand": {
+            "price": "1099",
+            "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=71196"
+        },
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "7.12英寸",
+            "全面屏",
+            "后置双摄",
+            "高通骁龙660"
+        ],
+        "hintTags": [],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/71196.html"
+    },
+    {
+        "id": 71704,
+        "productId": 37517,
+        "ppid": 71704,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20181025171843921.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "魅族 X8 全网通版 亮黑 6GB+64GB ",
+        "profile": "【轻奢拍照手机】骁龙710，2000万AI智能美颜",
+        "price": "1260",
+        "priceText": "1260",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 60,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "100%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {},
+        "secondHand": {
+            "price": "899",
+            "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=71702"
+        },
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "6.2英寸",
+            "全面屏",
+            "后置双摄"
+        ],
+        "hintTags": [],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/71704.html"
+    },
+    {
+        "id": 71275,
+        "productId": 37352,
+        "ppid": 71275,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20181112155045841.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "华为 Mate 20 RS 保时捷版 瑞红 8GB+512GB ",
+        "profile": "【保时捷设计】压感屏内指纹识别，4000万徕卡超广角三摄",
+        "price": "11999",
+        "priceText": "11999",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 63,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "100%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {
+            "price": "7555",
+            "url": "https://m.9ji.com/bargain/list?productId=37352"
+        },
+        "secondHand": {
+            "price": "7199",
+            "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=71275"
+        },
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "30倍数码变焦",
+            "海思麒麟980"
+        ],
+        "hintTags": [],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/71275.html"
+    },
+    {
+        "id": 73617,
+        "productId": 36649,
+        "ppid": 73617,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20180919185703984.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "魅族 16X 全网通版 汝窑白 6GB+64GB ",
+        "profile": "【轻奢旗舰】6.0英寸全面屏，屏下指纹",
+        "price": "1550",
+        "priceText": "1550",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 114,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "97%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {},
+        "secondHand": {
+            "price": "1099",
+            "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=70352"
+        },
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "骁龙710",
+            "人脸解锁2.0",
+            "旗舰级摄像"
+        ],
+        "hintTags": [],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/73617.html"
+    },
+    {
+        "id": 70801,
+        "productId": 35176,
+        "ppid": 70801,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20180925160437515.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "魅族 16th 全网通版 极光蓝 8GB+128GB ",
+        "profile": "【魅族年度旗舰】超大屏占比，全面屏手机的典范，光学指纹解锁！",
+        "price": "2299",
+        "priceText": "2299",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 160,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "99%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {
+            "price": "1699",
+            "url": "https://m.9ji.com/bargain/list?productId=35176"
+        },
+        "secondHand": {
+            "price": "1499",
+            "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=67226"
+        },
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "骁龙845",
+            "液冷散热",
+            "屏幕指纹",
+            "四曲面机身"
+        ],
+        "hintTags": [],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/70801.html"
+    },
+    {
+        "id": 76711,
+        "productId": 39431,
+        "ppid": 76711,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190428153953765.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "努比亚 红魔3 游戏手机全网通 玄铁黑 6GB+128GB ",
+        "profile": "【有风才是真的狂】骁龙855，内置离心风扇散热，5000mAh大电池",
+        "price": "2660",
+        "priceText": "2660",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 83,
+        "stockName": "",
+        "productStatus": {
+            "text": "",
+            "color": "",
+            "alpha": 0
+        },
+        "praiseRate": "93%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {
+            "price": "2350",
+            "url": "https://m.9ji.com/bargain/list?productId=39431"
+        },
+        "secondHand": {
+            "price": "2499",
+            "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=76692"
+        },
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "双线性扬声器",
+            "面部识别解锁 ",
+            "液冷散热"
+        ],
+        "hintTags": [],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/76711.html"
+    },
+    {
+        "id": 73085,
+        "productId": 37846,
+        "ppid": 73085,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20181221101441166.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "努比亚红魔Mars 游戏手机 烈焰红 8GB+128GB ",
+        "profile": "【不红魔 不成活】骁龙845，4D智能震感",
+        "price": "2099",
+        "priceText": "2099",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 58,
+        "stockName": "",
+        "productStatus": {
+            "text": "缺货",
+            "color": "#000000",
+            "alpha": 0.4
+        },
+        "praiseRate": "98%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {},
+        "secondHand": {
+            "price": "1399",
+            "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=72602"
+        },
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "边框触控",
+            "风冷+液冷双散热系统",
+            "电竞手机"
+        ],
+        "hintTags": [],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/73085.html"
+    },
+    {
+        "id": 73792,
+        "productId": 37615,
+        "ppid": 73792,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20190117111004851.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "努比亚 X 全网通版 星空典藏 8GB+512GB ",
+        "profile": "【双面黑科技】，骁龙845，AOD熄屏",
+        "price": "4999",
+        "priceText": "4999",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 29,
+        "stockName": "",
+        "productStatus": {
+            "text": "缺货",
+            "color": "#000000",
+            "alpha": 0.4
+        },
+        "praiseRate": "100%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {},
+        "secondHand": {
+            "price": "1799",
+            "url": "https://huishou.9ji.com/mobile/#/secondHand/list?ppid=73791"
+        },
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "6.26英寸全面屏",
+            "双屏幕设计",
+            "侧面双指纹解锁"
+        ],
+        "hintTags": [],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/73792.html"
+    },
+    {
+        "id": 64970,
+        "productId": 34128,
+        "ppid": 64970,
+        "imagePath": "https://img2.ch999img.com/pic/product/440x440/20180515201957378.jpg",
+        "promotionImage": "",
+        "promotionImage2": "",
+        "name": "锤子 坚果 R1 全网通版 碳黑色 8GB+128GB ",
+        "profile": "【次世代旗舰手机】，6.17英寸全面屏，压力感应屏幕",
+        "price": "3599",
+        "priceText": "3599",
+        "installment": "",
+        "consultCount": 0,
+        "commentCount": 37,
+        "stockName": "",
+        "productStatus": {
+            "text": "缺货",
+            "color": "#000000",
+            "alpha": 0.4
+        },
+        "praiseRate": "97%",
+        "hasAppPrice": false,
+        "newProduct": {},
+        "bargain": {},
+        "secondHand": {},
+        "nameTag": "",
+        "hspid": 0,
+        "tag": [
+            "6.17英寸",
+            "面部识别解锁",
+            "无线充电",
+            "全面屏"
+        ],
+        "hintTags": [],
+        "rank": {
+            "has": false,
+            "link": "",
+            "text": ""
+        },
+        "colors": [],
+        "soldFlag": false,
+        "url": "https://m.9ji.com/product/64970.html"
     }
 ]

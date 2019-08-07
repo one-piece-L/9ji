@@ -372,9 +372,9 @@ input[type=radio] {
   min-width: 30px;
   border-radius: 2px;
 }
-.right-side .el-pagination .el-pagination.is-background .el-pager li:not(.disabled).active {
-  background-color: #f21c1c;
-  color: #fff;
+.right-side .el-pagination .active {
+  background-color: #f21c1c !important;
+  color: #fff !important;
 }
 .right-side .el-pagination__total {
   margin-right: 10px;

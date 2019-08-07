@@ -8,6 +8,7 @@
 }
 body {
     background: #fff;
+  
 }
 .red, a.red {
     color: #f21c1c;
@@ -31,8 +32,6 @@ a.main-color {
 a.white {
     color: #fff;
 }
-
-
 .main-bgcolor {
     background-color: #f21c1c;
 }
@@ -400,9 +399,9 @@ input[type=radio] {
             min-width: 30px;
             border-radius: 2px;
         }
-        .el-pagination.is-background .el-pager li:not(.disabled).active {
-            background-color: #f21c1c;
-            color: #fff;
+         .active {
+            background-color: #f21c1c !important;
+            color: #fff !important;
         }
     }
     .el-pagination__total {
@@ -427,4 +426,5 @@ input[type=radio] {
         min-width: 30px;
         border-radius: 2px;
     }
+   
 }
