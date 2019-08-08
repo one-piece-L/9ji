@@ -214,7 +214,9 @@ body {
 .border {
     border: 1px solid #dfdfdf;
 }
-
+.border-bottom {
+    border-bottom: 1px solid #dfdfdf;
+}
 .contain {
     width: 1200px;
     margin: 0 auto;

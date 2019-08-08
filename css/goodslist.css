@@ -248,9 +248,14 @@ input[type=radio] {
   height: 20px;
   color: #999;
   margin-left: 5px;
+  align-items: center;
+  transform: rotate(90deg);
 }
-.right-side .sort-bar .sort-direction .sort-up {
-  margin-bottom: -14px;
+.right-side .sort-bar .sort-direction span {
+  font-size: 16px;
+}
+.right-side .sort-bar .sort-direction span:hover {
+  color: #c80f1e;
 }
 .right-side .sort-bar .el-checkbox {
   color: #6b6b6b;

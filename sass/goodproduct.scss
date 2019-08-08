@@ -1,0 +1,208 @@
+@charset "utf-8";
+
+/* 公共样式 */
+a:hover {
+    text-decoration: none;
+}
+
+.margin-top {
+    margin-top: 10px;
+}
+
+.breadcrumb {
+    height: 40px;
+    line-height: 40px;
+}
+
+body {
+    background: #ffffff;
+}
+
+.product-intro {
+    height: 550px;
+    position: relative;
+
+    .preview-wrap {
+        position: absolute;
+        width: 440px;
+
+        .pane-container,
+        .preview-box {
+            border: 1px solid #dfdfdf;
+        }
+
+        .preview-box {
+            margin-bottom: 1vh;
+            width: 438px;
+            height: 438px;
+            position: relative;
+
+            .preview-image {
+                width: 100%;
+                height: auto;
+            }
+        }
+
+        .control-box {
+            height: 72px;
+            position: relative;
+
+            span {
+                width: 14px;
+                display: inline-block;
+                font-size: 16px;
+                height: 100%;
+                line-height: 72px;
+                position: absolute;
+                cursor: pointer;
+                color: red;
+            }
+
+            .angle-right {
+                right: 0;
+                top: 0;
+            }
+
+            .thumb-list {
+                // width: 390px;
+                width: 100%;
+                overflow: hidden;
+                display: inline-block;
+                margin: 5px 14px;
+                padding: 0 6px;
+
+                .thumb-item {
+                    display: inline-block;
+                    border: 1px solid #dfdfdf;
+
+                    img {
+                        width: 72px;
+                        height: 72px;
+                    }
+                }
+            }
+        }
+
+    }
+
+    .params-wrapper {
+        position: absolute;
+        right: 0;
+        width: 740px;
+        height: 100%;
+        border: 1px solid #dfdfdf;
+        padding: 10px 20px;
+        box-sizing: border-box;
+        color: #666666;
+
+        h2 {
+            font-size: 16px;
+            height: 24px;
+            margin-bottom: 10px;
+        }
+
+        .rot {
+            color: #f21c1c;
+            // padding-bottom: 10px;
+            margin-bottom: 10px;
+            height: 36px;
+        }
+
+        .product-price {
+            height: 100px;
+            background: #f7f7f7;
+            padding: 5px 5px;
+            position: relative;
+
+            p {
+                margin: 10px 0 0 10px;
+
+                span {
+                    color: #333333;
+                }
+
+                .hotprice {
+                    font-size: 22px;
+                    color: #f21c1c;
+                    margin-right: 5px;
+                }
+            }
+
+            .pinlun {
+                position: absolute;
+                right: 0;
+                top: 10px;
+
+                dl {
+
+                    float: left;
+                    padding: 0 10px;
+                    border-right: 1px solid #ddd;
+                    text-align: center;
+
+                    &:last-child {
+                        border-right: 0;
+                    }
+                }
+
+            }
+
+        }
+
+        .select {
+            height: 46px;
+            // color: #f21c1c;
+
+            dl {
+                margin-top: 15px;
+
+                dt {
+                    display: inline-block;
+                    height: 32px;
+                    margin: 0 10px;
+                }
+
+                dd {
+                    display: inline-block;
+                    margin: 0 10px 10px 0;
+                    padding: 0 10px;
+                    height: 34px;
+                    line-height: 34px;
+                    text-align: center;
+                    border: 1px solid #ccc;
+                    color: #333333;
+                    cursor: pointer;
+
+                    &:hover {
+                        border: 1px solid #f21c1c;
+                        color: #f21c1c;
+                    }
+
+                }
+            }
+
+        }
+
+        .param {
+            position: absolute;
+            bottom: 50px;
+            left: 130px;
+            .product-btn {
+                padding: 0 20px;
+                height: 44px;
+                font-size: 16px;
+                line-height: 44px;
+                margin-left: 13px;
+                cursor: pointer;
+                display: inline-block;
+                border: 1px solid #666;
+                color: #333;
+                &:first-child{
+                    border: 1px solid #f21c1c;
+                    color: #fff;
+                    background-color: #f21c1c;
+                }
+            }
+        }
+    }
+}

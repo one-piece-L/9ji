@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>登录</title>
+    <link rel="stylesheet" href="../css/base.css">
+    <link rel="stylesheet" href="../css/login.css">
+    <script src="../js/jquery-3.1.1.js"></script>
+    <script src="../js/login.js"></script>
+</head>
+
+<body>
+    <div class="view">
+        <div class="login-header contain flex flex-align-center">
+            <a href="../" >
+            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAA8CAMAAACac46aAAAAmVBMVEUAAADIDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx7IDx4WqPC9AAAAMnRSTlMAkIAPcEDwoR5RwDAJ4NAGN/r1sVoYqAMVmSojaurlioXYxUfdvn550065tHVjOl7Lk+dXNQQAAASdSURBVFjD7djXuqIwFAXgIIJ4BBEUsfdjL8f1/g83yd7wgSKKOOVm1hUQ5Y8hTUSUEWQ24lXWkBmJ35gKZDTxKhpkKnzcG1VTubgizlJ7lanxCXzATY4iiuvjZcxP4CaSpL+so0D+IdyqU7qQOdTTadyQ4VJdo+btqqPgU9hDbow03MBtpgxvazLjB3CtkpNaBCM/1WewxrDBzykLi7yE/woW/xqufVEcyEy+oiy8DNzbq4IJZBx1VC8NPx1OXYKfDqc/A9eycGBZvU/h0eh9eADAswnuF4PtfZvn787Y4JINsHkX5s6lE4xlEdj+BkjuAL7BrszxE3hsFYD3AMk7gOUqVOafwFi4RWCWDY9lvudk+AieFoWhFWpqlusgueXuyb2Dp5DZFIZRfwkncgcqZsv+lu493IbMqThsDl/CWTm0RQaeU28tDqMinOewksfRRyuRLDJwSD2gVQzu+lQ4fglf2GsEK0RyBh5ApVcMrnQA7FyoNJ7AcQv3tkAs38MX3oEVhEUfsLiuVj6cdVlOwwx9F4bdHzO6r5sH37v9USyn4XBCNywMi+AsrpBZiVx4HDlHduMWaN/ABlTOReFkHHTzYcPnlnXb7LK8shhOO454Bx5CZZQPS1m6NJzJJVm6aTigwTR7C15z33oCi8aAL9i7uOgciDTM86VnvQOHDi0WVFR6B9Lz+XG9A/PMf/oM1qAyeAcOm7Qu2x/BQ49/cAZe58MdcM1ScO29DX28MHmDLOxrFY6heshM044igm2HhoGd/rvu9eUn66/hYVy8hMr1tnSGdNr329sNVDrpCZfTfA2fotm5N6GD3m1p6ymsm5D5SXa+XnE4/Ilm5zYe7t1rz+De4m6iWxeH6/HEs6LKh/fldu0JLJ/Pgi/GmXlFYb0LYKJLYe1Tz8pkcNTiLJNHoE7p0+fbh2NVp6roQr9fU/0wNxfT4xsG/ZP4q7Fa4n/+59/E7kynHZuPjVpdjdaaHhe6xma6Wbrx6WA0nV0C7rPaLL46pMN3c+b3Hdz1q7TqObDiCZcKMeGB2PgCLxO6qmMyiXdhlhhsJrabzRam9QDuA6vrcbrlXdzSh9/drA8e5gHB85DrgzKwhm9XtugB/SxcBY507505lQ3qYx9QXb/wEyoYF/4jWAre8iIwgJOBdROjuB9Qg3650dkWI4JXLq1wpWAHAXUiIAOf8JOe9b1k17RDk2Cq2L4cvECduvMDuH+zihqparg+dAPNLia2+matDFyFMxQimD+A29iJJJ30dm2OoYGvoYeqWGA+LAO7TfiHto8HcJfGS9K8h+RkDEvC4opxB9hZZWCh1yDTfgCv0b/ZvJnJPAIzVHDg026f4BKxdvVhgLE6vKKSwAP46V1AE6dkw9QVEuYNb6skfA7o11FDBiaMCOa2/ra5Va4D1dZmQ1COUmNYH6MrysFVzI0wmAFL4S7nWIgU3FthNbLC3smhPxN9eFrDto0DMBUMC1sPS8LxC4Q1vUOeBxGsL0aqBRbgTIz0LtybCYY5JZvarqzg7w3Vss6MV6UVrJ5JC07Y2ZvwF1VdUBp9B978yrvA5JUGdZCc/AIf6qxUTzrDzgAAAABJRU5ErkJggg=="
+                    width="100" height="50" >
+            </a>
+            <div class="login-welcome main-color" >欢迎登录</div>
+        </div>
+        <div class="login-content" style="background:#000 url('https://img2.ch999img.com/newstatic/944/47a86aac72ed10.jpg') no-repeat center top;">
+            <div class="contain relative">
+                <div class="login-box">
+                    <div class="login-title flex flex-align-center flex-justify-between border-bottom">
+                        <a href="javascript:;" class="">扫码登录</a>
+                        <i></i><a href="javascript:;" data-v-1d04bd12="" class="cur">账户登录</a>
+                    </div>
+                    <div class="login" data-v-1d04bd12="">
+                        <div class="login-item flex flex-align-center" data-v-1d04bd12="">
+                            <div class="item-icon" data-v-1d04bd12=""><svg aria-hidden="true" width="16.8" height="19.2"
+                                    viewBox="0 0 448 512" focusable="false" class="grey-9 fa-icon"
+                                    style="font-size:1.2em;" data-v-1d04bd12="">
+                                    <path
+                                        d="M313.6 304c74.2 0 134.4 60.2 134.4 134.4v25.6c0 26.5-21.5 48-48 48h-352c-26.5 0-48-21.5-48-48v-25.6c0-74.2 60.2-134.4 134.4-134.4 28.8 0 42.5 16 89.6 16s60.9-16 89.6-16zM400 464v-25.6c0-47.6-38.8-86.4-86.4-86.4-14.7 0-37.9 16-89.6 16-51.3 0-75-16-89.6-16-47.6 0-86.4 38.8-86.4 86.4v25.6h352zM224 288c-79.5 0-144-64.5-144-144s64.5-144 144-144 144 64.5 144 144-64.5 144-144 144zM224 48c-52.9 0-96 43.1-96 96s43.1 96 96 96 96-43.1 96-96-43.1-96-96-96z">
+                                    </path>
+                                </svg></div><input type="text" placeholder="用户名/手机号" value=""
+                                class="login-input flex-child-grow" data-v-1d04bd12="">
+                            <!---->
+                        </div>
+                        <div class="login-item flex flex-align-center" data-v-1d04bd12="">
+                            <div class="item-icon" data-v-1d04bd12=""><svg aria-hidden="true" width="16.8" height="19.2"
+                                    viewBox="0 0 448 512" focusable="false" class="grey-9 fa-icon"
+                                    style="font-size:1.2em;" data-v-1d04bd12="">
+                                    <path
+                                        d="M400 256c26.5 0 48 21.5 48 48v160c0 26.5-21.5 48-48 48h-352c-26.5 0-48-21.5-48-48v-160c0-26.5 21.5-48 48-48h24v-102.5c0-84 67.5-153.2 151.5-153.5s152.5 68 152.5 152v16c0 13.3-10.7 24-24 24h-32c-13.3 0-24-10.7-24-24v-16c0-39.9-32.7-72.4-72.7-72-39.6 0.4-71.3 33.3-71.3 72.9v103.1h248zM264 408v-48c0-22.1-17.9-40-40-40s-40 17.9-40 40v48c0 22.1 17.9 40 40 40s40-17.9 40-40z">
+                                    </path>
+                                </svg></div><input type="password" placeholder="密码" value=""
+                                class="login-input flex-child-grow" data-v-1d04bd12="">
+                           
+                        </div>
+                        <div class="flex flex-align-center flex-justify-between" style="margin-top:16px;"
+                            data-v-1d04bd12=""><a href="javascript:;" class="flex flex-center" data-v-1d04bd12=""><i
+                                    class="mr-5 anticon anticon-mobile" data-v-1d04bd12=""><svg data-v-1d04bd12=""
+                                        viewBox="64 64 896 896" data-icon="mobile" width="1em" height="1em"
+                                        fill="currentColor" aria-hidden="true" class="">
+                                        <path
+                                            d="M744 62H280c-35.3 0-64 28.7-64 64v768c0 35.3 28.7 64 64 64h464c35.3 0 64-28.7 64-64V126c0-35.3-28.7-64-64-64zm-8 824H288V134h448v752zM472 784a40 40 0 1 0 80 0 40 40 0 1 0-80 0z">
+                                        </path>
+                                    </svg></i> 短信验证码登录
+                            </a>
+                            <!----><a target="_top" href="/acount/findpwd.aspx" data-v-1d04bd12="">找回密码</a></div>
+                    </div>
+                    <a href="javascript:;" class="login-button flex flex-center grey-d-bg" data-v-1d04bd12=""><span
+                            class="white" data-v-1d04bd12="">登 录</span>
+                    </a>
+                    <div class="another">
+                            <a slot="right" target="_top" href="http://127.0.0.1:1905/9ji/html/register.html" class="flex flex-center margin-bottom" data-v-1d04bd12=""><span data-v-1d04bd12="">立即注册</span><svg aria-hidden="true" width="16" height="16" viewBox="0 0 512 512" focusable="false" class="ml-5 grey-6 fa-icon" data-v-1d04bd12=""><path d="M256 8c137 0 248 111 248 248s-111 248-248 248-248-111-248-248 111-248 248-248zM369.9 239l-135.5-135.5c-9.4-9.4-24.6-9.4-33.9 0l-17 17c-9.4 9.4-9.4 24.6 0 33.9l101.6 101.6-101.6 101.6c-9.4 9.4-9.4 24.6 0 33.9l17 17c9.4 9.4 24.6 9.4 33.9 0l135.5-135.5c9.4-9.4 9.4-24.6 0-34z"></path></svg></a>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

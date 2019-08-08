@@ -1,0 +1,97 @@
+.contain {
+  width: 980px;
+}
+
+.white, a.white {
+  color: #fff;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.login-header {
+  height: 80px;
+}
+.login-header .login-welcome {
+  border-left: 1px solid #dfdfdf;
+  margin-left: 40px;
+  padding-left: 40px;
+  height: 36px;
+  line-height: 36px;
+  font-size: 24px;
+  color: #f21c1c;
+}
+
+.login-content {
+  height: 450px;
+}
+.login-content .login-box {
+  width: 350px;
+  position: absolute;
+  right: 0;
+  top: 25px;
+  height: 400px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  background: #fff;
+}
+.login-content .login-box .login-title {
+  height: 50px;
+}
+.login-content .login-box .login-title a {
+  height: 100%;
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  -webkit-flex-grow: 1;
+  flex-grow: 1;
+  line-height: 50px;
+  text-align: center;
+  position: relative;
+  display: block;
+  font-size: 16px;
+}
+.login-content .login-box .login-title i {
+  border-right: 1px solid #dfdfdf;
+  height: 20px;
+  display: block;
+}
+.login-content .login-box .login-title a.cur {
+  color: #f21c1c;
+}
+.login-content .login-box .login {
+  margin: 50px 20px 0;
+}
+.login-content .login-box .login .login-item {
+  height: 36px;
+  border: 1px solid #dfdfdf;
+  margin-top: 16px;
+  padding-left: 10px;
+}
+.login-content .login-box .login .login-item .item-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  text-align: center;
+}
+.login-content .login-box .login .login-item .login-input {
+  height: 34px;
+  border: 0;
+  outline: none;
+}
+.login-content .login-box .login-button {
+  height: 45px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  margin: 16px 20px;
+  font-size: 14px;
+}
+.login-content .login-box .another {
+  position: absolute;
+  left: 20px;
+  right: 20px;
+  bottom: 0;
+  height: 86px;
+}
+
+/*# sourceMappingURL=login.css.map */

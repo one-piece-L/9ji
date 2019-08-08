@@ -4,20 +4,21 @@ $(function(){
             this.arr =response.data;
         }
         init(){
-            this.careEle()
+            this.careEle();
+            this.addClick();
         }
         careEle(){
          let  lis =this.arr.map(function(ele){
                 
                 return  `<li data-ppid="${ele.ppid}">
                 <i class="tag-img" style="background-image:url(${ele.promotionImage2});"></i>
-                <a href="/product/77775.html" title="${ele.name} ${ele.profile}" class="main-pic-link">
+                <a href="##" title="${ele.name} ${ele.profile}" class="main-pic-link">
                     <img src="${ele.imagePath}" class="lazy-img main-pic" loaded="true">
                 </a>
                 <div class="sku-color flex mt-5 overflow-hide"><a href="javascript:" title="${ele.name} " data-ppid="${ele.id}" class="flex-child-noshrink cur">
                 <img src="${ele.imagePath}" class="lazy-img" loaded="true"></a>
                 </div>
-                <a href="${ele.url}" title="${ele.name}  ${ele.profile}" class="lines-2 mt-5">
+                <a href="##" title="${ele.name}  ${ele.profile}" class="lines-2 mt-5">
                 ${ele.name}  ${ele.profile}
                 </a>
                 <div class="price mt-5 mb-5 flex">
@@ -29,9 +30,9 @@ $(function(){
                     </span>
     
                 </div>
-                <p class="grey-9">已有 <a href="/product/77775.html#tab_top" class="grey-9" "="">${ele.commentCount}</a>
+                <p class="grey-9">已有 <a href="" class="grey-9" "="">${ele.commentCount}</a>
                     人评价</p>
-               <a href=" https://www.9ji.com/goods/rank.aspx?cid=2" class="mt-5 flex flex-align-center flex-justify-between"><span>${JSON.parse(ele.rank).text}</span></a>
+               <a href=" " class="mt-5 flex flex-align-center flex-justify-between"><span>${JSON.parse(ele.rank).text}</span></a>
             </li>`
             }).join(" ");
            
@@ -39,6 +40,13 @@ $(function(){
             $(".list").children().html(lis);
 
            
+        }
+        addClick(){
+            $(".list ul").on("click","li",function(){
+               let ppid = $(this).attr("data-ppid")
+                // console.log( $(this).attr("data-ppid"));
+                window.location.href="http://127.0.0.1:1905/9ji/html/goodproduct.html"+ `?ppid=${ppid}`
+            })
         }
         
     }
@@ -83,7 +91,7 @@ $(function(){
              })
              let frist = ` <a href="#"
                 class="router-link-exact-active router-link-active main-bgcolor white">
-                  <span data-v-fc63a264="">全部</span>
+                  <span>全部</span>
               </a>`
              items.nextAll().children("div").each(function(){
                     $(this).prepend(frist); 
@@ -154,6 +162,10 @@ $(function(){
     );
     /*   ------------------------------------- ------ */
     let orderType = 0;
+    
+    
+    
+    
     let getList = (page) => {
         $.ajax({
             type: "post",
@@ -206,9 +218,10 @@ $(function(){
        /* 下一个 */
        $(".btn-next").click(function(){
             // $(".el-pager").children()
+            let index =$(".el-pager").children(".active").index();
           let lengths = $(".el-pager").children().length -1;
-          let index =$(".el-pager").children(".active").index();
           if(index<lengths){
+            let index =$(".el-pager").children(".active").index();
             $(".el-pager").children().eq(index+1).addClass("active").siblings().removeClass("active");
               getList(index+1);
               console.log(122);
@@ -220,8 +233,7 @@ $(function(){
        })
        /* 上一个 */
          $(".btn-prev").click(function(){
-            // $(".el-pager").children()
-          let index =$(".el-pager").children(".active").index();
+            let index =$(".el-pager").children(".active").index();
           if(index>0){
             $(".el-pager").children().eq(index-1).addClass("active").siblings().removeClass("active");
               getList(index-1);
@@ -232,8 +244,18 @@ $(function(){
        })
        /* 排序 */
      $(".sort-direction").children().click(function(){
-            let index = $(this).index();
-            console.log(index);
+            let xun = $(this).index();
+            let index =$(".el-pager").children(".active").index();
+              
+            if(xun){
+                orderType = 2;
+                getList(index)
+                
+            }else{
+                
+                orderType = 1;
+                getList(index)
+            }
             
      })
 

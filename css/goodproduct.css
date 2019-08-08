@@ -1,0 +1,174 @@
+@charset "UTF-8";
+/* 公共样式 */
+a:hover {
+  text-decoration: none;
+}
+
+.margin-top {
+  margin-top: 10px;
+}
+
+.breadcrumb {
+  height: 40px;
+  line-height: 40px;
+}
+
+body {
+  background: #ffffff;
+}
+
+.product-intro {
+  height: 550px;
+  position: relative;
+}
+.product-intro .preview-wrap {
+  position: absolute;
+  width: 440px;
+}
+.product-intro .preview-wrap .pane-container,
+.product-intro .preview-wrap .preview-box {
+  border: 1px solid #dfdfdf;
+}
+.product-intro .preview-wrap .preview-box {
+  margin-bottom: 1vh;
+  width: 438px;
+  height: 438px;
+  position: relative;
+}
+.product-intro .preview-wrap .preview-box .preview-image {
+  width: 100%;
+  height: auto;
+}
+.product-intro .preview-wrap .control-box {
+  height: 72px;
+  position: relative;
+}
+.product-intro .preview-wrap .control-box span {
+  width: 14px;
+  display: inline-block;
+  font-size: 16px;
+  height: 100%;
+  line-height: 72px;
+  position: absolute;
+  cursor: pointer;
+  color: red;
+}
+.product-intro .preview-wrap .control-box .angle-right {
+  right: 0;
+  top: 0;
+}
+.product-intro .preview-wrap .control-box .thumb-list {
+  width: 100%;
+  overflow: hidden;
+  display: inline-block;
+  margin: 5px 14px;
+  padding: 0 6px;
+}
+.product-intro .preview-wrap .control-box .thumb-list .thumb-item {
+  display: inline-block;
+  border: 1px solid #dfdfdf;
+}
+.product-intro .preview-wrap .control-box .thumb-list .thumb-item img {
+  width: 72px;
+  height: 72px;
+}
+.product-intro .params-wrapper {
+  position: absolute;
+  right: 0;
+  width: 740px;
+  height: 100%;
+  border: 1px solid #dfdfdf;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  color: #666666;
+}
+.product-intro .params-wrapper h2 {
+  font-size: 16px;
+  height: 24px;
+  margin-bottom: 10px;
+}
+.product-intro .params-wrapper .rot {
+  color: #f21c1c;
+  margin-bottom: 10px;
+  height: 36px;
+}
+.product-intro .params-wrapper .product-price {
+  height: 100px;
+  background: #f7f7f7;
+  padding: 5px 5px;
+  position: relative;
+}
+.product-intro .params-wrapper .product-price p {
+  margin: 10px 0 0 10px;
+}
+.product-intro .params-wrapper .product-price p span {
+  color: #333333;
+}
+.product-intro .params-wrapper .product-price p .hotprice {
+  font-size: 22px;
+  color: #f21c1c;
+  margin-right: 5px;
+}
+.product-intro .params-wrapper .product-price .pinlun {
+  position: absolute;
+  right: 0;
+  top: 10px;
+}
+.product-intro .params-wrapper .product-price .pinlun dl {
+  float: left;
+  padding: 0 10px;
+  border-right: 1px solid #ddd;
+  text-align: center;
+}
+.product-intro .params-wrapper .product-price .pinlun dl:last-child {
+  border-right: 0;
+}
+.product-intro .params-wrapper .select {
+  height: 46px;
+}
+.product-intro .params-wrapper .select dl {
+  margin-top: 15px;
+}
+.product-intro .params-wrapper .select dl dt {
+  display: inline-block;
+  height: 32px;
+  margin: 0 10px;
+}
+.product-intro .params-wrapper .select dl dd {
+  display: inline-block;
+  margin: 0 10px 10px 0;
+  padding: 0 10px;
+  height: 34px;
+  line-height: 34px;
+  text-align: center;
+  border: 1px solid #ccc;
+  color: #333333;
+  cursor: pointer;
+}
+.product-intro .params-wrapper .select dl dd:hover {
+  border: 1px solid #f21c1c;
+  color: #f21c1c;
+}
+.product-intro .params-wrapper .param {
+  position: absolute;
+  bottom: 50px;
+  left: 130px;
+}
+.product-intro .params-wrapper .param .product-btn {
+  padding: 0 20px;
+  height: 44px;
+  font-size: 16px;
+  line-height: 44px;
+  margin-left: 13px;
+  cursor: pointer;
+  display: inline-block;
+  border: 1px solid #666;
+  color: #333;
+}
+.product-intro .params-wrapper .param .product-btn:first-child {
+  border: 1px solid #f21c1c;
+  color: #fff;
+  background-color: #f21c1c;
+}
+
+/*# sourceMappingURL=goodproduct.css.map */

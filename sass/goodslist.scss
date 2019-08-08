@@ -256,10 +256,15 @@ input[type=radio] {
             height: 20px;
             color: #999;
             margin-left: 5px;
-
-            .sort-up {
-                margin-bottom: -14px;
+            align-items: center;
+            transform: rotate(90deg);
+           span {
+            font-size: 16px;
+             &:hover{
+                 color: #c80f1e;
+             }
             }
+           
         }
 
         .el-checkbox {
