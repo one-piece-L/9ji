@@ -17,11 +17,16 @@ $(function(){
                     
                     this.redeLeft(this.responses)
                     this.redeRight();
+                    this.addCart()
                 }
             });
         }
         init(){
            this.getData();
+           /* 给购物车按钮添加点击事件 */
+        //    $(".product-btn").click(function() {
+        //     window.location.href ="./cart.html";
+        //    })
         }
         redeLeft(arr){
              let lis =''
@@ -78,10 +83,34 @@ $(function(){
             </div>`
             $(".params-wrapper").prepend(html);;
         }
+        addCart(){
+              /* 加入购物车的功能 */
+    $(".product-btn").click( () =>{
+       console.log("aaaaa");
+       
+        var ppid = this.ppid;
+        var price = this.responses.price;       
+        $.ajax({
+            type: "get",
+            url: "../api/addCartData.php",
+            data: `ppid=${ppid}&price=${price}`,
+            dataType: "json",
+            success: function(response) {
+                // console.log(response);
+                /* 购物车的图标 */
+                // var text = response["totalRow"];
+                // $("#catShow").html(text)
+
+            }
+        });
+
+    })
+
+        }
 
     }
     (new product()).init();
-
+   
 })
 
 

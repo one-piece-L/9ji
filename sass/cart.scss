@@ -1,0 +1,283 @@
+.main-color {
+    color: #c80f1e;
+}
+.large-font {
+    font-size: 16px;
+}
+.block,
+a.block {
+    display: block;
+}
+
+.pro-img-box {
+    width: 80px;
+    height: 80px;
+}
+
+body {
+    background: #fff;
+}
+
+// 选择按钮
+.radio-box {
+    position: relative;
+
+    input {
+        outline: none;
+        border: none !important;
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        box-shadow: none !important;
+        vertical-align: middle;
+
+        &:after {
+            content: '';
+            background: #fff;
+            background-position: center top;
+            width: 16px;
+            height: 16px;
+            position: absolute;
+            top: 1px !important;
+            left: 0 !important;
+            background-size: 16px;
+            background-repeat: no-repeat;
+            background-image: url(../images/checkbox-icon.png);
+        }
+
+        &:checked:after {
+            content: '';
+            background-position: center bottom;
+            position: absolute;
+            height: 16px;
+            width: 16px;
+            box-shadow: none !important;
+        }
+    }
+}
+
+.order-head {
+    .order-logo {
+        display: block;
+        width: 160px;
+        height: 100px;
+
+        img {
+            margin-top: 20px;
+            width: 100px;
+        }
+    }
+
+    .order-step dl {
+        float: left;
+        background: #dfdfdf;
+        height: 8px;
+        width: 120px;
+        position: relative;
+        top: 30px;
+
+        dt {
+            width: 24px;
+            height: 24px;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            margin-left: -12px;
+            margin-top: -12px;
+            line-height: 24px;
+            text-align: center;
+            background: #dfdfdf;
+            border: solid 1px #ccc;
+            border-radius: 100%;
+            font-size: 14px;
+        }
+
+        dd {
+            top: 24px;
+            left: 0;
+            text-align: center;
+            width: 100%;
+            position: absolute;
+        }
+
+        &.cur {
+            background: #c80f1e;
+
+            dt {
+                background: #c80f1e;
+                border-color: #c80f1e;
+                color: #fff;
+            }
+        }
+    }
+}
+
+.cart-box {
+    .cart-tab {
+        height: 30px;
+        line-height: 30px;
+        border-bottom: solid 2px #dfdfdf;
+
+        .left a {
+            display: inline-block;
+            padding: 0 5px;
+            font-size: 15px;
+            text-decoration: none;
+
+            &.cur {
+                color: #c80f1e;
+                border-bottom: solid 2px #c80f1e;
+                height: 30px;
+            }
+        }
+    }
+
+    .cart-item {
+        border: solid 1px #dfdfdf;
+        clear: both;
+        margin-top: 10px;
+        overflow: hidden;
+
+        .cart-check {
+            float: left;
+            width: 50px;
+            text-align: center;
+            padding: 15px 0 0;
+        }
+
+        .cart-product-box {
+            margin-left: 50px;
+            overflow: hidden;
+            padding: 15px 0;
+            border-bottom: solid 1px #dfdfdf;
+        }
+
+        div.cart-product-box:last-child {
+            border-bottom: 0;
+        }
+
+        .product {
+            width: 550px;
+            overflow: hidden;
+            float: left;
+
+            img {
+
+                width: 78px;
+                height: 78px;
+                float: left;
+                border: solid 1px #eee;
+                vertical-align: top;
+            }
+
+            .product-title {
+                margin-left: 102px;
+                width: 400px;
+
+                h5 {
+                    font-weight: normal;
+                }
+            }
+        }
+
+        .unit-price,
+        .discount,
+        .count,
+        .sum {
+            width: 120px;
+            float: left;
+        }
+
+        .count {
+            a {
+                display: inline-block;
+                width: 20px;
+                height: 20px;
+                text-align: center;
+                line-height: 20px;
+                border: solid 1px #dfdfdf;
+                background: #f5f5f5;
+                vertical-align: middle;
+                text-decoration: none;
+            }
+            input {
+                width: 30px;
+                height: 20px;
+                border: solid 1px #dfdfdf;
+                margin: 0 -1px;
+                vertical-align: middle;
+                text-align: center;
+            }
+        }
+
+        .action {
+            float: left;
+            a {
+                display: block;
+            }
+        }
+    }
+
+    .cart-title {
+        border: 0;
+        padding: 5px 0;
+
+        .cart-check {
+            padding: 0;
+
+            input {
+                vertical-align: middle;
+                margin-right: 3px;
+            }
+        }
+
+        .cart-product-box {
+            padding: 0;
+            border: 0;
+        }
+
+        .product {
+            padding-left: 104px;
+            width: 446px;
+        }
+    }
+    .cart-total {
+        height: 50px;
+        line-height: 50px;
+        overflow: hidden;
+        margin: 20px 0;
+        background: #f5f5f5;
+       a {
+            margin-left: 20px;
+        }
+        span {
+            margin-right: 20px;
+            float: left;
+        }
+         button {
+            border: 0;
+            background: #c80f1e;
+            color: #fff;
+            height: 50px;
+            padding: 0 25px;
+            font-size: 18px;
+            float: right;
+            border-radius: 0;
+        }
+    }
+}
+
+.jiuji-server {
+    i {
+        width: 16px;
+        height: 16px;
+        float: left;
+        margin-right: 5px;
+    }
+
+    .baoxiu {
+        background: url(../images/baoxiu.png) no-repeat center;
+        background-size: 16px;
+        height: 17px;
+    }
+}
