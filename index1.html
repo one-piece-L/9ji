@@ -8,11 +8,21 @@
     <title>首页</title>
     <link rel="stylesheet" href="./css/base.css">
     <link rel="stylesheet" href="./css/index.css">
+    <link rel="stylesheet" href="./css/hand.css">
     <script src="./js/jquery-3.1.1.js"></script>
     <script src="./js/index.js"></script>
+    <script src="./js/hand.js"></script>
+    <!-- <script src="./js/include.js"></script> -->
+    <script>
+        $(function(){
+            $("#hander").load("./html/head.html")
+        })
+    
+    </script>
 </head>
 
 <body>
+    <div id="hander"></div>
     <!-- 右侧边栏 -->
     <div class="tool-bar">
             <div class="tool-bar-menu">
@@ -435,6 +445,8 @@
             </div>
 
     </div>
+    <div id="footer"></div>
 </body>
 
+   
 </html>

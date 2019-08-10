@@ -22,7 +22,7 @@ if($row == 0)
    $total = $data[0]["price"] * $num;
 
    /* 更新 */
-   $updateSql = "UPDATE cart SET num='$num',total='$total' WHERE ppid=' $ppid'";
+   $updateSql = "UPDATE cart SET num='$num',total='$total' WHERE ppid='$ppid'";
    mysqli_query($con, $updateSql);
 }
 

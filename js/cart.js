@@ -3,20 +3,23 @@ $(function(){
        constructor(){
             this.data;
             this.checkeds=true;
-            this.remove();
+          
        }
        init(){
-        this.getCatInfo()
-        
+        this.getCatInfo();
+        this.remove();
+        this.add();
         
        }
        checkEvent(){
+          var temp = this;
         $(".checkAll").click(function(){
             //  让其他的变成自己的状态
               $("input[type='checkbox']").prop("checked",$(this).is(":checked"));
-        
+              
          })
          $(".cart-box").on("click",".cart-item input:checkbox",function(){
+                temp.updata(this,3);   
                 if($(this).prop("checked")==false){
                     $(".checkAll").prop("checked",false)
                 }else if($(".cart-item input:checked").length == $(".cart-item:not(.cart-title) input:checkbox").length){
@@ -46,7 +49,7 @@ $(function(){
                     this.checkeds =false;
                 }
                 
-             html +=  ` <div class="cart-item">
+             html +=  ` <div class="cart-item" data-ppid="${element.ppid}">
                
                      <div class="cart-check"><label class="checkbox radio-box"><input type="checkbox" ${element.isActive==1?"checked":""}></label></div>
                      <div class="cart-product-box relative">
@@ -65,8 +68,8 @@ $(function(){
                          </div>
                          <div class="unit-price"><b>${element.price}</b></div>
                          <div class="discount">0.00</div>
-                         <div class="count"><a href="javascript:;">-</a> <input type="text"  disabled ="disabled" value="${element.num}"> <a
-                                 href="javascript:;">+</a></div>
+                         <div class="count"><a href="javascript:;" class="minus">-</a> <input type="text"  disabled ="disabled" value="${element.num}"> <a
+                                 href="javascript:;" class="add">+</a></div>
                          <div class="sum"><b class="main-color">${element.total}</b></div>
                          <div class="action"><a  class="move-to-favorate">移入收藏夹</a> <a  class="del"
                                   data-ppid="${element.ppid}">删除</a></div>
@@ -82,16 +85,17 @@ $(function(){
            var res = 0;
            var nums = 0;
            this.data.forEach(function(ele){
+
                if(ele.isActive == 1){
                     res +=  ele.total*1;
                     nums +=  ele.num*1;  
                  }
            })
            $(".totals").html(`￥${res.toFixed(2)}`);
-           $(".nums").html(nums)  ; 
+           $(".nums").html(nums); 
        }
        remove(){
-        // $(".action a:even");
+        
         var temp = this;
         $(".cart-box").on("click",".del",function(){
               var ppid = $(this).data("ppid")
@@ -111,8 +115,54 @@ $(function(){
         })
 
        }
+       updata(temp,isAdd){
+        var ppid  = $(temp).parents(".cart-item").data("ppid");
+        var isActive =$(temp).parents(".cart-item").children(".cart-check").children().children().prop("checked");
+       
+        
+        if(isActive){
+            isActive = 1;
+        }else{
+            isActive = 0;
+        }
+         
+         $.ajax({
+             type: "post",
+             url: "../api/upDataCart.php",
+             data: `ppid=${ppid}&isAdd=${isAdd}&isActive=${isActive}`,
+             dataType: "json",
+             success: (response)=> {
+               this.data = response;
+               this.totalPrices();
+             }
+         });
+       }
        add(){
-        $(".count a[1]")
+           var temp = this;
+        $(".cartparent").on("click",".add",function(){
+            var num = $(this).siblings("input:text").val()*1;
+            var total = $(this).parent().siblings(".unit-price").children().text()*1;
+               num = num +1; 
+               total = total*num
+            $(this).siblings("input:text").val(num); 
+            $(this).parent().siblings(".sum").children().text(total);
+            temp.updata(this,2);
+        })
+        $(".cartparent").on("click",".minus",function(){
+            var num = $(this).siblings("input:text").val()*1;
+            var total = $(this).parent().siblings(".unit-price").children().text()*1;
+            if(num >1){
+                num = num - 1;
+                total = total*num
+                $(this).siblings("input:text").val(num); 
+                $(this).parent().siblings(".sum").children().text(total);
+                temp.updata(this,1);
+            }
+        })
+        $(".cartparent").on("click",".cart-item input:checkbox",function(){
+
+        })
+       
        }
        
     }
